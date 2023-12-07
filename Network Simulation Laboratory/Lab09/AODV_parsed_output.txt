@@ -1,0 +1,8145 @@
+Flow ID: 1
+Source Address: None
+Destination Address: None
+TX Bitrate: 2926.5142606581226 bps
+RX Bitrate: 456.67270146450096 bps
+Delay Mean: 61264246.57534247 ns
+Packet Loss Ratio: 0.7167919799498746
+
+
+Flow ID: 2
+Source Address: None
+Destination Address: None
+TX Bitrate: 2923.5425294679835 bps
+RX Bitrate: 952.4473157669452 bps
+Delay Mean: 52213230.76923077 ns
+Packet Loss Ratio: 0.6441102756892231
+
+
+Flow ID: 3
+Source Address: None
+Destination Address: None
+TX Bitrate: 2913.141197764385 bps
+RX Bitrate: 498.13265489179184 bps
+Delay Mean: 321924096.38554215 ns
+Packet Loss Ratio: 0.7361809045226131
+
+
+Flow ID: 4
+Source Address: None
+Destination Address: None
+TX Bitrate: 2912.3302380147543 bps
+RX Bitrate: 1218.4343309178505 bps
+Delay Mean: 319562874.25149703 ns
+Packet Loss Ratio: 0.5628140703517588
+
+
+Flow ID: 5
+Source Address: None
+Destination Address: None
+TX Bitrate: 2910.420475319927 bps
+RX Bitrate: 7.310507861775777 bps
+Delay Mean: 28743400.0 ns
+Packet Loss Ratio: 0.8969849246231156
+
+
+Flow ID: 6
+Source Address: None
+Destination Address: None
+TX Bitrate: 3.8150495757744354 bps
+RX Bitrate: 3.814519012993205 bps
+Delay Mean: 13973500.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 7
+Source Address: None
+Destination Address: None
+TX Bitrate: 15.260198303097742 bps
+RX Bitrate: 11.444466520961653 bps
+Delay Mean: 2597043.3333333335 ns
+Packet Loss Ratio: 0.25
+
+
+Flow ID: 8
+Source Address: None
+Destination Address: None
+TX Bitrate: 3.8150495757744354 bps
+RX Bitrate: 3.814632692594248 bps
+Delay Mean: 11550800.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 9
+Source Address: None
+Destination Address: None
+TX Bitrate: 2.3840743831207534 bps
+RX Bitrate: 2.3838849378203344 bps
+Delay Mean: 8533830.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 10
+Source Address: None
+Destination Address: None
+TX Bitrate: 2899.4492681716692 bps
+RX Bitrate: 230.8375877750867 bps
+Delay Mean: 421780555.5555556 ns
+Packet Loss Ratio: 0.8790931989924433
+
+
+Flow ID: 11
+Source Address: None
+Destination Address: None
+TX Bitrate: 80.60693211682452 bps
+RX Bitrate: 0 bps
+Delay Mean: 0 ns
+Packet Loss Ratio: 0.5
+
+
+Flow ID: 12
+Source Address: None
+Destination Address: None
+TX Bitrate: 20.94510834531661 bps
+RX Bitrate: 20.94427751167703 bps
+Delay Mean: 1154246.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 13
+Source Address: None
+Destination Address: None
+TX Bitrate: 22.21450885109337 bps
+RX Bitrate: 22.211865499221595 bps
+Delay Mean: 2822483.3333333335 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 14
+Source Address: None
+Destination Address: None
+TX Bitrate: 11.424604551990877 bps
+RX Bitrate: 7.615949861663411 bps
+Delay Mean: 3482680.0 ns
+Packet Loss Ratio: 0.3333333333333333
+
+
+Flow ID: 15
+Source Address: None
+Destination Address: None
+TX Bitrate: 70.29305300738831 bps
+RX Bitrate: 69.6007384276989 bps
+Delay Mean: 56767777.777777776 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 16
+Source Address: None
+Destination Address: None
+TX Bitrate: 30.46561213864234 bps
+RX Bitrate: 0 bps
+Delay Mean: 0 ns
+Packet Loss Ratio: 1.0
+
+
+Flow ID: 17
+Source Address: None
+Destination Address: None
+TX Bitrate: 3.8082015173302923 bps
+RX Bitrate: 0 bps
+Delay Mean: 0 ns
+Packet Loss Ratio: 1.0
+
+
+Flow ID: 18
+Source Address: None
+Destination Address: None
+TX Bitrate: 48.871919472405416 bps
+RX Bitrate: 48.86561954624782 bps
+Delay Mean: 1797138.4615384615 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 19
+Source Address: None
+Destination Address: None
+TX Bitrate: 39.34868408004601 bps
+RX Bitrate: 38.96193160060093 bps
+Delay Mean: 117884166.66666667 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 20
+Source Address: None
+Destination Address: None
+TX Bitrate: 16.977053211955337 bps
+RX Bitrate: 16.976043154053624 bps
+Delay Mean: 5470200.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 21
+Source Address: None
+Destination Address: None
+TX Bitrate: 8.567433835414043 bps
+RX Bitrate: 8.566584371932539 bps
+Delay Mean: 3409966.6666666665 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 22
+Source Address: None
+Destination Address: None
+TX Bitrate: 30.14467460608645 bps
+RX Bitrate: 30.14318010550113 bps
+Delay Mean: 2715633.3333333335 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 23
+Source Address: None
+Destination Address: None
+TX Bitrate: 56.47880061872843 bps
+RX Bitrate: 56.47264110724448 bps
+Delay Mean: 3913046.6666666665 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 24
+Source Address: None
+Destination Address: None
+TX Bitrate: 2893.5630817983756 bps
+RX Bitrate: 1800.7600340106544 bps
+Delay Mean: 722755319.1489362 ns
+Packet Loss Ratio: 0.29219143576826195
+
+
+Flow ID: 25
+Source Address: None
+Destination Address: None
+TX Bitrate: 140.02989891789676 bps
+RX Bitrate: 138.65443245203855 bps
+Delay Mean: 31780540.54054054 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 26
+Source Address: None
+Destination Address: None
+TX Bitrate: 3.80171671270308 bps
+RX Bitrate: 0 bps
+Delay Mean: 0 ns
+Packet Loss Ratio: 1.0
+
+
+Flow ID: 27
+Source Address: None
+Destination Address: None
+TX Bitrate: 25.97839753680438 bps
+RX Bitrate: 25.97736880141767 bps
+Delay Mean: 1040997.1428571428 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 28
+Source Address: None
+Destination Address: None
+TX Bitrate: 6.9698139732889794 bps
+RX Bitrate: 0 bps
+Delay Mean: 0 ns
+Packet Loss Ratio: 1.0
+
+
+Flow ID: 29
+Source Address: None
+Destination Address: None
+TX Bitrate: 33.422102543287366 bps
+RX Bitrate: 29.617311080754686 bps
+Delay Mean: 3307212.5 ns
+Packet Loss Ratio: 0.1111111111111111
+
+
+Flow ID: 30
+Source Address: None
+Destination Address: None
+TX Bitrate: 30.41252932848898 bps
+RX Bitrate: 30.410421905007027 bps
+Delay Mean: 9900837.5 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 31
+Source Address: None
+Destination Address: None
+TX Bitrate: 3.801528531263612 bps
+RX Bitrate: 3.8013027381258784 bps
+Delay Mean: 5576200.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 32
+Source Address: None
+Destination Address: None
+TX Bitrate: 211.76424003642916 bps
+RX Bitrate: 211.7495669388765 bps
+Delay Mean: 1630348.2758620689 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 33
+Source Address: None
+Destination Address: None
+TX Bitrate: 29.776871448652717 bps
+RX Bitrate: 26.608592357948922 bps
+Delay Mean: 7436728.571428572 ns
+Packet Loss Ratio: 0.125
+
+
+Flow ID: 34
+Source Address: None
+Destination Address: None
+TX Bitrate: 2882.07897000801 bps
+RX Bitrate: 2503.4756212116718 bps
+Delay Mean: 3323779.069767442 ns
+Packet Loss Ratio: 0.12878787878787878
+
+
+Flow ID: 35
+Source Address: None
+Destination Address: None
+TX Bitrate: 2879.8292591348336 bps
+RX Bitrate: 785.41688534341 bps
+Delay Mean: 330386065.57377046 ns
+Packet Loss Ratio: 0.6060606060606061
+
+
+Flow ID: 36
+Source Address: None
+Destination Address: None
+TX Bitrate: 2878.805238932459 bps
+RX Bitrate: 1575.1553263503258 bps
+Delay Mean: 67157268.72246696 ns
+Packet Loss Ratio: 0.3560606060606061
+
+
+Flow ID: 37
+Source Address: None
+Destination Address: None
+TX Bitrate: 3.7858621709553386 bps
+RX Bitrate: 3.7857875226752897 bps
+Delay Mean: 1807910.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 38
+Source Address: None
+Destination Address: None
+TX Bitrate: 2.3661405290295865 bps
+RX Bitrate: 2.36607054833685 bps
+Delay Mean: 3005980.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 39
+Source Address: None
+Destination Address: None
+TX Bitrate: 43.53526889140829 bps
+RX Bitrate: 28.390887313808026 bps
+Delay Mean: 5690225.0 ns
+Packet Loss Ratio: 0.3333333333333333
+
+
+Flow ID: 40
+Source Address: None
+Destination Address: None
+TX Bitrate: 13.879989353417256 bps
+RX Bitrate: 10.094040179011493 bps
+Delay Mean: 1797680.0 ns
+Packet Loss Ratio: 0.25
+
+
+Flow ID: 41
+Source Address: None
+Destination Address: None
+TX Bitrate: 6.127378778059271 bps
+RX Bitrate: 6.127378778059271 bps
+Delay Mean: 696810.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 42
+Source Address: None
+Destination Address: None
+TX Bitrate: 59.542629341240925 bps
+RX Bitrate: 59.54029082839946 bps
+Delay Mean: 1481335.294117647 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 43
+Source Address: None
+Destination Address: None
+TX Bitrate: 6.912600767848551 bps
+RX Bitrate: 6.912261409158747 bps
+Delay Mean: 2655080.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 44
+Source Address: None
+Destination Address: None
+TX Bitrate: 54.26972129910106 bps
+RX Bitrate: 54.243133873543734 bps
+Delay Mean: 10789800.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 45
+Source Address: None
+Destination Address: None
+TX Bitrate: 3.723058725434114 bps
+RX Bitrate: 0 bps
+Delay Mean: 0 ns
+Packet Loss Ratio: 1.0
+
+
+Flow ID: 46
+Source Address: None
+Destination Address: None
+TX Bitrate: 40.563899665808776 bps
+RX Bitrate: 40.560394081101585 bps
+Delay Mean: 7317809.090909091 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 47
+Source Address: None
+Destination Address: None
+TX Bitrate: 54.39250182460723 bps
+RX Bitrate: 50.700005761364295 bps
+Delay Mean: 2520780.0 ns
+Packet Loss Ratio: 0.0625
+
+
+Flow ID: 48
+Source Address: None
+Destination Address: None
+TX Bitrate: 27.503553182499136 bps
+RX Bitrate: 27.240129733020098 bps
+Delay Mean: 159868750.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 49
+Source Address: None
+Destination Address: None
+TX Bitrate: 10.448277186647715 bps
+RX Bitrate: 10.348402560468722 bps
+Delay Mean: 419156666.6666667 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 50
+Source Address: None
+Destination Address: None
+TX Bitrate: 7.375254484692506 bps
+RX Bitrate: 7.375183659358705 bps
+Delay Mean: 1741465.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 51
+Source Address: None
+Destination Address: None
+TX Bitrate: 149.34890331502322 bps
+RX Bitrate: 149.33886440238527 bps
+Delay Mean: 708028.5714285715 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 52
+Source Address: None
+Destination Address: None
+TX Bitrate: 26.118184786157364 bps
+RX Bitrate: 26.112668484313197 bps
+Delay Mean: 7302337.5 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 53
+Source Address: None
+Destination Address: None
+TX Bitrate: 20.738920039941622 bps
+RX Bitrate: 0 bps
+Delay Mean: 0 ns
+Packet Loss Ratio: 1.0
+
+
+Flow ID: 54
+Source Address: None
+Destination Address: None
+TX Bitrate: 3.6869191182118444 bps
+RX Bitrate: 3.686777526018664 bps
+Delay Mean: 4239670.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 55
+Source Address: None
+Destination Address: None
+TX Bitrate: 50.23427298563638 bps
+RX Bitrate: 46.54646004954203 bps
+Delay Mean: 2422615.3846153845 ns
+Packet Loss Ratio: 0.07142857142857142
+
+
+Flow ID: 56
+Source Address: None
+Destination Address: None
+TX Bitrate: 7.373838236423689 bps
+RX Bitrate: 0 bps
+Delay Mean: 0 ns
+Packet Loss Ratio: 1.0
+
+
+Flow ID: 57
+Source Address: None
+Destination Address: None
+TX Bitrate: 11.021392216141747 bps
+RX Bitrate: 11.02033788049821 bps
+Delay Mean: 9777666.666666666 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 58
+Source Address: None
+Destination Address: None
+TX Bitrate: 20.203566235555215 bps
+RX Bitrate: 20.201826964465063 bps
+Delay Mean: 1760816.6666666667 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 59
+Source Address: None
+Destination Address: None
+TX Bitrate: 17.753120665742024 bps
+RX Bitrate: 17.752441438942505 bps
+Delay Mean: 1140012.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 60
+Source Address: None
+Destination Address: None
+TX Bitrate: 17.752441438942505 bps
+RX Bitrate: 17.75159247852784 bps
+Delay Mean: 2473100.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 61
+Source Address: None
+Destination Address: None
+TX Bitrate: 18.91126764590939 bps
+RX Bitrate: 11.589561769695583 bps
+Delay Mean: 4598233.333333333 ns
+Packet Loss Ratio: 0.4
+
+
+Flow ID: 62
+Source Address: None
+Destination Address: None
+TX Bitrate: 7.320490701642345 bps
+RX Bitrate: 7.251234503790847 bps
+Delay Mean: 501605000.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 63
+Source Address: None
+Destination Address: None
+TX Bitrate: 3.6602453508211723 bps
+RX Bitrate: 3.6598964935522913 bps
+Delay Mean: 10223300.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 64
+Source Address: None
+Destination Address: None
+TX Bitrate: 52.157999084947384 bps
+RX Bitrate: 41.174227983225315 bps
+Delay Mean: 1618441.6666666667 ns
+Packet Loss Ratio: 0.2
+
+
+Flow ID: 65
+Source Address: None
+Destination Address: None
+TX Bitrate: 17.690174137651667 bps
+RX Bitrate: 0 bps
+Delay Mean: 0 ns
+Packet Loss Ratio: 1.0
+
+
+Flow ID: 66
+Source Address: None
+Destination Address: None
+TX Bitrate: 39.04038430378299 bps
+RX Bitrate: 35.98829617910277 bps
+Delay Mean: 1865790.0 ns
+Packet Loss Ratio: 0.09090909090909091
+
+
+Flow ID: 67
+Source Address: None
+Destination Address: None
+TX Bitrate: 10.370102080692357 bps
+RX Bitrate: 0 bps
+Delay Mean: 0 ns
+Packet Loss Ratio: 1.0
+
+
+Flow ID: 68
+Source Address: None
+Destination Address: None
+TX Bitrate: 10.370102080692357 bps
+RX Bitrate: 10.36901494358036 bps
+Delay Mean: 4342733.333333333 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 69
+Source Address: None
+Destination Address: None
+TX Bitrate: 64.50813500195393 bps
+RX Bitrate: 63.897884232290714 bps
+Delay Mean: 58630555.55555555 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 70
+Source Address: None
+Destination Address: None
+TX Bitrate: 56.73055844143466 bps
+RX Bitrate: 52.07680580626456 bps
+Delay Mean: 401647333.3333333 ns
+Packet Loss Ratio: 0.0625
+
+
+Flow ID: 71
+Source Address: None
+Destination Address: None
+TX Bitrate: 3.6599662596860436 bps
+RX Bitrate: 0 bps
+Delay Mean: 0 ns
+Packet Loss Ratio: 1.0
+
+
+Flow ID: 72
+Source Address: None
+Destination Address: None
+TX Bitrate: 9.607411431675864 bps
+RX Bitrate: 9.606587374199451 bps
+Delay Mean: 4149533.3333333335 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 73
+Source Address: None
+Destination Address: None
+TX Bitrate: 4.565471717853848 bps
+RX Bitrate: 4.565167769915544 bps
+Delay Mean: 7199200.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 74
+Source Address: None
+Destination Address: None
+TX Bitrate: 38.52218330138888 bps
+RX Bitrate: 34.895248166016785 bps
+Delay Mean: 1520890.0 ns
+Packet Loss Ratio: 0.09090909090909091
+
+
+Flow ID: 75
+Source Address: None
+Destination Address: None
+TX Bitrate: 3.6254118713356434 bps
+RX Bitrate: 3.625206514042955 bps
+Delay Mean: 5576120.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 76
+Source Address: None
+Destination Address: None
+TX Bitrate: 50.13780345074943 bps
+RX Bitrate: 48.7701870197119 bps
+Delay Mean: 278798571.4285714 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 77
+Source Address: None
+Destination Address: None
+TX Bitrate: 3.6244195265601995 bps
+RX Bitrate: 3.624214281669404 bps
+Delay Mean: 5750680.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 78
+Source Address: None
+Destination Address: None
+TX Bitrate: 7.248839053120399 bps
+RX Bitrate: 7.248565388100272 bps
+Delay Mean: 1879960.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 79
+Source Address: None
+Destination Address: None
+TX Bitrate: 14.497678106240798 bps
+RX Bitrate: 0 bps
+Delay Mean: 0 ns
+Packet Loss Ratio: 1.0
+
+
+Flow ID: 80
+Source Address: None
+Destination Address: None
+TX Bitrate: 17.51802771170763 bps
+RX Bitrate: 17.51637441250307 bps
+Delay Mean: 5964880.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 81
+Source Address: None
+Destination Address: None
+TX Bitrate: 16.913957790614266 bps
+RX Bitrate: 3.4931637693420297 bps
+Delay Mean: 1009880000.0 ns
+Packet Loss Ratio: 0.8
+
+
+Flow ID: 82
+Source Address: None
+Destination Address: None
+TX Bitrate: 32.0144971307762 bps
+RX Bitrate: 32.01238214781189 bps
+Delay Mean: 2284522.222222222 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 83
+Source Address: None
+Destination Address: None
+TX Bitrate: 21.140252361762567 bps
+RX Bitrate: 0 bps
+Delay Mean: 0 ns
+Packet Loss Ratio: 1.0
+
+
+Flow ID: 84
+Source Address: None
+Destination Address: None
+TX Bitrate: 26.273321819880525 bps
+RX Bitrate: 26.273321819880525 bps
+Delay Mean: 1587862.5 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 85
+Source Address: None
+Destination Address: None
+TX Bitrate: 14.495625831658222 bps
+RX Bitrate: 14.495489034011552 bps
+Delay Mean: 1132537.5 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 86
+Source Address: None
+Destination Address: None
+TX Bitrate: 155.82650711562417 bps
+RX Bitrate: 152.18827259516485 bps
+Delay Mean: 20316400.0 ns
+Packet Loss Ratio: 0.021739130434782608
+
+
+Flow ID: 87
+Source Address: None
+Destination Address: None
+TX Bitrate: 3.623496107572541 bps
+RX Bitrate: 3.6232909672488467 bps
+Delay Mean: 5073710.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 88
+Source Address: None
+Destination Address: None
+TX Bitrate: 3.6232909672488467 bps
+RX Bitrate: 3.6232225923025387 bps
+Delay Mean: 2136340.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 89
+Source Address: None
+Destination Address: None
+TX Bitrate: 37.28899917911363 bps
+RX Bitrate: 37.28864734299517 bps
+Delay Mean: 1606345.4545454546 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 90
+Source Address: None
+Destination Address: None
+TX Bitrate: 28.379500339648274 bps
+RX Bitrate: 28.37923259083147 bps
+Delay Mean: 1750700.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 91
+Source Address: None
+Destination Address: None
+TX Bitrate: 3.6228465762212956 bps
+RX Bitrate: 3.6227782180459642 bps
+Delay Mean: 2596130.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 92
+Source Address: None
+Destination Address: None
+TX Bitrate: 24.60470206422884 bps
+RX Bitrate: 24.60214891469431 bps
+Delay Mean: 2398728.5714285714 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 93
+Source Address: None
+Destination Address: None
+TX Bitrate: 10.263473166866339 bps
+RX Bitrate: 6.640945580092256 bps
+Delay Mean: 1093575.0 ns
+Packet Loss Ratio: 0.3333333333333333
+
+
+Flow ID: 94
+Source Address: None
+Destination Address: None
+TX Bitrate: 10.26327953286985 bps
+RX Bitrate: 10.263085906179548 bps
+Delay Mean: 1217200.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 95
+Source Address: None
+Destination Address: None
+TX Bitrate: 14.489062455782891 bps
+RX Bitrate: 14.488105793355846 bps
+Delay Mean: 2060282.5 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 96
+Source Address: None
+Destination Address: None
+TX Bitrate: 20.351855142678104 bps
+RX Bitrate: 14.364940566928839 bps
+Delay Mean: 7072425.0 ns
+Packet Loss Ratio: 0.3333333333333333
+
+
+Flow ID: 97
+Source Address: None
+Destination Address: None
+TX Bitrate: 13.766401376640136 bps
+RX Bitrate: 13.766143889870849 bps
+Delay Mean: 1199315.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 98
+Source Address: None
+Destination Address: None
+TX Bitrate: 10.667358069504505 bps
+RX Bitrate: 10.667358069504505 bps
+Delay Mean: 6778466.666666667 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 99
+Source Address: None
+Destination Address: None
+TX Bitrate: 78.66448154217939 bps
+RX Bitrate: 78.66448154217939 bps
+Delay Mean: 3397747.8260869565 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 100
+Source Address: None
+Destination Address: None
+TX Bitrate: 3.525329122523548 bps
+RX Bitrate: 3.4931955461756785 bps
+Delay Mean: 1001700000.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 101
+Source Address: None
+Destination Address: None
+TX Bitrate: 7.05020517198645 bps
+RX Bitrate: 3.5250378666177076 bps
+Delay Mean: 1376180.0 ns
+Packet Loss Ratio: 0.5
+
+
+Flow ID: 102
+Source Address: None
+Destination Address: None
+TX Bitrate: 7.637722269651987 bps
+RX Bitrate: 3.4929731204802836 bps
+Delay Mean: 1001580000.0 ns
+Packet Loss Ratio: 0.5
+
+
+Flow ID: 103
+Source Address: None
+Destination Address: None
+TX Bitrate: 5.728186533253775 bps
+RX Bitrate: 5.727976206868064 bps
+Delay Mean: 4690655.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 104
+Source Address: None
+Destination Address: None
+TX Bitrate: 20.17836230970183 bps
+RX Bitrate: 19.99803590718769 bps
+Delay Mean: 167470000.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 105
+Source Address: None
+Destination Address: None
+TX Bitrate: 3.459147824520313 bps
+RX Bitrate: 3.458929713467307 bps
+Delay Mean: 7102920.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 106
+Source Address: None
+Destination Address: None
+TX Bitrate: 43.0952166471489 bps
+RX Bitrate: 40.211868987136526 bps
+Delay Mean: 1088650.0 ns
+Packet Loss Ratio: 0.07692307692307693
+
+
+Flow ID: 107
+Source Address: None
+Destination Address: None
+TX Bitrate: 37.47173856256249 bps
+RX Bitrate: 37.47072599531616 bps
+Delay Mean: 2135218.1818181816 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 108
+Source Address: None
+Destination Address: None
+TX Bitrate: 33.14492870090095 bps
+RX Bitrate: 33.143448990160536 bps
+Delay Mean: 1080790.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 109
+Source Address: None
+Destination Address: None
+TX Bitrate: 64.00400025001562 bps
+RX Bitrate: 64.00400025001562 bps
+Delay Mean: 1221180.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 110
+Source Address: None
+Destination Address: None
+TX Bitrate: 33.715790883521585 bps
+RX Bitrate: 33.71548983892282 bps
+Delay Mean: 3131190.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 111
+Source Address: None
+Destination Address: None
+TX Bitrate: 13.714530616618154 bps
+RX Bitrate: 6.856775529882328 bps
+Delay Mean: 3826785.0 ns
+Packet Loss Ratio: 0.5
+
+
+Flow ID: 112
+Source Address: None
+Destination Address: None
+TX Bitrate: 3.4263381902866885 bps
+RX Bitrate: 3.425910230445993 bps
+Delay Mean: 14019000.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 113
+Source Address: None
+Destination Address: None
+TX Bitrate: 57.10563650477814 bps
+RX Bitrate: 46.82578630381441 bps
+Delay Mean: 887171.4285714285 ns
+Packet Loss Ratio: 0.17647058823529413
+
+
+Flow ID: 114
+Source Address: None
+Destination Address: None
+TX Bitrate: 6.852492951211678 bps
+RX Bitrate: 3.3683915053376725 bps
+Delay Mean: 1924610000.0 ns
+Packet Loss Ratio: 0.5
+
+
+Flow ID: 115
+Source Address: None
+Destination Address: None
+TX Bitrate: 33.12038259752311 bps
+RX Bitrate: 0 bps
+Delay Mean: 0 ns
+Packet Loss Ratio: 1.0
+
+
+Flow ID: 116
+Source Address: None
+Destination Address: None
+TX Bitrate: 3.426246475605839 bps
+RX Bitrate: 0 bps
+Delay Mean: 0 ns
+Packet Loss Ratio: 1.0
+
+
+Flow ID: 117
+Source Address: None
+Destination Address: None
+TX Bitrate: 194.5805116125521 bps
+RX Bitrate: 194.5683594447022 bps
+Delay Mean: 1484623.8095238095 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 118
+Source Address: None
+Destination Address: None
+TX Bitrate: 13.704863620546588 bps
+RX Bitrate: 13.704496788008566 bps
+Delay Mean: 2571850.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 119
+Source Address: None
+Destination Address: None
+TX Bitrate: 40.826522964919164 bps
+RX Bitrate: 40.82360917817507 bps
+Delay Mean: 2693076.923076923 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 120
+Source Address: None
+Destination Address: None
+TX Bitrate: 23.411013168694907 bps
+RX Bitrate: 23.410177717507676 bps
+Delay Mean: 3504085.714285714 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 121
+Source Address: None
+Destination Address: None
+TX Bitrate: 15.844834815812716 bps
+RX Bitrate: 15.844269388264893 bps
+Delay Mean: 4323960.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 122
+Source Address: None
+Destination Address: None
+TX Bitrate: 6.851820460891986 bps
+RX Bitrate: 6.851270339708821 bps
+Delay Mean: 9038000.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 123
+Source Address: None
+Destination Address: None
+TX Bitrate: 17.12817584927205 bps
+RX Bitrate: 17.12725910331662 bps
+Delay Mean: 2520680.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 124
+Source Address: None
+Destination Address: None
+TX Bitrate: 55.806319244973324 bps
+RX Bitrate: 52.94988671435963 bps
+Delay Mean: 3220725.0 ns
+Packet Loss Ratio: 0.058823529411764705
+
+
+Flow ID: 125
+Source Address: None
+Destination Address: None
+TX Bitrate: 30.2290348453792 bps
+RX Bitrate: 29.961488181464862 bps
+Delay Mean: 111742222.22222222 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 126
+Source Address: None
+Destination Address: None
+TX Bitrate: 12.547901256572498 bps
+RX Bitrate: 12.547565790059975 bps
+Delay Mean: 1848800.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 127
+Source Address: None
+Destination Address: None
+TX Bitrate: 13.688619552624544 bps
+RX Bitrate: 13.687277782233272 bps
+Delay Mean: 4573700.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 128
+Source Address: None
+Destination Address: None
+TX Bitrate: 43.77506461099724 bps
+RX Bitrate: 35.21716658646563 bps
+Delay Mean: 1423300.0 ns
+Packet Loss Ratio: 0.21428571428571427
+
+
+Flow ID: 129
+Source Address: None
+Destination Address: None
+TX Bitrate: 48.907861083138016 bps
+RX Bitrate: 48.9069893862565 bps
+Delay Mean: 3778473.3333333335 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 130
+Source Address: None
+Destination Address: None
+TX Bitrate: 48.478367419685426 bps
+RX Bitrate: 48.47447961220416 bps
+Delay Mean: 2648400.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 131
+Source Address: None
+Destination Address: None
+TX Bitrate: 30.798021654858974 bps
+RX Bitrate: 30.795002940495074 bps
+Delay Mean: 6300688.888888889 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 132
+Source Address: None
+Destination Address: None
+TX Bitrate: 3.4220024060954417 bps
+RX Bitrate: 3.421941417075844 bps
+Delay Mean: 2233990.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 133
+Source Address: None
+Destination Address: None
+TX Bitrate: 56.46303970057479 bps
+RX Bitrate: 45.94722373006006 bps
+Delay Mean: 230439285.7142857 ns
+Packet Loss Ratio: 0.17647058823529413
+
+
+Flow ID: 134
+Source Address: None
+Destination Address: None
+TX Bitrate: 5.560654802748247 bps
+RX Bitrate: 2.1386180962734582 bps
+Delay Mean: 4694920.0 ns
+Packet Loss Ratio: 0.5
+
+
+Flow ID: 135
+Source Address: None
+Destination Address: None
+TX Bitrate: 99.23630109519948 bps
+RX Bitrate: 99.22657447339346 bps
+Delay Mean: 2821870.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 136
+Source Address: None
+Destination Address: None
+TX Bitrate: 17.964071856287426 bps
+RX Bitrate: 17.963591649068405 bps
+Delay Mean: 4940716.666666667 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 137
+Source Address: None
+Destination Address: None
+TX Bitrate: 60.271435186834324 bps
+RX Bitrate: 53.428792776427215 bps
+Delay Mean: 2148843.75 ns
+Packet Loss Ratio: 0.1111111111111111
+
+
+Flow ID: 138
+Source Address: None
+Destination Address: None
+TX Bitrate: 6.839311794250704 bps
+RX Bitrate: 6.838215653103019 bps
+Delay Mean: 13996500.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 139
+Source Address: None
+Destination Address: None
+TX Bitrate: 36.33352034409981 bps
+RX Bitrate: 36.332873235673894 bps
+Delay Mean: 2917609.090909091 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 140
+Source Address: None
+Destination Address: None
+TX Bitrate: 56.423819828484405 bps
+RX Bitrate: 56.423819828484405 bps
+Delay Mean: 1393994.1176470588 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 141
+Source Address: None
+Destination Address: None
+TX Bitrate: 114.98490555956292 bps
+RX Bitrate: 114.97569054869903 bps
+Delay Mean: 1995514.2857142857 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 142
+Source Address: None
+Destination Address: None
+TX Bitrate: 20.517204530882665 bps
+RX Bitrate: 17.097670442402222 bps
+Delay Mean: 2640680.0 ns
+Packet Loss Ratio: 0.16666666666666666
+
+
+Flow ID: 143
+Source Address: None
+Destination Address: None
+TX Bitrate: 104.7232314597136 bps
+RX Bitrate: 104.7139066479084 bps
+Delay Mean: 16095806.451612903 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 144
+Source Address: None
+Destination Address: None
+TX Bitrate: 6.839068176960889 bps
+RX Bitrate: 6.838641888462464 bps
+Delay Mean: 3642885.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 145
+Source Address: None
+Destination Address: None
+TX Bitrate: 48.443399586806294 bps
+RX Bitrate: 48.44081138359067 bps
+Delay Mean: 3898542.8571428573 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 146
+Source Address: None
+Destination Address: None
+TX Bitrate: 33.437234344006804 bps
+RX Bitrate: 33.43486576468088 bps
+Delay Mean: 1114410.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 147
+Source Address: None
+Destination Address: None
+TX Bitrate: 43.07169169736469 bps
+RX Bitrate: 43.06749661321599 bps
+Delay Mean: 36755384.615384616 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 148
+Source Address: None
+Destination Address: None
+TX Bitrate: 21.960506508456564 bps
+RX Bitrate: 18.550314187096205 bps
+Delay Mean: 67946166.66666667 ns
+Packet Loss Ratio: 0.14285714285714285
+
+
+Flow ID: 149
+Source Address: None
+Destination Address: None
+TX Bitrate: 23.51774456329248 bps
+RX Bitrate: 17.982619161401086 bps
+Delay Mean: 20779833.333333332 ns
+Packet Loss Ratio: 0.25
+
+
+Flow ID: 150
+Source Address: None
+Destination Address: None
+TX Bitrate: 71.40327264999645 bps
+RX Bitrate: 67.96460176991151 bps
+Delay Mean: 4430080.0 ns
+Packet Loss Ratio: 0.047619047619047616
+
+
+Flow ID: 151
+Source Address: None
+Destination Address: None
+TX Bitrate: 42.21822786155113 bps
+RX Bitrate: 40.09066440005667 bps
+Delay Mean: 2451033.3333333335 ns
+Packet Loss Ratio: 0.07692307692307693
+
+
+Flow ID: 152
+Source Address: None
+Destination Address: None
+TX Bitrate: 69.56090563765639 bps
+RX Bitrate: 69.55043646086018 bps
+Delay Mean: 4061904.761904762 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 153
+Source Address: None
+Destination Address: None
+TX Bitrate: 13.033815312962094 bps
+RX Bitrate: 13.032545950348833 bps
+Delay Mean: 2914150.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 154
+Source Address: None
+Destination Address: None
+TX Bitrate: 130.76085320394196 bps
+RX Bitrate: 130.3522724263635 bps
+Delay Mean: 9988902.43902439 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 155
+Source Address: None
+Destination Address: None
+TX Bitrate: 3.4000053125083007 bps
+RX Bitrate: 3.389321870835062 bps
+Delay Mean: 355492000.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 156
+Source Address: None
+Destination Address: None
+TX Bitrate: 23.799405014874626 bps
+RX Bitrate: 23.798772875773594 bps
+Delay Mean: 3869400.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 157
+Source Address: None
+Destination Address: None
+TX Bitrate: 12.323600757830622 bps
+RX Bitrate: 12.322837085365746 bps
+Delay Mean: 9061325.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 158
+Source Address: None
+Destination Address: None
+TX Bitrate: 6.23185326818214 bps
+RX Bitrate: 6.218092529456447 bps
+Delay Mean: 215024000.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 159
+Source Address: None
+Destination Address: None
+TX Bitrate: 30.592734225621413 bps
+RX Bitrate: 30.589484864577802 bps
+Delay Mean: 1845577.7777777778 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 160
+Source Address: None
+Destination Address: None
+TX Bitrate: 57.36137667304015 bps
+RX Bitrate: 52.34352204705612 bps
+Delay Mean: 9109500.0 ns
+Packet Loss Ratio: 0.1
+
+
+Flow ID: 161
+Source Address: None
+Destination Address: None
+TX Bitrate: 3.3991926917357125 bps
+RX Bitrate: 3.398891819646303 bps
+Delay Mean: 9270490.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 162
+Source Address: None
+Destination Address: None
+TX Bitrate: 54.38467598452728 bps
+RX Bitrate: 54.37938115131346 bps
+Delay Mean: 2025181.25 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 163
+Source Address: None
+Destination Address: None
+TX Bitrate: 36.25099566333304 bps
+RX Bitrate: 32.272904207509114 bps
+Delay Mean: 5181300.0 ns
+Packet Loss Ratio: 0.09090909090909091
+
+
+Flow ID: 164
+Source Address: None
+Destination Address: None
+TX Bitrate: 32.1421618081736 bps
+RX Bitrate: 32.126240557609634 bps
+Delay Mean: 9483830.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 165
+Source Address: None
+Destination Address: None
+TX Bitrate: 34.82939260937279 bps
+RX Bitrate: 34.825694567333215 bps
+Delay Mean: 4483400.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 166
+Source Address: None
+Destination Address: None
+TX Bitrate: 15.857284440039644 bps
+RX Bitrate: 13.024704466624193 bps
+Delay Mean: 3323275.0 ns
+Packet Loss Ratio: 0.2
+
+
+Flow ID: 167
+Source Address: None
+Destination Address: None
+TX Bitrate: 9.76913343185056 bps
+RX Bitrate: 9.767923343036374 bps
+Delay Mean: 8584075.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 168
+Source Address: None
+Destination Address: None
+TX Bitrate: 29.30740029555168 bps
+RX Bitrate: 29.30299223187585 bps
+Delay Mean: 5280144.444444444 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 169
+Source Address: None
+Destination Address: None
+TX Bitrate: 32.275759559747314 bps
+RX Bitrate: 32.272904207509114 bps
+Delay Mean: 4627340.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 170
+Source Address: None
+Destination Address: None
+TX Bitrate: 37.368625924484235 bps
+RX Bitrate: 37.367303609341825 bps
+Delay Mean: 1994663.6363636365 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 171
+Source Address: None
+Destination Address: None
+TX Bitrate: 26.610991188647866 bps
+RX Bitrate: 26.610049539985845 bps
+Delay Mean: 999005.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 172
+Source Address: None
+Destination Address: None
+TX Bitrate: 49.256028732683426 bps
+RX Bitrate: 40.19567082717808 bps
+Delay Mean: 1361308.3333333333 ns
+Packet Loss Ratio: 0.14285714285714285
+
+
+Flow ID: 173
+Source Address: None
+Destination Address: None
+TX Bitrate: 70.73448925277853 bps
+RX Bitrate: 70.73136228603762 bps
+Delay Mean: 7457954.545454546 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 174
+Source Address: None
+Destination Address: None
+TX Bitrate: 18.513938451754232 bps
+RX Bitrate: 18.511812762199163 bps
+Delay Mean: 4070050.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 175
+Source Address: None
+Destination Address: None
+TX Bitrate: 2.1198042714056067 bps
+RX Bitrate: 2.1057249396797544 bps
+Delay Mean: 756654000.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 176
+Source Address: None
+Destination Address: None
+TX Bitrate: 20.759596458864753 bps
+RX Bitrate: 20.759230002030026 bps
+Delay Mean: 1142758.5714285714 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 177
+Source Address: None
+Destination Address: None
+TX Bitrate: 40.10520555683041 bps
+RX Bitrate: 36.71344100255935 bps
+Delay Mean: 1742500.0 ns
+Packet Loss Ratio: 0.08333333333333333
+
+
+Flow ID: 178
+Source Address: None
+Destination Address: None
+TX Bitrate: 32.6199196858038 bps
+RX Bitrate: 32.61761669005322 bps
+Delay Mean: 2869880.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 179
+Source Address: None
+Destination Address: None
+TX Bitrate: 8.33142110744356 bps
+RX Bitrate: 8.330391810801272 bps
+Delay Mean: 6288566.666666667 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 180
+Source Address: None
+Destination Address: None
+TX Bitrate: 33.89052653875346 bps
+RX Bitrate: 33.58874776949722 bps
+Delay Mean: 205067000.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 181
+Source Address: None
+Destination Address: None
+TX Bitrate: 2.118101827745369 bps
+RX Bitrate: 2.099315098449131 bps
+Delay Mean: 1014240000.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 182
+Source Address: None
+Destination Address: None
+TX Bitrate: 6.777866031241726 bps
+RX Bitrate: 6.7183372115401445 bps
+Delay Mean: 951115000.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 183
+Source Address: None
+Destination Address: None
+TX Bitrate: 96.49517259621743 bps
+RX Bitrate: 96.4450006168814 bps
+Delay Mean: 3599517.2413793104 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 184
+Source Address: None
+Destination Address: None
+TX Bitrate: 3.3857955296918396 bps
+RX Bitrate: 0 bps
+Delay Mean: 0 ns
+Packet Loss Ratio: 1.0
+
+
+Flow ID: 185
+Source Address: None
+Destination Address: None
+TX Bitrate: 23.700568707842876 bps
+RX Bitrate: 20.313161235717306 bps
+Delay Mean: 2130333.3333333335 ns
+Packet Loss Ratio: 0.14285714285714285
+
+
+Flow ID: 186
+Source Address: None
+Destination Address: None
+TX Bitrate: 109.75620508751047 bps
+RX Bitrate: 106.09838245457489 bps
+Delay Mean: 40553030.303030305 ns
+Packet Loss Ratio: 0.029411764705882353
+
+
+Flow ID: 187
+Source Address: None
+Destination Address: None
+TX Bitrate: 49.65833443548031 bps
+RX Bitrate: 46.42626160219545 bps
+Delay Mean: 79595714.28571428 ns
+Packet Loss Ratio: 0.06666666666666667
+
+
+Flow ID: 188
+Source Address: None
+Destination Address: None
+TX Bitrate: 3.3857955296918396 bps
+RX Bitrate: 3.355997972417892 bps
+Delay Mean: 1006940000.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 189
+Source Address: None
+Destination Address: None
+TX Bitrate: 26.52159729141134 bps
+RX Bitrate: 26.33491214400154 bps
+Delay Mean: 198922500.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 190
+Source Address: None
+Destination Address: None
+TX Bitrate: 6.77147164887098 bps
+RX Bitrate: 6.770934353675524 bps
+Delay Mean: 4876020.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 191
+Source Address: None
+Destination Address: None
+TX Bitrate: 13.54294329774196 bps
+RX Bitrate: 13.542465680958552 bps
+Delay Mean: 2125330.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 192
+Source Address: None
+Destination Address: None
+TX Bitrate: 51.914158246486444 bps
+RX Bitrate: 41.950707918196116 bps
+Delay Mean: 227783076.92307693 ns
+Packet Loss Ratio: 0.1875
+
+
+Flow ID: 193
+Source Address: None
+Destination Address: None
+TX Bitrate: 44.01417764376025 bps
+RX Bitrate: 43.673012318029116 bps
+Delay Mean: 204301538.46153846 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 194
+Source Address: None
+Destination Address: None
+TX Bitrate: 27.08278233271621 bps
+RX Bitrate: 27.081588574954818 bps
+Delay Mean: 2770212.5 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 195
+Source Address: None
+Destination Address: None
+TX Bitrate: 41.75188659284858 bps
+RX Bitrate: 41.749310201958764 bps
+Delay Mean: 3616423.076923077 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 196
+Source Address: None
+Destination Address: None
+TX Bitrate: 29.338646261262056 bps
+RX Bitrate: 29.33787035975916 bps
+Delay Mean: 3787222.222222222 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 197
+Source Address: None
+Destination Address: None
+TX Bitrate: 21.852565225004376 bps
+RX Bitrate: 10.085092971950836 bps
+Delay Mean: 12484566.666666666 ns
+Packet Loss Ratio: 0.5714285714285714
+
+
+Flow ID: 198
+Source Address: None
+Destination Address: None
+TX Bitrate: 63.73609056128032 bps
+RX Bitrate: 36.52048636122996 bps
+Delay Mean: 245527500.0 ns
+Packet Loss Ratio: 0.4
+
+
+Flow ID: 199
+Source Address: None
+Destination Address: None
+TX Bitrate: 125.92248903518372 bps
+RX Bitrate: 120.31444228513404 bps
+Delay Mean: 1547883.7837837837 ns
+Packet Loss Ratio: 0.05128205128205128
+
+
+Flow ID: 200
+Source Address: None
+Destination Address: None
+TX Bitrate: 91.85343356465883 bps
+RX Bitrate: 91.84941456499291 bps
+Delay Mean: 3504153.5714285714 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 201
+Source Address: None
+Destination Address: None
+TX Bitrate: 56.42578364282339 bps
+RX Bitrate: 56.42183370959556 bps
+Delay Mean: 1311461.111111111 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 202
+Source Address: None
+Destination Address: None
+TX Bitrate: 100.67031870766753 bps
+RX Bitrate: 97.86574961278976 bps
+Delay Mean: 1042390.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 203
+Source Address: None
+Destination Address: None
+TX Bitrate: 68.18221592201746 bps
+RX Bitrate: 68.17684682083454 bps
+Delay Mean: 2610676.1904761903 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 204
+Source Address: None
+Destination Address: None
+TX Bitrate: 6.720218407098231 bps
+RX Bitrate: 6.71980680555434 bps
+Delay Mean: 3430100.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 205
+Source Address: None
+Destination Address: None
+TX Bitrate: 13.43314909396208 bps
+RX Bitrate: 13.432091855919827 bps
+Delay Mean: 3441875.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 206
+Source Address: None
+Destination Address: None
+TX Bitrate: 58.765401869649246 bps
+RX Bitrate: 58.76231866315725 bps
+Delay Mean: 5133005.555555556 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 207
+Source Address: None
+Destination Address: None
+TX Bitrate: 28.24532885882579 bps
+RX Bitrate: 26.145846987372742 bps
+Delay Mean: 3965162.5 ns
+Packet Loss Ratio: 0.1111111111111111
+
+
+Flow ID: 208
+Source Address: None
+Destination Address: None
+TX Bitrate: 6.705373903173703 bps
+RX Bitrate: 6.70478851106552 bps
+Delay Mean: 5394100.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 209
+Source Address: None
+Destination Address: None
+TX Bitrate: 3.3526284082872784 bps
+RX Bitrate: 3.352306456681915 bps
+Delay Mean: 10303500.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 210
+Source Address: None
+Destination Address: None
+TX Bitrate: 176.0129914350821 bps
+RX Bitrate: 162.59396034676934 bps
+Delay Mean: 1120606.1224489796 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 211
+Source Address: None
+Destination Address: None
+TX Bitrate: 51.96301825515308 bps
+RX Bitrate: 48.04637033415971 bps
+Delay Mean: 4240207.142857143 ns
+Packet Loss Ratio: 0.06666666666666667
+
+
+Flow ID: 212
+Source Address: None
+Destination Address: None
+TX Bitrate: 11.733072598386702 bps
+RX Bitrate: 11.732662895453592 bps
+Delay Mean: 1833983.3333333333 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 213
+Source Address: None
+Destination Address: None
+TX Bitrate: 60.32834961116494 bps
+RX Bitrate: 56.97180209978793 bps
+Delay Mean: 10145941.176470589 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 214
+Source Address: None
+Destination Address: None
+TX Bitrate: 14.941134374209089 bps
+RX Bitrate: 11.589447319503957 bps
+Delay Mean: 4611400.0 ns
+Packet Loss Ratio: 0.2
+
+
+Flow ID: 215
+Source Address: None
+Destination Address: None
+TX Bitrate: 40.21293306571254 bps
+RX Bitrate: 36.86153362829542 bps
+Delay Mean: 1337709.0909090908 ns
+Packet Loss Ratio: 0.08333333333333333
+
+
+Flow ID: 216
+Source Address: None
+Destination Address: None
+TX Bitrate: 23.45672548300958 bps
+RX Bitrate: 23.455497382198953 bps
+Delay Mean: 2786685.714285714 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 217
+Source Address: None
+Destination Address: None
+TX Bitrate: 26.220591183674895 bps
+RX Bitrate: 26.218762802130275 bps
+Delay Mean: 5080850.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 218
+Source Address: None
+Destination Address: None
+TX Bitrate: 87.00653594771242 bps
+RX Bitrate: 86.50147288164963 bps
+Delay Mean: 26848074.074074075 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 219
+Source Address: None
+Destination Address: None
+TX Bitrate: 80.86934546373516 bps
+RX Bitrate: 80.86864074454921 bps
+Delay Mean: 1670600.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 220
+Source Address: None
+Destination Address: None
+TX Bitrate: 3.3456763232411237 bps
+RX Bitrate: 3.34553058024046 bps
+Delay Mean: 5315910.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 221
+Source Address: None
+Destination Address: None
+TX Bitrate: 10.03659174072138 bps
+RX Bitrate: 10.035717396985799 bps
+Delay Mean: 3803566.6666666665 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 222
+Source Address: None
+Destination Address: None
+TX Bitrate: 6.690769699873677 bps
+RX Bitrate: 6.6901868548281715 bps
+Delay Mean: 9467400.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 223
+Source Address: None
+Destination Address: None
+TX Bitrate: 41.25866815346552 bps
+RX Bitrate: 41.255792884769505 bps
+Delay Mean: 1320453.8461538462 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 224
+Source Address: None
+Destination Address: None
+TX Bitrate: 10.035280282242258 bps
+RX Bitrate: 10.034668385568196 bps
+Delay Mean: 13135800.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 225
+Source Address: None
+Destination Address: None
+TX Bitrate: 3.345064287954284 bps
+RX Bitrate: 3.3448603259496705 bps
+Delay Mean: 7176140.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 226
+Source Address: None
+Destination Address: None
+TX Bitrate: 19.974858034591875 bps
+RX Bitrate: 19.97260701468472 bps
+Delay Mean: 2924516.6666666665 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 227
+Source Address: None
+Destination Address: None
+TX Bitrate: 3.3290852818018677 bps
+RX Bitrate: 3.3283639011198556 bps
+Delay Mean: 25633800.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 228
+Source Address: None
+Destination Address: None
+TX Bitrate: 46.46727351538795 bps
+RX Bitrate: 46.0663148666999 bps
+Delay Mean: 135910000.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 229
+Source Address: None
+Destination Address: None
+TX Bitrate: 16.644849199400092 bps
+RX Bitrate: 16.643117810736545 bps
+Delay Mean: 3517620.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 230
+Source Address: None
+Destination Address: None
+TX Bitrate: 6.6579396797600365 bps
+RX Bitrate: 6.656900900588546 bps
+Delay Mean: 9505850.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 231
+Source Address: None
+Destination Address: None
+TX Bitrate: 26.631758719040146 bps
+RX Bitrate: 23.301374850465507 bps
+Delay Mean: 8680857.142857144 ns
+Packet Loss Ratio: 0.125
+
+
+Flow ID: 232
+Source Address: None
+Destination Address: None
+TX Bitrate: 27.602468964560646 bps
+RX Bitrate: 24.614538391460542 bps
+Delay Mean: 129568750.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 233
+Source Address: None
+Destination Address: None
+TX Bitrate: 16.089881406477563 bps
+RX Bitrate: 12.742713193729061 bps
+Delay Mean: 5500950.0 ns
+Packet Loss Ratio: 0.2
+
+
+Flow ID: 234
+Source Address: None
+Destination Address: None
+TX Bitrate: 6.6548819798273895 bps
+RX Bitrate: 6.600943728673709 bps
+Delay Mean: 472367000.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 235
+Source Address: None
+Destination Address: None
+TX Bitrate: 6.6548819798273895 bps
+RX Bitrate: 6.6544783426189875 bps
+Delay Mean: 6276550.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 236
+Source Address: None
+Destination Address: None
+TX Bitrate: 14.28026758171294 bps
+RX Bitrate: 8.733624454148472 bps
+Delay Mean: 5789766.666666667 ns
+Packet Loss Ratio: 0.4
+
+
+Flow ID: 237
+Source Address: None
+Destination Address: None
+TX Bitrate: 57.53450770737117 bps
+RX Bitrate: 57.03977321535951 bps
+Delay Mean: 54463157.89473684 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 238
+Source Address: None
+Destination Address: None
+TX Bitrate: 6.10004419066104 bps
+RX Bitrate: 3.3272680010397715 bps
+Delay Mean: 517320.0 ns
+Packet Loss Ratio: 0.5
+
+
+Flow ID: 239
+Source Address: None
+Destination Address: None
+TX Bitrate: 2.0795244820684338 bps
+RX Bitrate: 2.0793623288858085 bps
+Delay Mean: 9039040.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 240
+Source Address: None
+Destination Address: None
+TX Bitrate: 42.13590214491146 bps
+RX Bitrate: 31.93860079330253 bps
+Delay Mean: 235153000.0 ns
+Packet Loss Ratio: 0.23076923076923078
+
+
+Flow ID: 241
+Source Address: None
+Destination Address: None
+TX Bitrate: 28.136559335395063 bps
+RX Bitrate: 28.12973628372234 bps
+Delay Mean: 6549300.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 242
+Source Address: None
+Destination Address: None
+TX Bitrate: 85.2376084960413 bps
+RX Bitrate: 81.90416796590792 bps
+Delay Mean: 5210840.0 ns
+Packet Loss Ratio: 0.038461538461538464
+
+
+Flow ID: 243
+Source Address: None
+Destination Address: None
+TX Bitrate: 12.057689808999957 bps
+RX Bitrate: 8.729010971881847 bps
+Delay Mean: 11222400.0 ns
+Packet Loss Ratio: 0.25
+
+
+Flow ID: 244
+Source Address: None
+Destination Address: None
+TX Bitrate: 44.35012343540214 bps
+RX Bitrate: 44.349355115334305 bps
+Delay Mean: 1486592.857142857 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 245
+Source Address: None
+Destination Address: None
+TX Bitrate: 113.78381421777958 bps
+RX Bitrate: 0 bps
+Delay Mean: 0 ns
+Packet Loss Ratio: 1.0
+
+
+Flow ID: 246
+Source Address: None
+Destination Address: None
+TX Bitrate: 39.492828933693616 bps
+RX Bitrate: 39.15305754469116 bps
+Delay Mean: 79332307.6923077 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 247
+Source Address: None
+Destination Address: None
+TX Bitrate: 16.62323269928399 bps
+RX Bitrate: 16.622369207061045 bps
+Delay Mean: 1645956.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 248
+Source Address: None
+Destination Address: None
+TX Bitrate: 13.298471022146803 bps
+RX Bitrate: 13.29754999567137 bps
+Delay Mean: 6942300.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 249
+Source Address: None
+Destination Address: None
+TX Bitrate: 13.298471022146803 bps
+RX Bitrate: 13.26631082551692 bps
+Delay Mean: 72049750.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 250
+Source Address: None
+Destination Address: None
+TX Bitrate: 42.663342250387416 bps
+RX Bitrate: 32.13296398891967 bps
+Delay Mean: 10435900.0 ns
+Packet Loss Ratio: 0.23076923076923078
+
+
+Flow ID: 251
+Source Address: None
+Destination Address: None
+TX Bitrate: 5.402176453782822 bps
+RX Bitrate: 3.323696920387072 bps
+Delay Mean: 24807100.0 ns
+Packet Loss Ratio: 0.5
+
+
+Flow ID: 252
+Source Address: None
+Destination Address: None
+TX Bitrate: 68.14876376480366 bps
+RX Bitrate: 68.11161583387411 bps
+Delay Mean: 9809095.238095239 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 253
+Source Address: None
+Destination Address: None
+TX Bitrate: 23.27030957822564 bps
+RX Bitrate: 16.621218023633293 bps
+Delay Mean: 2790380.0 ns
+Packet Loss Ratio: 0.2857142857142857
+
+
+Flow ID: 254
+Source Address: None
+Destination Address: None
+TX Bitrate: 22.16162403151106 bps
+RX Bitrate: 22.159897510474014 bps
+Delay Mean: 2603700.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 255
+Source Address: None
+Destination Address: None
+TX Bitrate: 5.374815886715419 bps
+RX Bitrate: 5.374491834906635 bps
+Delay Mean: 7201250.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 256
+Source Address: None
+Destination Address: None
+TX Bitrate: 23.152853623662768 bps
+RX Bitrate: 0 bps
+Delay Mean: 0 ns
+Packet Loss Ratio: 1.0
+
+
+Flow ID: 257
+Source Address: None
+Destination Address: None
+TX Bitrate: 63.53089120679409 bps
+RX Bitrate: 62.979755287447595 bps
+Delay Mean: 48144090.90909091 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 258
+Source Address: None
+Destination Address: None
+TX Bitrate: 36.93335974711673 bps
+RX Bitrate: 36.783186789620416 bps
+Delay Mean: 44019636.36363637 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 259
+Source Address: None
+Destination Address: None
+TX Bitrate: 3.3070377897964103 bps
+RX Bitrate: 3.278744514079817 bps
+Delay Mean: 1001770000.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 260
+Source Address: None
+Destination Address: None
+TX Bitrate: 17.086067620868427 bps
+RX Bitrate: 13.648732800464057 bps
+Delay Mean: 413382500.0 ns
+Packet Loss Ratio: 0.2
+
+
+Flow ID: 261
+Source Address: None
+Destination Address: None
+TX Bitrate: 20.11746671489347 bps
+RX Bitrate: 18.05060369624003 bps
+Delay Mean: 407400.0 ns
+Packet Loss Ratio: 0.14285714285714285
+
+
+Flow ID: 262
+Source Address: None
+Destination Address: None
+TX Bitrate: 53.46285674916895 bps
+RX Bitrate: 50.155443984188636 bps
+Delay Mean: 1712682.3529411764 ns
+Packet Loss Ratio: 0.05555555555555555
+
+
+Flow ID: 263
+Source Address: None
+Destination Address: None
+TX Bitrate: 24.250983904442855 bps
+RX Bitrate: 17.636016051530234 bps
+Delay Mean: 1680612.0 ns
+Packet Loss Ratio: 0.2857142857142857
+
+
+Flow ID: 264
+Source Address: None
+Destination Address: None
+TX Bitrate: 142.07170697710436 bps
+RX Bitrate: 142.06803985338908 bps
+Delay Mean: 822378.2608695652 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 265
+Source Address: None
+Destination Address: None
+TX Bitrate: 68.113212415181 bps
+RX Bitrate: 68.10852646515028 bps
+Delay Mean: 3428150.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 266
+Source Address: None
+Destination Address: None
+TX Bitrate: 16.51186790505676 bps
+RX Bitrate: 16.510873958396036 bps
+Delay Mean: 4167780.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 267
+Source Address: None
+Destination Address: None
+TX Bitrate: 23.115819889236697 bps
+RX Bitrate: 16.37024026738059 bps
+Delay Mean: 204600000.0 ns
+Packet Loss Ratio: 0.2857142857142857
+
+
+Flow ID: 268
+Source Address: None
+Destination Address: None
+TX Bitrate: 12.6585544137249 bps
+RX Bitrate: 9.906609566069863 bps
+Delay Mean: 1695300.0 ns
+Packet Loss Ratio: 0.25
+
+
+Flow ID: 269
+Source Address: None
+Destination Address: None
+TX Bitrate: 3.3002733038829777 bps
+RX Bitrate: 3.300074767318947 bps
+Delay Mean: 7416360.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 270
+Source Address: None
+Destination Address: None
+TX Bitrate: 9.346276093119148 bps
+RX Bitrate: 9.345874672507838 bps
+Delay Mean: 2234890.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 271
+Source Address: None
+Destination Address: None
+TX Bitrate: 3.278744514079817 bps
+RX Bitrate: 3.278688524590164 bps
+Delay Mean: 2223450.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 272
+Source Address: None
+Destination Address: None
+TX Bitrate: 8.60670434945952 bps
+RX Bitrate: 8.51718223221151 bps
+Delay Mean: 793323333.3333334 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 273
+Source Address: None
+Destination Address: None
+TX Bitrate: 36.47540983606557 bps
+RX Bitrate: 36.47447555134346 bps
+Delay Mean: 1385516.6666666667 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 274
+Source Address: None
+Destination Address: None
+TX Bitrate: 30.46344045626857 bps
+RX Bitrate: 27.182078950962985 bps
+Delay Mean: 46966444.44444445 ns
+Packet Loss Ratio: 0.1
+
+
+Flow ID: 275
+Source Address: None
+Destination Address: None
+TX Bitrate: 3.2782406775030735 bps
+RX Bitrate: 3.2763946007747307 bps
+Delay Mean: 65149000.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 276
+Source Address: None
+Destination Address: None
+TX Bitrate: 3.2781847052194846 bps
+RX Bitrate: 3.2781847052194846 bps
+Delay Mean: 304185.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 277
+Source Address: None
+Destination Address: None
+TX Bitrate: 22.400928818999812 bps
+RX Bitrate: 22.399781465546678 bps
+Delay Mean: 1275300.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 278
+Source Address: None
+Destination Address: None
+TX Bitrate: 6.555753783643053 bps
+RX Bitrate: 6.55519422323509 bps
+Delay Mean: 4790150.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 279
+Source Address: None
+Destination Address: None
+TX Bitrate: 16.93569727441122 bps
+RX Bitrate: 16.935408148457974 bps
+Delay Mean: 725412.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 280
+Source Address: None
+Destination Address: None
+TX Bitrate: 9.28708003277793 bps
+RX Bitrate: 9.286762948547235 bps
+Delay Mean: 1613986.6666666667 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 281
+Source Address: None
+Destination Address: None
+TX Bitrate: 8.05777011455008 bps
+RX Bitrate: 8.05777011455008 bps
+Delay Mean: 1244053.3333333333 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 282
+Source Address: None
+Destination Address: None
+TX Bitrate: 28.256974660865115 bps
+RX Bitrate: 14.8454021883594 bps
+Delay Mean: 2405320.0 ns
+Packet Loss Ratio: 0.4444444444444444
+
+
+Flow ID: 283
+Source Address: None
+Destination Address: None
+TX Bitrate: 6.552286048237794 bps
+RX Bitrate: 6.541626207389993 bps
+Delay Mean: 95594000.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 284
+Source Address: None
+Destination Address: None
+TX Bitrate: 9.827842140285622 bps
+RX Bitrate: 9.744544070377263 bps
+Delay Mean: 634203333.3333334 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 285
+Source Address: None
+Destination Address: None
+TX Bitrate: 22.385640430650582 bps
+RX Bitrate: 22.383921792761054 bps
+Delay Mean: 4524342.857142857 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 286
+Source Address: None
+Destination Address: None
+TX Bitrate: 20.610641437967598 bps
+RX Bitrate: 17.33344706986266 bps
+Delay Mean: 9589166.666666666 ns
+Packet Loss Ratio: 0.14285714285714285
+
+
+Flow ID: 287
+Source Address: None
+Destination Address: None
+TX Bitrate: 37.671466593871564 bps
+RX Bitrate: 37.67114523352527 bps
+Delay Mean: 597144.1666666666 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 288
+Source Address: None
+Destination Address: None
+TX Bitrate: 8.598701664292356 bps
+RX Bitrate: 8.598628314054663 bps
+Delay Mean: 1899190.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 289
+Source Address: None
+Destination Address: None
+TX Bitrate: 13.102671716654724 bps
+RX Bitrate: 13.102671716654724 bps
+Delay Mean: 2360630.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 290
+Source Address: None
+Destination Address: None
+TX Bitrate: 39.27786017490922 bps
+RX Bitrate: 29.42077842476249 bps
+Delay Mean: 18643777.777777776 ns
+Packet Loss Ratio: 0.25
+
+
+Flow ID: 291
+Source Address: None
+Destination Address: None
+TX Bitrate: 5.318876898685624 bps
+RX Bitrate: 5.31217543799908 bps
+Delay Mean: 132053500.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 292
+Source Address: None
+Destination Address: None
+TX Bitrate: 7.364598782795479 bps
+RX Bitrate: 7.363908326159773 bps
+Delay Mean: 4669866.666666667 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 293
+Source Address: None
+Destination Address: None
+TX Bitrate: 70.2334580602269 bps
+RX Bitrate: 70.22926787692832 bps
+Delay Mean: 3709531.8181818184 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 294
+Source Address: None
+Destination Address: None
+TX Bitrate: 3.272401891857344 bps
+RX Bitrate: 3.2722066943895287 bps
+Delay Mean: 6911420.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 295
+Source Address: None
+Destination Address: None
+TX Bitrate: 38.7230923934348 bps
+RX Bitrate: 32.17615079162193 bps
+Delay Mean: 2563610.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 296
+Source Address: None
+Destination Address: None
+TX Bitrate: 19.08754707977572 bps
+RX Bitrate: 15.814452842085531 bps
+Delay Mean: 8373220.0 ns
+Packet Loss Ratio: 0.16666666666666666
+
+
+Flow ID: 297
+Source Address: None
+Destination Address: None
+TX Bitrate: 28.210763019369345 bps
+RX Bitrate: 28.208840814240695 bps
+Delay Mean: 5846577.777777778 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 298
+Source Address: None
+Destination Address: None
+TX Bitrate: 16.07246228760173 bps
+RX Bitrate: 16.071641384476564 bps
+Delay Mean: 1662796.6666666667 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 299
+Source Address: None
+Destination Address: None
+TX Bitrate: 47.93885072733927 bps
+RX Bitrate: 47.934770582077235 bps
+Delay Mean: 3451706.25 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 300
+Source Address: None
+Destination Address: None
+TX Bitrate: 34.146465891795835 bps
+RX Bitrate: 34.140369967355824 bps
+Delay Mean: 6746954.545454546 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 301
+Source Address: None
+Destination Address: None
+TX Bitrate: 5.985580193170997 bps
+RX Bitrate: 5.9855293027368495 bps
+Delay Mean: 407833.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 302
+Source Address: None
+Destination Address: None
+TX Bitrate: 32.10365672212823 bps
+RX Bitrate: 32.10201912858661 bps
+Delay Mean: 3869860.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 303
+Source Address: None
+Destination Address: None
+TX Bitrate: 27.069075451647183 bps
+RX Bitrate: 27.067694740332055 bps
+Delay Mean: 1061160.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 304
+Source Address: None
+Destination Address: None
+TX Bitrate: 3.2646121147715195 bps
+RX Bitrate: 3.251013825274939 bps
+Delay Mean: 492076000.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 305
+Source Address: None
+Destination Address: None
+TX Bitrate: 11.833816490831342 bps
+RX Bitrate: 11.83291113415733 bps
+Delay Mean: 3490350.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 306
+Source Address: None
+Destination Address: None
+TX Bitrate: 9.09916562688328 bps
+RX Bitrate: 9.099088393569525 bps
+Delay Mean: 607670.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 307
+Source Address: None
+Destination Address: None
+TX Bitrate: 13.263407206902386 bps
+RX Bitrate: 13.262285375962108 bps
+Delay Mean: 4109260.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 308
+Source Address: None
+Destination Address: None
+TX Bitrate: 23.954729621139712 bps
+RX Bitrate: 21.24744134116015 bps
+Delay Mean: 3923237.5 ns
+Packet Loss Ratio: 0.1111111111111111
+
+
+Flow ID: 309
+Source Address: None
+Destination Address: None
+TX Bitrate: 16.219503953504088 bps
+RX Bitrate: 16.218681894206888 bps
+Delay Mean: 2134820.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 310
+Source Address: None
+Destination Address: None
+TX Bitrate: 12.409792945302488 bps
+RX Bitrate: 12.409792945302488 bps
+Delay Mean: 1383080.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 311
+Source Address: None
+Destination Address: None
+TX Bitrate: 35.04663055291115 bps
+RX Bitrate: 25.33842123440567 bps
+Delay Mean: 3886487.5 ns
+Packet Loss Ratio: 0.2727272727272727
+
+
+Flow ID: 312
+Source Address: None
+Destination Address: None
+TX Bitrate: 36.658608286934474 bps
+RX Bitrate: 33.42289906587714 bps
+Delay Mean: 2814581.8181818184 ns
+Packet Loss Ratio: 0.08333333333333333
+
+
+Flow ID: 313
+Source Address: None
+Destination Address: None
+TX Bitrate: 70.95492948264835 bps
+RX Bitrate: 67.6913833675462 bps
+Delay Mean: 48448636.36363637 ns
+Packet Loss Ratio: 0.043478260869565216
+
+
+Flow ID: 314
+Source Address: None
+Destination Address: None
+TX Bitrate: 6.462688074320913 bps
+RX Bitrate: 3.231126518797752 bps
+Delay Mean: 7344280.0 ns
+Packet Loss Ratio: 0.5
+
+
+Flow ID: 315
+Source Address: None
+Destination Address: None
+TX Bitrate: 3.231262464342514 bps
+RX Bitrate: 3.2042723631508676 bps
+Delay Mean: 1001540000.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 316
+Source Address: None
+Destination Address: None
+TX Bitrate: 6.422478675363774 bps
+RX Bitrate: 3.2109976670095075 bps
+Delay Mean: 9436380.0 ns
+Packet Loss Ratio: 0.5
+
+
+Flow ID: 317
+Source Address: None
+Destination Address: None
+TX Bitrate: 37.46257923168264 bps
+RX Bitrate: 37.46195270428471 bps
+Delay Mean: 1531691.6666666667 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 318
+Source Address: None
+Destination Address: None
+TX Bitrate: 33.58112232525859 bps
+RX Bitrate: 33.30237495024546 bps
+Delay Mean: 95222727.27272727 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 319
+Source Address: None
+Destination Address: None
+TX Bitrate: 18.958927885979406 bps
+RX Bitrate: 16.954950895725386 bps
+Delay Mean: 4123966.6666666665 ns
+Packet Loss Ratio: 0.14285714285714285
+
+
+Flow ID: 320
+Source Address: None
+Destination Address: None
+TX Bitrate: 5.2069425901201605 bps
+RX Bitrate: 5.206595020359122 bps
+Delay Mean: 7222600.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 321
+Source Address: None
+Destination Address: None
+TX Bitrate: 9.532557158106396 bps
+RX Bitrate: 6.354459705444316 bps
+Delay Mean: 5873550.0 ns
+Packet Loss Ratio: 0.3333333333333333
+
+
+Flow ID: 322
+Source Address: None
+Destination Address: None
+TX Bitrate: 21.713046860131236 bps
+RX Bitrate: 21.70999288468221 bps
+Delay Mean: 4578128.571428572 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 323
+Source Address: None
+Destination Address: None
+TX Bitrate: 3.1774401747592096 bps
+RX Bitrate: 3.1513122261066524 bps
+Delay Mean: 1001660000.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 324
+Source Address: None
+Destination Address: None
+TX Bitrate: 1.9858508129576764 bps
+RX Bitrate: 1.9858508129576764 bps
+Delay Mean: 503172.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 325
+Source Address: None
+Destination Address: None
+TX Bitrate: 66.58613671338507 bps
+RX Bitrate: 66.5833822835916 bps
+Delay Mean: 2164409.090909091 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 326
+Source Address: None
+Destination Address: None
+TX Bitrate: 7.398966126608202 bps
+RX Bitrate: 7.397011475274499 bps
+Delay Mean: 15906400.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 327
+Source Address: None
+Destination Address: None
+TX Bitrate: 30.78498406249484 bps
+RX Bitrate: 30.532350532350534 bps
+Delay Mean: 91635454.54545455 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 328
+Source Address: None
+Destination Address: None
+TX Bitrate: 15.854927414160432 bps
+RX Bitrate: 15.854010982205523 bps
+Delay Mean: 2097600.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 329
+Source Address: None
+Destination Address: None
+TX Bitrate: 35.671524709962426 bps
+RX Bitrate: 35.66946297641852 bps
+Delay Mean: 8073641.666666667 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 330
+Source Address: None
+Destination Address: None
+TX Bitrate: 73.97438967000487 bps
+RX Bitrate: 0 bps
+Delay Mean: 0 ns
+Packet Loss Ratio: 1.0
+
+
+Flow ID: 331
+Source Address: None
+Destination Address: None
+TX Bitrate: 1.9813423594485264 bps
+RX Bitrate: 1.9813096456757917 bps
+Delay Mean: 2372600.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 332
+Source Address: None
+Destination Address: None
+TX Bitrate: 47.80274800137892 bps
+RX Bitrate: 42.01956536012081 bps
+Delay Mean: 2139171.4285714286 ns
+Packet Loss Ratio: 0.0625
+
+
+Flow ID: 333
+Source Address: None
+Destination Address: None
+TX Bitrate: 15.494714726544547 bps
+RX Bitrate: 15.494206086071628 bps
+Delay Mean: 1485178.3333333333 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 334
+Source Address: None
+Destination Address: None
+TX Bitrate: 42.49563485232275 bps
+RX Bitrate: 39.34232742652001 bps
+Delay Mean: 3772415.3846153845 ns
+Packet Loss Ratio: 0.07142857142857142
+
+
+Flow ID: 335
+Source Address: None
+Destination Address: None
+TX Bitrate: 34.10059676044331 bps
+RX Bitrate: 34.099199160635095 bps
+Delay Mean: 1198200.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 336
+Source Address: None
+Destination Address: None
+TX Bitrate: 3.1476441850552477 bps
+RX Bitrate: 3.1474893854199113 bps
+Delay Mean: 6062320.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 337
+Source Address: None
+Destination Address: None
+TX Bitrate: 3.1476441850552477 bps
+RX Bitrate: 3.1474119913118317 bps
+Delay Mean: 8972540.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 338
+Source Address: None
+Destination Address: None
+TX Bitrate: 39.18099918099918 bps
+RX Bitrate: 39.17875306084008 bps
+Delay Mean: 1326684.6153846155 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 339
+Source Address: None
+Destination Address: None
+TX Bitrate: 3.144963144963145 bps
+RX Bitrate: 3.1448858750399253 bps
+Delay Mean: 3276130.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 340
+Source Address: None
+Destination Address: None
+TX Bitrate: 111.44630024771294 bps
+RX Bitrate: 108.29722880732446 bps
+Delay Mean: 2987055.5555555555 ns
+Packet Loss Ratio: 0.02702702702702703
+
+
+Flow ID: 341
+Source Address: None
+Destination Address: None
+TX Bitrate: 9.417766223573846 bps
+RX Bitrate: 9.341247445752652 bps
+Delay Mean: 335020000.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 342
+Source Address: None
+Destination Address: None
+TX Bitrate: 12.556816323861222 bps
+RX Bitrate: 12.555584619408842 bps
+Delay Mean: 7312375.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 343
+Source Address: None
+Destination Address: None
+TX Bitrate: 41.07024614353332 bps
+RX Bitrate: 41.06789608775974 bps
+Delay Mean: 5827500.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 344
+Source Address: None
+Destination Address: None
+TX Bitrate: 49.569212156881974 bps
+RX Bitrate: 49.56516053096188 bps
+Delay Mean: 5154393.75 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 345
+Source Address: None
+Destination Address: None
+TX Bitrate: 21.972632301731323 bps
+RX Bitrate: 21.794123370305506 bps
+Delay Mean: 251110000.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 346
+Source Address: None
+Destination Address: None
+TX Bitrate: 28.19199269096486 bps
+RX Bitrate: 28.189003352338073 bps
+Delay Mean: 8826188.888888888 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 347
+Source Address: None
+Destination Address: None
+TX Bitrate: 47.87389315948234 bps
+RX Bitrate: 47.870011513451274 bps
+Delay Mean: 1783264.705882353 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 348
+Source Address: None
+Destination Address: None
+TX Bitrate: 53.910888282319405 bps
+RX Bitrate: 53.84677615079686 bps
+Delay Mean: 23899055.555555556 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 349
+Source Address: None
+Destination Address: None
+TX Bitrate: 26.954789172727715 bps
+RX Bitrate: 26.95260617447925 bps
+Delay Mean: 4248288.888888889 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 350
+Source Address: None
+Destination Address: None
+TX Bitrate: 5.0540229698864465 bps
+RX Bitrate: 5.018699481240198 bps
+Delay Mean: 436445500.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 351
+Source Address: None
+Destination Address: None
+TX Bitrate: 22.548535236135972 bps
+RX Bitrate: 22.54670910371972 bps
+Delay Mean: 16976500.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 352
+Source Address: None
+Destination Address: None
+TX Bitrate: 20.04008016032064 bps
+RX Bitrate: 20.039918224204666 bps
+Delay Mean: 1101077.142857143 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 353
+Source Address: None
+Destination Address: None
+TX Bitrate: 6.19419777879939 bps
+RX Bitrate: 6.194047907089281 bps
+Delay Mean: 7246700.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 354
+Source Address: None
+Destination Address: None
+TX Bitrate: 65.55367368336157 bps
+RX Bitrate: 62.968757560605816 bps
+Delay Mean: 1577400.0 ns
+Packet Loss Ratio: 0.041666666666666664
+
+
+Flow ID: 355
+Source Address: None
+Destination Address: None
+TX Bitrate: 95.35560770651377 bps
+RX Bitrate: 91.69752641113196 bps
+Delay Mean: 74656451.61290322 ns
+Packet Loss Ratio: 0.03125
+
+
+Flow ID: 356
+Source Address: None
+Destination Address: None
+TX Bitrate: 6.193448492766246 bps
+RX Bitrate: 6.192999008152503 bps
+Delay Mean: 5030350.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 357
+Source Address: None
+Destination Address: None
+TX Bitrate: 8.12831119820016 bps
+RX Bitrate: 5.031689970487204 bps
+Delay Mean: 5531550.0 ns
+Packet Loss Ratio: 0.3333333333333333
+
+
+Flow ID: 358
+Source Address: None
+Destination Address: None
+TX Bitrate: 3.076824460754463 bps
+RX Bitrate: 3.076725850906993 bps
+Delay Mean: 3168270.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 359
+Source Address: None
+Destination Address: None
+TX Bitrate: 18.460059290120984 bps
+RX Bitrate: 18.460059290120984 bps
+Delay Mean: 7186366.666666667 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 360
+Source Address: None
+Destination Address: None
+TX Bitrate: 4.997677361482644 bps
+RX Bitrate: 4.996956981325475 bps
+Delay Mean: 9046650.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 361
+Source Address: None
+Destination Address: None
+TX Bitrate: 27.144686299615877 bps
+RX Bitrate: 14.728755991492873 bps
+Delay Mean: 488102000.0 ns
+Packet Loss Ratio: 0.4444444444444444
+
+
+Flow ID: 362
+Source Address: None
+Destination Address: None
+TX Bitrate: 6.145966709346991 bps
+RX Bitrate: 6.145524089974314 bps
+Delay Mean: 6608350.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 363
+Source Address: None
+Destination Address: None
+TX Bitrate: 18.43155764261658 bps
+RX Bitrate: 3.0712874613089762 bps
+Delay Mean: 25873800.0 ns
+Packet Loss Ratio: 0.8333333333333334
+
+
+Flow ID: 364
+Source Address: None
+Destination Address: None
+TX Bitrate: 6.142967981379129 bps
+RX Bitrate: 6.142034548944338 bps
+Delay Mean: 13803050.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 365
+Source Address: None
+Destination Address: None
+TX Bitrate: 3.0714839906895643 bps
+RX Bitrate: 3.0470870165526653 bps
+Delay Mean: 1001340000.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 366
+Source Address: None
+Destination Address: None
+TX Bitrate: 17.915986818952554 bps
+RX Bitrate: 9.142421789438599 bps
+Delay Mean: 972446666.6666666 ns
+Packet Loss Ratio: 0.5
+
+
+Flow ID: 367
+Source Address: None
+Destination Address: None
+TX Bitrate: 64.38323353293413 bps
+RX Bitrate: 61.31638616549037 bps
+Delay Mean: 2314730.0 ns
+Packet Loss Ratio: 0.047619047619047616
+
+
+Flow ID: 368
+Source Address: None
+Destination Address: None
+TX Bitrate: 12.256134051466187 bps
+RX Bitrate: 12.255645096944068 bps
+Delay Mean: 6885000.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 369
+Source Address: None
+Destination Address: None
+TX Bitrate: 26.417940067473705 bps
+RX Bitrate: 26.415843155931263 bps
+Delay Mean: 1838577.7777777778 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 370
+Source Address: None
+Destination Address: None
+TX Bitrate: 58.409916988079935 bps
+RX Bitrate: 58.40945344306269 bps
+Delay Mean: 607715.7894736842 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 371
+Source Address: None
+Destination Address: None
+TX Bitrate: 29.458680866935964 bps
+RX Bitrate: 29.454473318785954 bps
+Delay Mean: 10345400.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 372
+Source Address: None
+Destination Address: None
+TX Bitrate: 16.11355616351453 bps
+RX Bitrate: 16.112533997288146 bps
+Delay Mean: 3365700.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 373
+Source Address: None
+Destination Address: None
+TX Bitrate: 3.0387680327933717 bps
+RX Bitrate: 3.0148623291381735 bps
+Delay Mean: 1001720000.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 374
+Source Address: None
+Destination Address: None
+TX Bitrate: 71.91466464090146 bps
+RX Bitrate: 48.01913970426892 bps
+Delay Mean: 884778.947368421 ns
+Packet Loss Ratio: 0.24
+
+
+Flow ID: 375
+Source Address: None
+Destination Address: None
+TX Bitrate: 3.7982496399575862 bps
+RX Bitrate: 3.768311639372576 bps
+Delay Mean: 993400000.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 376
+Source Address: None
+Destination Address: None
+TX Bitrate: 17.724884471735137 bps
+RX Bitrate: 17.448472479708364 bps
+Delay Mean: 568050000.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 377
+Source Address: None
+Destination Address: None
+TX Bitrate: 3.0384794942197675 bps
+RX Bitrate: 3.038239087262341 bps
+Delay Mean: 10281300.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 378
+Source Address: None
+Destination Address: None
+TX Bitrate: 3.0383112053550234 bps
+RX Bitrate: 3.0382631262461626 bps
+Delay Mean: 2395830.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 379
+Source Address: None
+Destination Address: None
+TX Bitrate: 3.0382631262461626 bps
+RX Bitrate: 3.0381429351309013 bps
+Delay Mean: 4476310.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 380
+Source Address: None
+Destination Address: None
+TX Bitrate: 8.608071649537553 bps
+RX Bitrate: 8.607526839186399 bps
+Delay Mean: 3429900.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 381
+Source Address: None
+Destination Address: None
+TX Bitrate: 38.355340712200444 bps
+RX Bitrate: 38.353823515450706 bps
+Delay Mean: 1798069.2307692308 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 382
+Source Address: None
+Destination Address: None
+TX Bitrate: 20.235874411104437 bps
+RX Bitrate: 20.235874411104437 bps
+Delay Mean: 7417957.142857143 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 383
+Source Address: None
+Destination Address: None
+TX Bitrate: 15.555344778526036 bps
+RX Bitrate: 12.937666823677187 bps
+Delay Mean: 173331800.0 ns
+Packet Loss Ratio: 0.16666666666666666
+
+
+Flow ID: 384
+Source Address: None
+Destination Address: None
+TX Bitrate: 83.97091368953525 bps
+RX Bitrate: 83.96693169783286 bps
+Delay Mean: 1790542.857142857 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 385
+Source Address: None
+Destination Address: None
+TX Bitrate: 9.104560183355726 bps
+RX Bitrate: 9.104200418856443 bps
+Delay Mean: 1883716.6666666667 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 386
+Source Address: None
+Destination Address: None
+TX Bitrate: 3.0302073798175564 bps
+RX Bitrate: 3.0300878252018086 bps
+Delay Mean: 5187310.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 387
+Source Address: None
+Destination Address: None
+TX Bitrate: 2.5249934902511577 bps
+RX Bitrate: 2.5247743482926213 bps
+Delay Mean: 10490000.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 388
+Source Address: None
+Destination Address: None
+TX Bitrate: 4.918963233903009 bps
+RX Bitrate: 4.880452380393721 bps
+Delay Mean: 502895000.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 389
+Source Address: None
+Destination Address: None
+TX Bitrate: 14.125807977297809 bps
+RX Bitrate: 14.124026608657271 bps
+Delay Mean: 6079180.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 390
+Source Address: None
+Destination Address: None
+TX Bitrate: 14.504177833832571 bps
+RX Bitrate: 14.503491873315152 bps
+Delay Mean: 2222580.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 391
+Source Address: None
+Destination Address: None
+TX Bitrate: 9.080590238365494 bps
+RX Bitrate: 9.080017655589886 bps
+Delay Mean: 3076893.3333333335 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 392
+Source Address: None
+Destination Address: None
+TX Bitrate: 3.0268634127884977 bps
+RX Bitrate: 3.026815695300553 bps
+Delay Mean: 2427230.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 393
+Source Address: None
+Destination Address: None
+TX Bitrate: 20.17893035904308 bps
+RX Bitrate: 20.020959441915757 bps
+Delay Mean: 427641428.5714286 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 394
+Source Address: None
+Destination Address: None
+TX Bitrate: 20.683240584553783 bps
+RX Bitrate: 20.681610391248146 bps
+Delay Mean: 5146957.142857143 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 395
+Source Address: None
+Destination Address: None
+TX Bitrate: 39.34798373112211 bps
+RX Bitrate: 30.897769370221486 bps
+Delay Mean: 804528.3333333334 ns
+Packet Loss Ratio: 0.2
+
+
+Flow ID: 396
+Source Address: None
+Destination Address: None
+TX Bitrate: 14.628917334005926 bps
+RX Bitrate: 14.628802030376834 bps
+Delay Mean: 493552.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 397
+Source Address: None
+Destination Address: None
+TX Bitrate: 19.1568466822106 bps
+RX Bitrate: 19.15624310784839 bps
+Delay Mean: 998501.4285714285 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 398
+Source Address: None
+Destination Address: None
+TX Bitrate: 8.5701682525679 bps
+RX Bitrate: 8.54264649303947 bps
+Delay Mean: 272045333.3333333 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 399
+Source Address: None
+Destination Address: None
+TX Bitrate: 22.551713820011496 bps
+RX Bitrate: 22.54976064499874 bps
+Delay Mean: 2813125.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 400
+Source Address: None
+Destination Address: None
+TX Bitrate: 3.0175157358730758 bps
+RX Bitrate: 3.0174920240770717 bps
+Delay Mean: 537303.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 401
+Source Address: None
+Destination Address: None
+TX Bitrate: 6.018620105952792 bps
+RX Bitrate: 6.01800700533628 bps
+Delay Mean: 8609400.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 402
+Source Address: None
+Destination Address: None
+TX Bitrate: 9.026373936345259 bps
+RX Bitrate: 9.026091044425293 bps
+Delay Mean: 3803766.6666666665 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 403
+Source Address: None
+Destination Address: None
+TX Bitrate: 29.459927447093573 bps
+RX Bitrate: 29.458080994053542 bps
+Delay Mean: 1153020.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 404
+Source Address: None
+Destination Address: None
+TX Bitrate: 12.034505182828893 bps
+RX Bitrate: 12.033468083106138 bps
+Delay Mean: 3944850.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 405
+Source Address: None
+Destination Address: None
+TX Bitrate: 3.0065768869401817 bps
+RX Bitrate: 0 bps
+Delay Mean: 0 ns
+Packet Loss Ratio: 1.0
+
+
+Flow ID: 406
+Source Address: None
+Destination Address: None
+TX Bitrate: 6.012824226670946 bps
+RX Bitrate: 5.966021642364968 bps
+Delay Mean: 501010000.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 407
+Source Address: None
+Destination Address: None
+TX Bitrate: 3.006412113335473 bps
+RX Bitrate: 3.0062944289606364 bps
+Delay Mean: 4396360.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 408
+Source Address: None
+Destination Address: None
+TX Bitrate: 8.975178023279367 bps
+RX Bitrate: 8.975178023279367 bps
+Delay Mean: 1192746.6666666667 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 409
+Source Address: None
+Destination Address: None
+TX Bitrate: 17.8931999627225 bps
+RX Bitrate: 17.89236623437136 bps
+Delay Mean: 11571016.666666666 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 410
+Source Address: None
+Destination Address: None
+TX Bitrate: 2.9821999937870833 bps
+RX Bitrate: 2.981088718442381 bps
+Delay Mean: 48166200.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 411
+Source Address: None
+Destination Address: None
+TX Bitrate: 14.910768370532596 bps
+RX Bitrate: 14.910073618488493 bps
+Delay Mean: 3009360.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 412
+Source Address: None
+Destination Address: None
+TX Bitrate: 31.18690398533843 bps
+RX Bitrate: 28.700108712533 bps
+Delay Mean: 3079710.0 ns
+Packet Loss Ratio: 0.09090909090909091
+
+
+Flow ID: 413
+Source Address: None
+Destination Address: None
+TX Bitrate: 5.961066782576298 bps
+RX Bitrate: 5.96097424672845 bps
+Delay Mean: 1546250.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 414
+Source Address: None
+Destination Address: None
+TX Bitrate: 2.9425061876920484 bps
+RX Bitrate: 2.9417172274315133 bps
+Delay Mean: 34764000.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 415
+Source Address: None
+Destination Address: None
+TX Bitrate: 5.885012375384097 bps
+RX Bitrate: 5.879605882668177 bps
+Delay Mean: 68567500.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 416
+Source Address: None
+Destination Address: None
+TX Bitrate: 8.336973096403915 bps
+RX Bitrate: 8.33671757070502 bps
+Delay Mean: 3684966.6666666665 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 417
+Source Address: None
+Destination Address: None
+TX Bitrate: 8.716641066577886 bps
+RX Bitrate: 8.71598156933064 bps
+Delay Mean: 3885866.6666666665 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 418
+Source Address: None
+Destination Address: None
+TX Bitrate: 11.622188088770514 bps
+RX Bitrate: 5.810742307197603 bps
+Delay Mean: 4486485.0 ns
+Packet Loss Ratio: 0.5
+
+
+Flow ID: 419
+Source Address: None
+Destination Address: None
+TX Bitrate: 32.805986184563935 bps
+RX Bitrate: 32.80325611656656 bps
+Delay Mean: 2277650.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 420
+Source Address: None
+Destination Address: None
+TX Bitrate: 2.8488548938727365 bps
+RX Bitrate: 2.8488337586800405 bps
+Delay Mean: 950341.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 421
+Source Address: None
+Destination Address: None
+TX Bitrate: 14.244274469363681 bps
+RX Bitrate: 14.243112119998221 bps
+Delay Mean: 3041920.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 422
+Source Address: None
+Destination Address: None
+TX Bitrate: 87.71383213898903 bps
+RX Bitrate: 87.70927757048862 bps
+Delay Mean: 779972.7272727273 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 423
+Source Address: None
+Destination Address: None
+TX Bitrate: 33.72905802729391 bps
+RX Bitrate: 33.23687835739848 bps
+Delay Mean: 155709230.76923078 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 424
+Source Address: None
+Destination Address: None
+TX Bitrate: 6.390768889382004 bps
+RX Bitrate: 4.615179799713031 bps
+Delay Mean: 6104050.0 ns
+Packet Loss Ratio: 0.3333333333333333
+
+
+Flow ID: 425
+Source Address: None
+Destination Address: None
+TX Bitrate: 8.521025185842673 bps
+RX Bitrate: 5.680221291954499 bps
+Delay Mean: 7888200.0 ns
+Packet Loss Ratio: 0.3333333333333333
+
+
+Flow ID: 426
+Source Address: None
+Destination Address: None
+TX Bitrate: 17.042050371685345 bps
+RX Bitrate: 17.041924317287496 bps
+Delay Mean: 9988450.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 427
+Source Address: None
+Destination Address: None
+TX Bitrate: 5.207177620970724 bps
+RX Bitrate: 2.8193832599118944 bps
+Delay Mean: 1002040000.0 ns
+Packet Loss Ratio: 0.5
+
+
+Flow ID: 428
+Source Address: None
+Destination Address: None
+TX Bitrate: 18.81573302959928 bps
+RX Bitrate: 18.815315548521177 bps
+Delay Mean: 6665614.285714285 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 429
+Source Address: None
+Destination Address: None
+TX Bitrate: 1.762114537444934 bps
+RX Bitrate: 1.761933428281968 bps
+Delay Mean: 14857000.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 430
+Source Address: None
+Destination Address: None
+TX Bitrate: 30.204742086197218 bps
+RX Bitrate: 30.20430178062522 bps
+Delay Mean: 6072627.2727272725 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 431
+Source Address: None
+Destination Address: None
+TX Bitrate: 24.180247469720197 bps
+RX Bitrate: 24.178666395431627 bps
+Delay Mean: 1485766.6666666667 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 432
+Source Address: None
+Destination Address: None
+TX Bitrate: 10.578166548001336 bps
+RX Bitrate: 10.57747491845319 bps
+Delay Mean: 3316600.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 433
+Source Address: None
+Destination Address: None
+TX Bitrate: 16.710541375758268 bps
+RX Bitrate: 16.709465597527917 bps
+Delay Mean: 28543571.42857143 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 434
+Source Address: None
+Destination Address: None
+TX Bitrate: 2.7469383083438252 bps
+RX Bitrate: 2.7273695798856497 bps
+Delay Mean: 1002910000.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 435
+Source Address: None
+Destination Address: None
+TX Bitrate: 16.48162985006295 bps
+RX Bitrate: 0 bps
+Delay Mean: 0 ns
+Packet Loss Ratio: 1.0
+
+
+Flow ID: 436
+Source Address: None
+Destination Address: None
+TX Bitrate: 21.054890041122835 bps
+RX Bitrate: 21.05353490567387 bps
+Delay Mean: 2224012.5 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 437
+Source Address: None
+Destination Address: None
+TX Bitrate: 16.47774003218309 bps
+RX Bitrate: 12.72483259602207 bps
+Delay Mean: 200544000.0 ns
+Packet Loss Ratio: 0.16666666666666666
+
+
+Flow ID: 438
+Source Address: None
+Destination Address: None
+TX Bitrate: 3.432641560707696 bps
+RX Bitrate: 3.432543371615727 bps
+Delay Mean: 2582560.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 439
+Source Address: None
+Destination Address: None
+TX Bitrate: 14.188150320020023 bps
+RX Bitrate: 8.695403449558079 bps
+Delay Mean: 147249000.0 ns
+Packet Loss Ratio: 0.4
+
+
+Flow ID: 440
+Source Address: None
+Destination Address: None
+TX Bitrate: 16.475501272846888 bps
+RX Bitrate: 10.983667515231257 bps
+Delay Mean: 4573475.0 ns
+Packet Loss Ratio: 0.3333333333333333
+
+
+Flow ID: 441
+Source Address: None
+Destination Address: None
+TX Bitrate: 46.68058693973285 bps
+RX Bitrate: 46.67825042366519 bps
+Delay Mean: 15741941.176470589 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 442
+Source Address: None
+Destination Address: None
+TX Bitrate: 15.443684176658588 bps
+RX Bitrate: 12.607905497501136 bps
+Delay Mean: 205438000.0 ns
+Packet Loss Ratio: 0.16666666666666666
+
+
+Flow ID: 443
+Source Address: None
+Destination Address: None
+TX Bitrate: 51.23623133501547 bps
+RX Bitrate: 45.74532718630499 bps
+Delay Mean: 4309541.176470588 ns
+Packet Loss Ratio: 0.10526315789473684
+
+
+Flow ID: 444
+Source Address: None
+Destination Address: None
+TX Bitrate: 2.744758868644704 bps
+RX Bitrate: 2.7445823088798673 bps
+Delay Mean: 8886200.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 445
+Source Address: None
+Destination Address: None
+TX Bitrate: 19.21290009006047 bps
+RX Bitrate: 19.212762763835975 bps
+Delay Mean: 1105297.142857143 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 446
+Source Address: None
+Destination Address: None
+TX Bitrate: 7.204528560809652 bps
+RX Bitrate: 7.203395886632269 bps
+Delay Mean: 7629566.666666667 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 447
+Source Address: None
+Destination Address: None
+TX Bitrate: 82.95469112766534 bps
+RX Bitrate: 82.95173730050776 bps
+Delay Mean: 3202512.9032258065 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 448
+Source Address: None
+Destination Address: None
+TX Bitrate: 6.15104225993849 bps
+RX Bitrate: 6.150779525877412 bps
+Delay Mean: 4898800.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 449
+Source Address: None
+Destination Address: None
+TX Bitrate: 25.51507126279669 bps
+RX Bitrate: 25.51507126279669 bps
+Delay Mean: 323061.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 450
+Source Address: None
+Destination Address: None
+TX Bitrate: 2.733757635299645 bps
+RX Bitrate: 2.726556231672075 bps
+Delay Mean: 370768000.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 451
+Source Address: None
+Destination Address: None
+TX Bitrate: 22.50783298164844 bps
+RX Bitrate: 19.77750309023486 bps
+Delay Mean: 4470762.5 ns
+Packet Loss Ratio: 0.1111111111111111
+
+
+Flow ID: 452
+Source Address: None
+Destination Address: None
+TX Bitrate: 25.23605516124219 bps
+RX Bitrate: 25.234800153454863 bps
+Delay Mean: 2772180.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 453
+Source Address: None
+Destination Address: None
+TX Bitrate: 57.63369354391798 bps
+RX Bitrate: 54.90430112110491 bps
+Delay Mean: 2884319.0476190476 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 454
+Source Address: None
+Destination Address: None
+TX Bitrate: 74.11512283842733 bps
+RX Bitrate: 71.33182844243792 bps
+Delay Mean: 43845000.0 ns
+Packet Loss Ratio: 0.034482758620689655
+
+
+Flow ID: 455
+Source Address: None
+Destination Address: None
+TX Bitrate: 26.485173134031456 bps
+RX Bitrate: 26.29815390909925 bps
+Delay Mean: 99634545.45454545 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 456
+Source Address: None
+Destination Address: None
+TX Bitrate: 2.7280477408354646 bps
+RX Bitrate: 2.727873324382499 bps
+Delay Mean: 9671800.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 457
+Source Address: None
+Destination Address: None
+TX Bitrate: 27.961496110538842 bps
+RX Bitrate: 24.777654647230985 bps
+Delay Mean: 12284300.0 ns
+Packet Loss Ratio: 0.09090909090909091
+
+
+Flow ID: 458
+Source Address: None
+Destination Address: None
+TX Bitrate: 27.961297472401007 bps
+RX Bitrate: 27.959509856153435 bps
+Delay Mean: 14452000.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 459
+Source Address: None
+Destination Address: None
+TX Bitrate: 1.7049208277390617 bps
+RX Bitrate: 1.704787611876687 bps
+Delay Mean: 10261800.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 460
+Source Address: None
+Destination Address: None
+TX Bitrate: 1.704605987428531 bps
+RX Bitrate: 1.7045696671827724 bps
+Delay Mean: 3763910.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 461
+Source Address: None
+Destination Address: None
+TX Bitrate: 21.63034476900972 bps
+RX Bitrate: 21.63034476900972 bps
+Delay Mean: 2646987.5 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 462
+Source Address: None
+Destination Address: None
+TX Bitrate: 10.33882114963196 bps
+RX Bitrate: 10.336135043851334 bps
+Delay Mean: 12198225.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 463
+Source Address: None
+Destination Address: None
+TX Bitrate: 2.697026949198969 bps
+RX Bitrate: 2.6968185968115743 bps
+Delay Mean: 11087200.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 464
+Source Address: None
+Destination Address: None
+TX Bitrate: 2.6969511809696383 bps
+RX Bitrate: 2.6781230820733137 bps
+Delay Mean: 1001460000.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 465
+Source Address: None
+Destination Address: None
+TX Bitrate: 1.6855116230072338 bps
+RX Bitrate: 1.685452438638997 bps
+Delay Mean: 4462210.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 466
+Source Address: None
+Destination Address: None
+TX Bitrate: 13.0345316768616 bps
+RX Bitrate: 13.034348598596841 bps
+Delay Mean: 816320.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 467
+Source Address: None
+Destination Address: None
+TX Bitrate: 22.810110047544473 bps
+RX Bitrate: 22.80834808011011 bps
+Delay Mean: 2174811.111111111 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 468
+Source Address: None
+Destination Address: None
+TX Bitrate: 26.96553467599225 bps
+RX Bitrate: 24.267788302869864 bps
+Delay Mean: 11501000.0 ns
+Packet Loss Ratio: 0.1
+
+
+Flow ID: 469
+Source Address: None
+Destination Address: None
+TX Bitrate: 124.8929509048281 bps
+RX Bitrate: 124.84825519791734 bps
+Delay Mean: 3213829.787234043 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 470
+Source Address: None
+Destination Address: None
+TX Bitrate: 29.763158264190146 bps
+RX Bitrate: 27.04845011539082 bps
+Delay Mean: 9747545.454545455 ns
+Packet Loss Ratio: 0.08333333333333333
+
+
+Flow ID: 471
+Source Address: None
+Destination Address: None
+TX Bitrate: 56.94309901865813 bps
+RX Bitrate: 51.54950338679676 bps
+Delay Mean: 3159770.0 ns
+Packet Loss Ratio: 0.045454545454545456
+
+
+Flow ID: 472
+Source Address: None
+Destination Address: None
+TX Bitrate: 18.868719201448847 bps
+RX Bitrate: 10.780082113906726 bps
+Delay Mean: 22450150.0 ns
+Packet Loss Ratio: 0.42857142857142855
+
+
+Flow ID: 473
+Source Address: None
+Destination Address: None
+TX Bitrate: 8.760230798388342 bps
+RX Bitrate: 8.75691150467316 bps
+Delay Mean: 19035650.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 474
+Source Address: None
+Destination Address: None
+TX Bitrate: 101.52455288205071 bps
+RX Bitrate: 99.80843852841495 bps
+Delay Mean: 3670289.4736842103 ns
+Packet Loss Ratio: 0.02564102564102564
+
+
+Flow ID: 475
+Source Address: None
+Destination Address: None
+TX Bitrate: 13.139608338597599 bps
+RX Bitrate: 13.138225076323822 bps
+Delay Mean: 6110166.666666667 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 476
+Source Address: None
+Destination Address: None
+TX Bitrate: 24.93156453990314 bps
+RX Bitrate: 24.92789018253784 bps
+Delay Mean: 6233880.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 477
+Source Address: None
+Destination Address: None
+TX Bitrate: 16.84565171615077 bps
+RX Bitrate: 16.839859948498095 bps
+Delay Mean: 8184514.285714285 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 478
+Source Address: None
+Destination Address: None
+TX Bitrate: 21.560164227813452 bps
+RX Bitrate: 18.86501129935573 bps
+Delay Mean: 1204340.0 ns
+Packet Loss Ratio: 0.125
+
+
+Flow ID: 479
+Source Address: None
+Destination Address: None
+TX Bitrate: 92.9775556896818 bps
+RX Bitrate: 92.9697258908897 bps
+Delay Mean: 2122142.8571428573 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 480
+Source Address: None
+Destination Address: None
+TX Bitrate: 35.930328846720656 bps
+RX Bitrate: 35.92957242405316 bps
+Delay Mean: 1296514.2857142857 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 481
+Source Address: None
+Destination Address: None
+TX Bitrate: 44.8452488560958 bps
+RX Bitrate: 44.83205491926728 bps
+Delay Mean: 5417335.294117647 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 482
+Source Address: None
+Destination Address: None
+TX Bitrate: 16.14428958819449 bps
+RX Bitrate: 16.143723987163497 bps
+Delay Mean: 6558650.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 483
+Source Address: None
+Destination Address: None
+TX Bitrate: 20.068248863102873 bps
+RX Bitrate: 19.928469042681993 bps
+Delay Mean: 125527500.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 484
+Source Address: None
+Destination Address: None
+TX Bitrate: 15.135271488932334 bps
+RX Bitrate: 12.437497373839236 bps
+Delay Mean: 17848620.0 ns
+Packet Loss Ratio: 0.16666666666666666
+
+
+Flow ID: 485
+Source Address: None
+Destination Address: None
+TX Bitrate: 39.912271481925266 bps
+RX Bitrate: 39.9094749970222 bps
+Delay Mean: 4273966.666666667 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 486
+Source Address: None
+Destination Address: None
+TX Bitrate: 5.044737008050559 bps
+RX Bitrate: 5.0445956266158465 bps
+Delay Mean: 3350700.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 487
+Source Address: None
+Destination Address: None
+TX Bitrate: 63.67579156828261 bps
+RX Bitrate: 63.67311478396121 bps
+Delay Mean: 1408837.5 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 488
+Source Address: None
+Destination Address: None
+TX Bitrate: 67.92056320268992 bps
+RX Bitrate: 65.22789837560678 bps
+Delay Mean: 2462296.0 ns
+Packet Loss Ratio: 0.038461538461538464
+
+
+Flow ID: 489
+Source Address: None
+Destination Address: None
+TX Bitrate: 7.059120131097945 bps
+RX Bitrate: 4.369625500686255 bps
+Delay Mean: 5303250.0 ns
+Packet Loss Ratio: 0.3333333333333333
+
+
+Flow ID: 490
+Source Address: None
+Destination Address: None
+TX Bitrate: 23.665006209273443 bps
+RX Bitrate: 23.663685451577344 bps
+Delay Mean: 2621190.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 491
+Source Address: None
+Destination Address: None
+TX Bitrate: 39.27913853707527 bps
+RX Bitrate: 0 bps
+Delay Mean: 0 ns
+Packet Loss Ratio: 1.0
+
+
+Flow ID: 492
+Source Address: None
+Destination Address: None
+TX Bitrate: 5.352102860726855 bps
+RX Bitrate: 0 bps
+Delay Mean: 0 ns
+Packet Loss Ratio: 1.0
+
+
+Flow ID: 493
+Source Address: None
+Destination Address: None
+TX Bitrate: 2.6760514303634273 bps
+RX Bitrate: 2.6758649524406817 bps
+Delay Mean: 9907970.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 494
+Source Address: None
+Destination Address: None
+TX Bitrate: 19.958744494620056 bps
+RX Bitrate: 17.723900094053715 bps
+Delay Mean: 12732842.857142856 ns
+Packet Loss Ratio: 0.125
+
+
+Flow ID: 495
+Source Address: None
+Destination Address: None
+TX Bitrate: 23.749625427709287 bps
+RX Bitrate: 22.07065675530692 bps
+Delay Mean: 4348422.222222222 ns
+Packet Loss Ratio: 0.1
+
+
+Flow ID: 496
+Source Address: None
+Destination Address: None
+TX Bitrate: 9.700483630433874 bps
+RX Bitrate: 7.972428684134037 bps
+Delay Mean: 280891666.6666667 ns
+Packet Loss Ratio: 0.25
+
+
+Flow ID: 497
+Source Address: None
+Destination Address: None
+TX Bitrate: 1.672415595275426 bps
+RX Bitrate: 0 bps
+Delay Mean: 0 ns
+Packet Loss Ratio: 1.0
+
+
+Flow ID: 498
+Source Address: None
+Destination Address: None
+TX Bitrate: 4.90571822780929 bps
+RX Bitrate: 4.90486375765514 bps
+Delay Mean: 13598150.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 499
+Source Address: None
+Destination Address: None
+TX Bitrate: 92.76267194403022 bps
+RX Bitrate: 0 bps
+Delay Mean: 0 ns
+Packet Loss Ratio: 1.0
+
+
+Flow ID: 500
+Source Address: None
+Destination Address: None
+TX Bitrate: 23.190667986007554 bps
+RX Bitrate: 23.18953683638416 bps
+Delay Mean: 9505922.222222222 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 501
+Source Address: None
+Destination Address: None
+TX Bitrate: 12.933257146042674 bps
+RX Bitrate: 0 bps
+Delay Mean: 0 ns
+Packet Loss Ratio: 1.0
+
+
+Flow ID: 502
+Source Address: None
+Destination Address: None
+TX Bitrate: 16.054742211289884 bps
+RX Bitrate: 16.044568245125348 bps
+Delay Mean: 17790000.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 503
+Source Address: None
+Destination Address: None
+TX Bitrate: 14.047605775126819 bps
+RX Bitrate: 12.289466764465725 bps
+Delay Mean: 588386000.0 ns
+Packet Loss Ratio: 0.16666666666666666
+
+
+Flow ID: 504
+Source Address: None
+Destination Address: None
+TX Bitrate: 42.81175093371983 bps
+RX Bitrate: 42.80310155286643 bps
+Delay Mean: 6409437.5 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 505
+Source Address: None
+Destination Address: None
+TX Bitrate: 31.662857461396957 bps
+RX Bitrate: 28.96915759639557 bps
+Delay Mean: 23773727.272727273 ns
+Packet Loss Ratio: 0.08333333333333333
+
+
+Flow ID: 506
+Source Address: None
+Destination Address: None
+TX Bitrate: 2.6756785005051738 bps
+RX Bitrate: 0 bps
+Delay Mean: 0 ns
+Packet Loss Ratio: 1.0
+
+
+Flow ID: 507
+Source Address: None
+Destination Address: None
+TX Bitrate: 8.027035501515522 bps
+RX Bitrate: 8.02451936472555 bps
+Delay Mean: 28662600.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 508
+Source Address: None
+Destination Address: None
+TX Bitrate: 5.3513570010103475 bps
+RX Bitrate: 5.349716841159384 bps
+Delay Mean: 22899700.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 509
+Source Address: None
+Destination Address: None
+TX Bitrate: 5.3513570010103475 bps
+RX Bitrate: 2.675436151831002 bps
+Delay Mean: 13322500.0 ns
+Packet Loss Ratio: 0.5
+
+
+Flow ID: 510
+Source Address: None
+Destination Address: None
+TX Bitrate: 10.702341137123746 bps
+RX Bitrate: 10.702191998439265 bps
+Delay Mean: 2975300.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 511
+Source Address: None
+Destination Address: None
+TX Bitrate: 17.946092057321604 bps
+RX Bitrate: 14.043104529179844 bps
+Delay Mean: 5638000.0 ns
+Packet Loss Ratio: 0.25
+
+
+Flow ID: 512
+Source Address: None
+Destination Address: None
+TX Bitrate: 24.076241431198795 bps
+RX Bitrate: 24.06266318537859 bps
+Delay Mean: 10045355.555555556 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 513
+Source Address: None
+Destination Address: None
+TX Bitrate: 8.693229311786013 bps
+RX Bitrate: 7.0205252857312 bps
+Delay Mean: 2102560.0 ns
+Packet Loss Ratio: 0.25
+
+
+Flow ID: 514
+Source Address: None
+Destination Address: None
+TX Bitrate: 25.739416266809666 bps
+RX Bitrate: 25.735831714399115 bps
+Delay Mean: 2496150.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 515
+Source Address: None
+Destination Address: None
+TX Bitrate: 16.042892455523447 bps
+RX Bitrate: 16.0427807486631 bps
+Delay Mean: 1632700.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 516
+Source Address: None
+Destination Address: None
+TX Bitrate: 14.037139932738704 bps
+RX Bitrate: 14.035576287116651 bps
+Delay Mean: 6017600.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 517
+Source Address: None
+Destination Address: None
+TX Bitrate: 9.691906005221933 bps
+RX Bitrate: 9.691568613799346 bps
+Delay Mean: 1977005.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 518
+Source Address: None
+Destination Address: None
+TX Bitrate: 10.694293591778763 bps
+RX Bitrate: 10.693623509262933 bps
+Delay Mean: 4303000.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 519
+Source Address: None
+Destination Address: None
+TX Bitrate: 8.019882625676155 bps
+RX Bitrate: 8.019101053203116 bps
+Delay Mean: 5106900.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 520
+Source Address: None
+Destination Address: None
+TX Bitrate: 3.341338623786154 bps
+RX Bitrate: 3.3408967523699484 bps
+Delay Mean: 12282850.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 521
+Source Address: None
+Destination Address: None
+TX Bitrate: 10.35814973373708 bps
+RX Bitrate: 10.357789224557985 bps
+Delay Mean: 2256240.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 522
+Source Address: None
+Destination Address: None
+TX Bitrate: 28.51077158667734 bps
+RX Bitrate: 28.32210866949703 bps
+Delay Mean: 93549090.9090909 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 523
+Source Address: None
+Destination Address: None
+TX Bitrate: 12.362092367660878 bps
+RX Bitrate: 9.68839828225812 bps
+Delay Mean: 3858550.0 ns
+Packet Loss Ratio: 0.2
+
+
+Flow ID: 524
+Source Address: None
+Destination Address: None
+TX Bitrate: 31.50702088870952 bps
+RX Bitrate: 29.278339038713092 bps
+Delay Mean: 11679000.0 ns
+Packet Loss Ratio: 0.08333333333333333
+
+
+Flow ID: 525
+Source Address: None
+Destination Address: None
+TX Bitrate: 2.658340890682654 bps
+RX Bitrate: 2.6580832727650296 bps
+Delay Mean: 14461400.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 526
+Source Address: None
+Destination Address: None
+TX Bitrate: 57.59020966435706 bps
+RX Bitrate: 54.05626319732988 bps
+Delay Mean: 3142828.5714285714 ns
+Packet Loss Ratio: 0.045454545454545456
+
+
+Flow ID: 527
+Source Address: None
+Destination Address: None
+TX Bitrate: 13.289956392330588 bps
+RX Bitrate: 13.1985069189048 bps
+Delay Mean: 207936000.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 528
+Source Address: None
+Destination Address: None
+TX Bitrate: 59.329362361552135 bps
+RX Bitrate: 59.32895191975095 bps
+Delay Mean: 910913.0434782609 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 529
+Source Address: None
+Destination Address: None
+TX Bitrate: 111.46316153580075 bps
+RX Bitrate: 108.7983619371753 bps
+Delay Mean: 1958272.7272727273 ns
+Packet Loss Ratio: 0.022222222222222223
+
+
+Flow ID: 530
+Source Address: None
+Destination Address: None
+TX Bitrate: 4.316725929410462 bps
+RX Bitrate: 4.311923435718481 bps
+Delay Mean: 81273000.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 531
+Source Address: None
+Destination Address: None
+TX Bitrate: 7.969229917817316 bps
+RX Bitrate: 0 bps
+Delay Mean: 0 ns
+Packet Loss Ratio: 1.0
+
+
+Flow ID: 532
+Source Address: None
+Destination Address: None
+TX Bitrate: 7.96818260418468 bps
+RX Bitrate: 7.967631497043262 bps
+Delay Mean: 4682833.333333333 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 533
+Source Address: None
+Destination Address: None
+TX Bitrate: 7.517030772844726 bps
+RX Bitrate: 7.516874969773595 bps
+Delay Mean: 2514336.6666666665 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 534
+Source Address: None
+Destination Address: None
+TX Bitrate: 37.14297558346806 bps
+RX Bitrate: 34.48776140438144 bps
+Delay Mean: 2235300.0 ns
+Packet Loss Ratio: 0.06666666666666667
+
+
+Flow ID: 535
+Source Address: None
+Destination Address: None
+TX Bitrate: 13.265256772535391 bps
+RX Bitrate: 13.265165123670029 bps
+Delay Mean: 605354.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 536
+Source Address: None
+Destination Address: None
+TX Bitrate: 5.305956073868858 bps
+RX Bitrate: 5.305076433165017 bps
+Delay Mean: 12354000.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 537
+Source Address: None
+Destination Address: None
+TX Bitrate: 7.516511454389699 bps
+RX Bitrate: 7.516044129126743 bps
+Delay Mean: 3148743.3333333335 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 538
+Source Address: None
+Destination Address: None
+TX Bitrate: 2.6528863956669526 bps
+RX Bitrate: 2.65281308721123 bps
+Delay Mean: 3322990.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 539
+Source Address: None
+Destination Address: None
+TX Bitrate: 7.9582743255846085 bps
+RX Bitrate: 7.958109396371875 bps
+Delay Mean: 1254040.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 540
+Source Address: None
+Destination Address: None
+TX Bitrate: 16.688886279331616 bps
+RX Bitrate: 16.59671225724904 bps
+Delay Mean: 116102714.28571428 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 541
+Source Address: None
+Destination Address: None
+TX Bitrate: 2.651512535992211 bps
+RX Bitrate: 2.637453209244823 bps
+Delay Mean: 771472000.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 542
+Source Address: None
+Destination Address: None
+TX Bitrate: 40.65315704077053 bps
+RX Bitrate: 40.652034327770835 bps
+Delay Mean: 867766.6666666666 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 543
+Source Address: None
+Destination Address: None
+TX Bitrate: 4.858724308805058 bps
+RX Bitrate: 4.858657243816255 bps
+Delay Mean: 1513470.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 544
+Source Address: None
+Destination Address: None
+TX Bitrate: 2.636366757062923 bps
+RX Bitrate: 2.6362581610726274 bps
+Delay Mean: 6336290.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 545
+Source Address: None
+Destination Address: None
+TX Bitrate: 10.105656284111738 bps
+RX Bitrate: 10.105170662053435 bps
+Delay Mean: 2365477.5 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 546
+Source Address: None
+Destination Address: None
+TX Bitrate: 2.6352992849005585 bps
+RX Bitrate: 2.6351726930229686 bps
+Delay Mean: 6953590.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 547
+Source Address: None
+Destination Address: None
+TX Bitrate: 35.55848217960326 bps
+RX Bitrate: 32.922713929051554 bps
+Delay Mean: 6241153.846153846 ns
+Packet Loss Ratio: 0.07142857142857142
+
+
+Flow ID: 548
+Source Address: None
+Destination Address: None
+TX Bitrate: 76.37964855484987 bps
+RX Bitrate: 71.26364543057396 bps
+Delay Mean: 63174285.71428572 ns
+Packet Loss Ratio: 0.06666666666666667
+
+
+Flow ID: 549
+Source Address: None
+Destination Address: None
+TX Bitrate: 21.069958847736626 bps
+RX Bitrate: 21.069525318409088 bps
+Delay Mean: 851453.75 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 550
+Source Address: None
+Destination Address: None
+TX Bitrate: 23.58883352672173 bps
+RX Bitrate: 20.52948041577658 bps
+Delay Mean: 8963300.0 ns
+Packet Loss Ratio: 0.1111111111111111
+
+
+Flow ID: 551
+Source Address: None
+Destination Address: None
+TX Bitrate: 22.276518202044745 bps
+RX Bitrate: 22.275758051417146 bps
+Delay Mean: 4131655.5555555555 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 552
+Source Address: None
+Destination Address: None
+TX Bitrate: 6.879466022399214 bps
+RX Bitrate: 6.878996540028527 bps
+Delay Mean: 4294166.666666667 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 553
+Source Address: None
+Destination Address: None
+TX Bitrate: 2.6207489609139865 bps
+RX Bitrate: 2.62065953264905 bps
+Delay Mean: 4577350.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 554
+Source Address: None
+Destination Address: None
+TX Bitrate: 17.253263992683742 bps
+RX Bitrate: 17.252910746215687 bps
+Delay Mean: 4770628.571428572 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 555
+Source Address: None
+Destination Address: None
+TX Bitrate: 12.666953311084267 bps
+RX Bitrate: 12.581003768878285 bps
+Delay Mean: 201048000.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 556
+Source Address: None
+Destination Address: None
+TX Bitrate: 15.718379042161276 bps
+RX Bitrate: 15.717199555225081 bps
+Delay Mean: 4529950.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 557
+Source Address: None
+Destination Address: None
+TX Bitrate: 13.078217275507633 bps
+RX Bitrate: 13.07812819290239 bps
+Delay Mean: 1355934.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 558
+Source Address: None
+Destination Address: None
+TX Bitrate: 5.230716839775243 bps
+RX Bitrate: 5.230467473030402 bps
+Delay Mean: 4622720.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 559
+Source Address: None
+Destination Address: None
+TX Bitrate: 4.7947258016182195 bps
+RX Bitrate: 4.794431921109802 bps
+Delay Mean: 4535855.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 560
+Source Address: None
+Destination Address: None
+TX Bitrate: 9.1530687297393 bps
+RX Bitrate: 9.091032075650375 bps
+Delay Mean: 334093333.3333333 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 561
+Source Address: None
+Destination Address: None
+TX Bitrate: 22.664741616497313 bps
+RX Bitrate: 18.741232072567794 bps
+Delay Mean: 1489271.4285714286 ns
+Packet Loss Ratio: 0.125
+
+
+Flow ID: 562
+Source Address: None
+Destination Address: None
+TX Bitrate: 12.639865973834933 bps
+RX Bitrate: 12.55428239018385 bps
+Delay Mean: 203320000.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 563
+Source Address: None
+Destination Address: None
+TX Bitrate: 12.639865973834933 bps
+RX Bitrate: 10.02444821269264 bps
+Delay Mean: 2259290.0 ns
+Packet Loss Ratio: 0.2
+
+
+Flow ID: 564
+Source Address: None
+Destination Address: None
+TX Bitrate: 10.02444821269264 bps
+RX Bitrate: 7.4088702153883865 bps
+Delay Mean: 3445500.0 ns
+Packet Loss Ratio: 0.25
+
+
+Flow ID: 565
+Source Address: None
+Destination Address: None
+TX Bitrate: 7.844632691417209 bps
+RX Bitrate: 7.84436560735954 bps
+Delay Mean: 2642396.6666666665 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 566
+Source Address: None
+Destination Address: None
+TX Bitrate: 5.190556971093733 bps
+RX Bitrate: 5.1904166525867605 bps
+Delay Mean: 3308295.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 567
+Source Address: None
+Destination Address: None
+TX Bitrate: 37.52213346309287 bps
+RX Bitrate: 24.978711325574793 bps
+Delay Mean: 4075820.0 ns
+Packet Loss Ratio: 0.3333333333333333
+
+
+Flow ID: 568
+Source Address: None
+Destination Address: None
+TX Bitrate: 12.975427783634741 bps
+RX Bitrate: 0 bps
+Delay Mean: 0 ns
+Packet Loss Ratio: 0.6
+
+
+Flow ID: 569
+Source Address: None
+Destination Address: None
+TX Bitrate: 4.2164441321152495 bps
+RX Bitrate: 4.216387150830439 bps
+Delay Mean: 1478310.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 570
+Source Address: None
+Destination Address: None
+TX Bitrate: 15.135953294772692 bps
+RX Bitrate: 15.135135135135135 bps
+Delay Mean: 1901566.6666666667 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 571
+Source Address: None
+Destination Address: None
+TX Bitrate: 12.973586588554864 bps
+RX Bitrate: 7.678976136515131 bps
+Delay Mean: 1997460000.0 ns
+Packet Loss Ratio: 0.4
+
+
+Flow ID: 572
+Source Address: None
+Destination Address: None
+TX Bitrate: 7.779736218318848 bps
+RX Bitrate: 0 bps
+Delay Mean: 0 ns
+Packet Loss Ratio: 1.0
+
+
+Flow ID: 573
+Source Address: None
+Destination Address: None
+TX Bitrate: 17.720390604951444 bps
+RX Bitrate: 17.719552959448965 bps
+Delay Mean: 6315585.714285715 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 574
+Source Address: None
+Destination Address: None
+TX Bitrate: 39.22071783097545 bps
+RX Bitrate: 39.21806948242682 bps
+Delay Mean: 1286643.75 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 575
+Source Address: None
+Destination Address: None
+TX Bitrate: 20.291008681691547 bps
+RX Bitrate: 20.290461189771122 bps
+Delay Mean: 1681275.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 576
+Source Address: None
+Destination Address: None
+TX Bitrate: 24.931028202551115 bps
+RX Bitrate: 24.92968291547785 bps
+Delay Mean: 3016540.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 577
+Source Address: None
+Destination Address: None
+TX Bitrate: 14.570081417075327 bps
+RX Bitrate: 14.56968830310348 bps
+Delay Mean: 68060500.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 578
+Source Address: None
+Destination Address: None
+TX Bitrate: 20.290187454890084 bps
+RX Bitrate: 18.01005025125628 bps
+Delay Mean: 430137142.85714287 ns
+Packet Loss Ratio: 0.125
+
+
+Flow ID: 579
+Source Address: None
+Destination Address: None
+TX Bitrate: 73.38805960081753 bps
+RX Bitrate: 73.3850896067018 bps
+Delay Mean: 991113.3333333334 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 580
+Source Address: None
+Destination Address: None
+TX Bitrate: 5.172378957577064 bps
+RX Bitrate: 5.172135122030063 bps
+Delay Mean: 5897350.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 581
+Source Address: None
+Destination Address: None
+TX Bitrate: 37.838782064202306 bps
+RX Bitrate: 37.836748404434 bps
+Delay Mean: 1341360.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 582
+Source Address: None
+Destination Address: None
+TX Bitrate: 15.030732479802454 bps
+RX Bitrate: 15.024179538945491 bps
+Delay Mean: 12553616.666666666 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 583
+Source Address: None
+Destination Address: None
+TX Bitrate: 36.288482701237356 bps
+RX Bitrate: 36.287508722958826 bps
+Delay Mean: 28746866.666666668 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 584
+Source Address: None
+Destination Address: None
+TX Bitrate: 24.478128711476135 bps
+RX Bitrate: 24.47697902548343 bps
+Delay Mean: 7790480.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 585
+Source Address: None
+Destination Address: None
+TX Bitrate: 76.43739474090326 bps
+RX Bitrate: 76.43380478248034 bps
+Delay Mean: 2408309.6774193547 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 586
+Source Address: None
+Destination Address: None
+TX Bitrate: 24.906399710141034 bps
+RX Bitrate: 24.90606548577563 bps
+Delay Mean: 3179570.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 587
+Source Address: None
+Destination Address: None
+TX Bitrate: 5.150318206508984 bps
+RX Bitrate: 5.150214592274678 bps
+Delay Mean: 2024995.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 588
+Source Address: None
+Destination Address: None
+TX Bitrate: 2.574606601452239 bps
+RX Bitrate: 2.5745893395910158 bps
+Delay Mean: 304220.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 589
+Source Address: None
+Destination Address: None
+TX Bitrate: 2.5745893395910158 bps
+RX Bitrate: 2.5745893395910158 bps
+Delay Mean: 897453.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 590
+Source Address: None
+Destination Address: None
+TX Bitrate: 29.87224281865948 bps
+RX Bitrate: 29.86925533546241 bps
+Delay Mean: 2014075.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 591
+Source Address: None
+Destination Address: None
+TX Bitrate: 2.5604779558850983 bps
+RX Bitrate: 2.560290166218838 bps
+Delay Mean: 10276200.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 592
+Source Address: None
+Destination Address: None
+TX Bitrate: 14.078122916944407 bps
+RX Bitrate: 14.076996907326436 bps
+Delay Mean: 4264850.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 593
+Source Address: None
+Destination Address: None
+TX Bitrate: 32.28964773113274 bps
+RX Bitrate: 21.913022766519124 bps
+Delay Mean: 297717777.7777778 ns
+Packet Loss Ratio: 0.3076923076923077
+
+
+Flow ID: 594
+Source Address: None
+Destination Address: None
+TX Bitrate: 7.237074040322742 bps
+RX Bitrate: 7.236929626180657 bps
+Delay Mean: 3205386.6666666665 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 595
+Source Address: None
+Destination Address: None
+TX Bitrate: 7.236833353287836 bps
+RX Bitrate: 7.236688948751206 bps
+Delay Mean: 1422980.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 596
+Source Address: None
+Destination Address: None
+TX Bitrate: 42.11058015033796 bps
+RX Bitrate: 42.108341253015574 bps
+Delay Mean: 1711152.9411764706 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 597
+Source Address: None
+Destination Address: None
+TX Bitrate: 28.912524996179986 bps
+RX Bitrate: 28.911564625850342 bps
+Delay Mean: 9725833.333333334 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 598
+Source Address: None
+Destination Address: None
+TX Bitrate: 32.737007832169695 bps
+RX Bitrate: 32.73526813293389 bps
+Delay Mean: 1775307.6923076923 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 599
+Source Address: None
+Destination Address: None
+TX Bitrate: 16.424928803232 bps
+RX Bitrate: 16.424602465014935 bps
+Delay Mean: 19277857.14285714 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 600
+Source Address: None
+Destination Address: None
+TX Bitrate: 17.37794378659037 bps
+RX Bitrate: 17.37736836179893 bps
+Delay Mean: 1687514.2857142857 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 601
+Source Address: None
+Destination Address: None
+TX Bitrate: 26.06605254269839 bps
+RX Bitrate: 26.063636062642786 bps
+Delay Mean: 3577390.909090909 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 602
+Source Address: None
+Destination Address: None
+TX Bitrate: 10.138680783371507 bps
+RX Bitrate: 10.07206510121245 bps
+Delay Mean: 251715000.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 603
+Source Address: None
+Destination Address: None
+TX Bitrate: 15.630466207697742 bps
+RX Bitrate: 15.630363036303631 bps
+Delay Mean: 6683833.333333333 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 604
+Source Address: None
+Destination Address: None
+TX Bitrate: 5.069306930693069 bps
+RX Bitrate: 5.069072716112126 bps
+Delay Mean: 6016300.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 605
+Source Address: None
+Destination Address: None
+TX Bitrate: 35.00059122620315 bps
+RX Bitrate: 34.54625619213113 bps
+Delay Mean: 135501333.33333334 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 606
+Source Address: None
+Destination Address: None
+TX Bitrate: 15.135390800520279 bps
+RX Bitrate: 12.530346933980734 bps
+Delay Mean: 200842000.0 ns
+Packet Loss Ratio: 0.16666666666666666
+
+
+Flow ID: 607
+Source Address: None
+Destination Address: None
+TX Bitrate: 7.567397130695254 bps
+RX Bitrate: 7.566949770429779 bps
+Delay Mean: 7972766.666666667 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 608
+Source Address: None
+Destination Address: None
+TX Bitrate: 55.35714285714286 bps
+RX Bitrate: 52.90825843649313 bps
+Delay Mean: 48130454.54545455 ns
+Packet Loss Ratio: 0.043478260869565216
+
+
+Flow ID: 609
+Source Address: None
+Destination Address: None
+TX Bitrate: 28.48876029379034 bps
+RX Bitrate: 28.487081972363868 bps
+Delay Mean: 4441400.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 610
+Source Address: None
+Destination Address: None
+TX Bitrate: 35.610017935928155 bps
+RX Bitrate: 35.608386298626066 bps
+Delay Mean: 2289693.3333333335 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 611
+Source Address: None
+Destination Address: None
+TX Bitrate: 15.500324014374458 bps
+RX Bitrate: 13.404808189500002 bps
+Delay Mean: 4814883.333333333 ns
+Packet Loss Ratio: 0.14285714285714285
+
+
+Flow ID: 612
+Source Address: None
+Destination Address: None
+TX Bitrate: 86.12658988613573 bps
+RX Bitrate: 86.12546462937438 bps
+Delay Mean: 5421400.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 613
+Source Address: None
+Destination Address: None
+TX Bitrate: 32.4573152494766 bps
+RX Bitrate: 24.80556057982998 bps
+Delay Mean: 100957000.0 ns
+Packet Loss Ratio: 0.23076923076923078
+
+
+Flow ID: 614
+Source Address: None
+Destination Address: None
+TX Bitrate: 14.561528960540855 bps
+RX Bitrate: 14.560582423296932 bps
+Delay Mean: 3183550.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 615
+Source Address: None
+Destination Address: None
+TX Bitrate: 17.234666597451138 bps
+RX Bitrate: 17.123221434972375 bps
+Delay Mean: 370572500.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 616
+Source Address: None
+Destination Address: None
+TX Bitrate: 16.60860143897961 bps
+RX Bitrate: 16.607739466087125 bps
+Delay Mean: 1541085.7142857143 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 617
+Source Address: None
+Destination Address: None
+TX Bitrate: 23.23305005088712 bps
+RX Bitrate: 23.232146445494557 bps
+Delay Mean: 1072320.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 618
+Source Address: None
+Destination Address: None
+TX Bitrate: 4.975801278936422 bps
+RX Bitrate: 4.975382223373931 bps
+Delay Mean: 7654200.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 619
+Source Address: None
+Destination Address: None
+TX Bitrate: 4.975382223373931 bps
+RX Bitrate: 4.975188836920046 bps
+Delay Mean: 3264670.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 620
+Source Address: None
+Destination Address: None
+TX Bitrate: 4.9717104496549585 bps
+RX Bitrate: 4.971452984813765 bps
+Delay Mean: 5048250.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 621
+Source Address: None
+Destination Address: None
+TX Bitrate: 2.4858391325457196 bps
+RX Bitrate: 2.4857586742620406 bps
+Delay Mean: 4672910.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 622
+Source Address: None
+Destination Address: None
+TX Bitrate: 13.982392542723979 bps
+RX Bitrate: 13.98148747491747 bps
+Delay Mean: 8480283.333333334 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 623
+Source Address: None
+Destination Address: None
+TX Bitrate: 5.178496294138589 bps
+RX Bitrate: 5.178462773325738 bps
+Delay Mean: 3526633.3333333335 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 624
+Source Address: None
+Destination Address: None
+TX Bitrate: 4.966534096420603 bps
+RX Bitrate: 4.966405628593045 bps
+Delay Mean: 3312370.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 625
+Source Address: None
+Destination Address: None
+TX Bitrate: 4.951644100580271 bps
+RX Bitrate: 4.951420632208733 bps
+Delay Mean: 9546800.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 626
+Source Address: None
+Destination Address: None
+TX Bitrate: 36.72185259683326 bps
+RX Bitrate: 36.7211423782355 bps
+Delay Mean: 2285550.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 627
+Source Address: None
+Destination Address: None
+TX Bitrate: 25.475571943350374 bps
+RX Bitrate: 25.47540772255528 bps
+Delay Mean: 906121.8181818182 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 628
+Source Address: None
+Destination Address: None
+TX Bitrate: 2.4720287373340715 bps
+RX Bitrate: 2.4719969100038623 bps
+Delay Mean: 2235910.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 629
+Source Address: None
+Destination Address: None
+TX Bitrate: 5.355958826066525 bps
+RX Bitrate: 5.3558898695145585 bps
+Delay Mean: 1362770.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 630
+Source Address: None
+Destination Address: None
+TX Bitrate: 6.565533513714527 bps
+RX Bitrate: 6.565280947862436 bps
+Delay Mean: 2084230.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 631
+Source Address: None
+Destination Address: None
+TX Bitrate: 3.9941112462395187 bps
+RX Bitrate: 3.9939067320370203 bps
+Delay Mean: 7708600.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 632
+Source Address: None
+Destination Address: None
+TX Bitrate: 16.795642350109773 bps
+RX Bitrate: 11.87908423525195 bps
+Delay Mean: 7179340.0 ns
+Packet Loss Ratio: 0.2857142857142857
+
+
+Flow ID: 633
+Source Address: None
+Destination Address: None
+TX Bitrate: 2.446732592517076 bps
+RX Bitrate: 2.446717002771672 bps
+Delay Mean: 1130340.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 634
+Source Address: None
+Destination Address: None
+TX Bitrate: 21.591892855324133 bps
+RX Bitrate: 21.590518503430804 bps
+Delay Mean: 1768077.7777777778 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 635
+Source Address: None
+Destination Address: None
+TX Bitrate: 14.619382102678317 bps
+RX Bitrate: 14.619103818479461 bps
+Delay Mean: 1459120.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 636
+Source Address: None
+Destination Address: None
+TX Bitrate: 20.609267825303462 bps
+RX Bitrate: 20.350749682019536 bps
+Delay Mean: 224734444.44444445 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 637
+Source Address: None
+Destination Address: None
+TX Bitrate: 9.339982995139655 bps
+RX Bitrate: 9.280976520138205 bps
+Delay Mean: 403942500.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 638
+Source Address: None
+Destination Address: None
+TX Bitrate: 62.80070904026336 bps
+RX Bitrate: 62.796733557004494 bps
+Delay Mean: 5395555.555555556 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 639
+Source Address: None
+Destination Address: None
+TX Bitrate: 13.268090116665505 bps
+RX Bitrate: 13.268006127590617 bps
+Delay Mean: 2521800.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 640
+Source Address: None
+Destination Address: None
+TX Bitrate: 4.861497949055553 bps
+RX Bitrate: 4.86122100199386 bps
+Delay Mean: 9207600.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 641
+Source Address: None
+Destination Address: None
+TX Bitrate: 4.456203871327113 bps
+RX Bitrate: 0 bps
+Delay Mean: 0 ns
+Packet Loss Ratio: 1.0
+
+
+Flow ID: 642
+Source Address: None
+Destination Address: None
+TX Bitrate: 16.811084175680893 bps
+RX Bitrate: 16.810020189745632 bps
+Delay Mean: 1708975.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 643
+Source Address: None
+Destination Address: None
+TX Bitrate: 2.4305181940743457 bps
+RX Bitrate: 2.4153525848675645 bps
+Delay Mean: 991196000.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 644
+Source Address: None
+Destination Address: None
+TX Bitrate: 9.418198389791888 bps
+RX Bitrate: 9.382034161196966 bps
+Delay Mean: 132614000.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 645
+Source Address: None
+Destination Address: None
+TX Bitrate: 6.3800294949776255 bps
+RX Bitrate: 6.379625703309431 bps
+Delay Mean: 5322133.333333333 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 646
+Source Address: None
+Destination Address: None
+TX Bitrate: 12.110661166408052 bps
+RX Bitrate: 12.110661166408052 bps
+Delay Mean: 1176026.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 647
+Source Address: None
+Destination Address: None
+TX Bitrate: 12.110661166408052 bps
+RX Bitrate: 12.110050080102935 bps
+Delay Mean: 2804820.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 648
+Source Address: None
+Destination Address: None
+TX Bitrate: 6.355451312703336 bps
+RX Bitrate: 6.3552910319782105 bps
+Delay Mean: 5138866.666666667 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 649
+Source Address: None
+Destination Address: None
+TX Bitrate: 37.00576009276649 bps
+RX Bitrate: 33.77958329486351 bps
+Delay Mean: 1977986.6666666667 ns
+Packet Loss Ratio: 0.0625
+
+
+Flow ID: 650
+Source Address: None
+Destination Address: None
+TX Bitrate: 2.4154741311526973 bps
+RX Bitrate: 2.4154589371980677 bps
+Delay Mean: 304182.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 651
+Source Address: None
+Destination Address: None
+TX Bitrate: 3.9097499389101573 bps
+RX Bitrate: 3.909676449211799 bps
+Delay Mean: 2206015.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 652
+Source Address: None
+Destination Address: None
+TX Bitrate: 8.41230299312745 bps
+RX Bitrate: 6.4089725615862205 bps
+Delay Mean: 3408666.6666666665 ns
+Packet Loss Ratio: 0.25
+
+
+Flow ID: 653
+Source Address: None
+Destination Address: None
+TX Bitrate: 23.479082723971544 bps
+RX Bitrate: 23.478060821607777 bps
+Delay Mean: 2915830.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 654
+Source Address: None
+Destination Address: None
+TX Bitrate: 4.367435310466335 bps
+RX Bitrate: 4.367326935364802 bps
+Delay Mean: 1997540.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 655
+Source Address: None
+Destination Address: None
+TX Bitrate: 16.61382136433591 bps
+RX Bitrate: 16.613410631841134 bps
+Delay Mean: 1174848.5714285714 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 656
+Source Address: None
+Destination Address: None
+TX Bitrate: 49.44467449952719 bps
+RX Bitrate: 49.443452141828544 bps
+Delay Mean: 807627.2727272727 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 657
+Source Address: None
+Destination Address: None
+TX Bitrate: 2.373329707412947 bps
+RX Bitrate: 2.3732563673108658 bps
+Delay Mean: 5580110.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 658
+Source Address: None
+Destination Address: None
+TX Bitrate: 1.483285229569291 bps
+RX Bitrate: 1.4831935629399369 bps
+Delay Mean: 10148000.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 659
+Source Address: None
+Destination Address: None
+TX Bitrate: 13.406361860872028 bps
+RX Bitrate: 13.405453358139994 bps
+Delay Mean: 6974683.333333333 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 660
+Source Address: None
+Destination Address: None
+TX Bitrate: 9.069009494119314 bps
+RX Bitrate: 9.068953620188278 bps
+Delay Mean: 302735.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 661
+Source Address: None
+Destination Address: None
+TX Bitrate: 6.308448639124703 bps
+RX Bitrate: 6.308254326144141 bps
+Delay Mean: 7706233.333333333 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 662
+Source Address: None
+Destination Address: None
+TX Bitrate: 16.55916760612837 bps
+RX Bitrate: 16.55804555926524 bps
+Delay Mean: 1543912.5 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 663
+Source Address: None
+Destination Address: None
+TX Bitrate: 7.095562193957686 bps
+RX Bitrate: 7.095474787043368 bps
+Delay Mean: 1743553.3333333333 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 664
+Source Address: None
+Destination Address: None
+TX Bitrate: 4.730199986449948 bps
+RX Bitrate: 4.729996058336618 bps
+Delay Mean: 3700240.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 665
+Source Address: None
+Destination Address: None
+TX Bitrate: 2.3636151000535506 bps
+RX Bitrate: 2.363484169579989 bps
+Delay Mean: 8246100.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 666
+Source Address: None
+Destination Address: None
+TX Bitrate: 48.84564014501049 bps
+RX Bitrate: 44.510367493645326 bps
+Delay Mean: 2224852.6315789474 ns
+Packet Loss Ratio: 0.047619047619047616
+
+
+Flow ID: 667
+Source Address: None
+Destination Address: None
+TX Bitrate: 7.0904525087399675 bps
+RX Bitrate: 7.047035290231414 bps
+Delay Mean: 433263333.3333333 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 668
+Source Address: None
+Destination Address: None
+TX Bitrate: 13.775968315272875 bps
+RX Bitrate: 13.775036436201288 bps
+Delay Mean: 2780566.6666666665 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 669
+Source Address: None
+Destination Address: None
+TX Bitrate: 2.361594568332493 bps
+RX Bitrate: 2.361492906296699 bps
+Delay Mean: 7175980.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 670
+Source Address: None
+Destination Address: None
+TX Bitrate: 6.19876639629058 bps
+RX Bitrate: 6.198347107438017 bps
+Delay Mean: 6690600.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 671
+Source Address: None
+Destination Address: None
+TX Bitrate: 12.074804888823442 bps
+RX Bitrate: 12.000804932038124 bps
+Delay Mean: 169640000.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 672
+Source Address: None
+Destination Address: None
+TX Bitrate: 2.3532872481247242 bps
+RX Bitrate: 2.348537668342446 bps
+Delay Mean: 330375000.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 673
+Source Address: None
+Destination Address: None
+TX Bitrate: 10.981401476851426 bps
+RX Bitrate: 10.981334183079431 bps
+Delay Mean: 619938.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 674
+Source Address: None
+Destination Address: None
+TX Bitrate: 7.045095952739148 bps
+RX Bitrate: 7.001890267250968 bps
+Delay Mean: 541830000.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 675
+Source Address: None
+Destination Address: None
+TX Bitrate: 5.282400557586725 bps
+RX Bitrate: 5.282271376691978 bps
+Delay Mean: 4963400.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 676
+Source Address: None
+Destination Address: None
+TX Bitrate: 18.781179692849456 bps
+RX Bitrate: 18.781179692849456 bps
+Delay Mean: 3471750.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 677
+Source Address: None
+Destination Address: None
+TX Bitrate: 11.346962731096546 bps
+RX Bitrate: 11.346962731096546 bps
+Delay Mean: 964906.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 678
+Source Address: None
+Destination Address: None
+TX Bitrate: 6.651667807884182 bps
+RX Bitrate: 6.651301833387334 bps
+Delay Mean: 4793800.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 679
+Source Address: None
+Destination Address: None
+TX Bitrate: 4.695208808407358 bps
+RX Bitrate: 4.683298066310135 bps
+Delay Mean: 344091000.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 680
+Source Address: None
+Destination Address: None
+TX Bitrate: 28.099788397860806 bps
+RX Bitrate: 27.928965391841928 bps
+Delay Mean: 109643846.15384616 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 681
+Source Address: None
+Destination Address: None
+TX Bitrate: 16.00117081737688 bps
+RX Bitrate: 13.576168974817419 bps
+Delay Mean: 249810000.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 682
+Source Address: None
+Destination Address: None
+TX Bitrate: 2.338113069686729 bps
+RX Bitrate: 2.3239487762957225 bps
+Delay Mean: 1001320000.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 683
+Source Address: None
+Destination Address: None
+TX Bitrate: 7.793710232289097 bps
+RX Bitrate: 4.675912959828549 bps
+Delay Mean: 6124400.0 ns
+Packet Loss Ratio: 0.3333333333333333
+
+
+Flow ID: 684
+Source Address: None
+Destination Address: None
+TX Bitrate: 3.799433738240935 bps
+RX Bitrate: 3.799202411032299 bps
+Delay Mean: 6435750.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 685
+Source Address: None
+Destination Address: None
+TX Bitrate: 11.690565348433646 bps
+RX Bitrate: 11.690351806524678 bps
+Delay Mean: 3549160.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 686
+Source Address: None
+Destination Address: None
+TX Bitrate: 3.799202411032299 bps
+RX Bitrate: 3.798947983635301 bps
+Delay Mean: 6402700.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 687
+Source Address: None
+Destination Address: None
+TX Bitrate: 2.3348716732638954 bps
+RX Bitrate: 2.3348148868770027 bps
+Delay Mean: 4441160.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 688
+Source Address: None
+Destination Address: None
+TX Bitrate: 1.4592593042981266 bps
+RX Bitrate: 1.4586916751250523 bps
+Delay Mean: 63171200.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 689
+Source Address: None
+Destination Address: None
+TX Bitrate: 7.0042743097567355 bps
+RX Bitrate: 6.920041087743958 bps
+Delay Mean: 1334100000.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 690
+Source Address: None
+Destination Address: None
+TX Bitrate: 15.95049510969005 bps
+RX Bitrate: 15.950301195664728 bps
+Delay Mean: 2863885.714285714 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 691
+Source Address: None
+Destination Address: None
+TX Bitrate: 41.622600683174696 bps
+RX Bitrate: 39.0510309496336 bps
+Delay Mean: 128440588.23529412 ns
+Packet Loss Ratio: 0.05555555555555555
+
+
+Flow ID: 692
+Source Address: None
+Destination Address: None
+TX Bitrate: 12.739240629425458 bps
+RX Bitrate: 10.404764798833112 bps
+Delay Mean: 13945860.0 ns
+Packet Loss Ratio: 0.16666666666666666
+
+
+Flow ID: 693
+Source Address: None
+Destination Address: None
+TX Bitrate: 2.3311013846985045 bps
+RX Bitrate: 2.3308891370854172 bps
+Delay Mean: 15743700.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 694
+Source Address: None
+Destination Address: None
+TX Bitrate: 24.088047641884547 bps
+RX Bitrate: 23.971051089510855 bps
+Delay Mean: 142206363.63636363 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 695
+Source Address: None
+Destination Address: None
+TX Bitrate: 10.878473128593022 bps
+RX Bitrate: 10.877614694491994 bps
+Delay Mean: 25569800.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 696
+Source Address: None
+Destination Address: None
+TX Bitrate: 2.326314003925655 bps
+RX Bitrate: 2.3262435407365225 bps
+Delay Mean: 5689200.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 697
+Source Address: None
+Destination Address: None
+TX Bitrate: 3.776416761480549 bps
+RX Bitrate: 3.7763481986698055 bps
+Delay Mean: 1629575.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 698
+Source Address: None
+Destination Address: None
+TX Bitrate: 2.3239487762957225 bps
+RX Bitrate: 2.323794077956029 bps
+Delay Mean: 10906900.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 699
+Source Address: None
+Destination Address: None
+TX Bitrate: 4.6336239403903585 bps
+RX Bitrate: 0 bps
+Delay Mean: 0 ns
+Packet Loss Ratio: 1.0
+
+
+Flow ID: 700
+Source Address: None
+Destination Address: None
+TX Bitrate: 2.3048942989880072 bps
+RX Bitrate: 2.304783626432987 bps
+Delay Mean: 7682250.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 701
+Source Address: None
+Destination Address: None
+TX Bitrate: 4.6061391197956025 bps
+RX Bitrate: 4.605724771962651 bps
+Delay Mean: 8000150.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 702
+Source Address: None
+Destination Address: None
+TX Bitrate: 6.909208679693403 bps
+RX Bitrate: 6.90846286701209 bps
+Delay Mean: 6842200.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 703
+Source Address: None
+Destination Address: None
+TX Bitrate: 1.4392717285053762 bps
+RX Bitrate: 1.4391767908756192 bps
+Delay Mean: 10661800.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 704
+Source Address: None
+Destination Address: None
+TX Bitrate: 2.2941809057235036 bps
+RX Bitrate: 2.2941671993834425 bps
+Delay Mean: 304398.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 705
+Source Address: None
+Destination Address: None
+TX Bitrate: 2.2941671993834425 bps
+RX Bitrate: 2.2941397871946374 bps
+Delay Mean: 2866350.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 706
+Source Address: None
+Destination Address: None
+TX Bitrate: 2.2838790257828534 bps
+RX Bitrate: 2.2838246926649974 bps
+Delay Mean: 3335110.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 707
+Source Address: None
+Destination Address: None
+TX Bitrate: 2.283838275702102 bps
+RX Bitrate: 2.2837839445230816 bps
+Delay Mean: 4708750.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 708
+Source Address: None
+Destination Address: None
+TX Bitrate: 4.187011936552495 bps
+RX Bitrate: 4.162232470143077 bps
+Delay Mean: 501235000.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 709
+Source Address: None
+Destination Address: None
+TX Bitrate: 1.890470845394931 bps
+RX Bitrate: 1.8904596770858566 bps
+Delay Mean: 298157.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 710
+Source Address: None
+Destination Address: None
+TX Bitrate: 2.2602727631245916 bps
+RX Bitrate: 2.2469937681032213 bps
+Delay Mean: 1003830000.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 711
+Source Address: None
+Destination Address: None
+TX Bitrate: 2.2602727631245916 bps
+RX Bitrate: 2.2601264258219445 bps
+Delay Mean: 10668500.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 712
+Source Address: None
+Destination Address: None
+TX Bitrate: 6.780818289373776 bps
+RX Bitrate: 4.520332668232303 bps
+Delay Mean: 5011450.0 ns
+Packet Loss Ratio: 0.3333333333333333
+
+
+Flow ID: 713
+Source Address: None
+Destination Address: None
+TX Bitrate: 2.2601397284300857 bps
+RX Bitrate: 2.260046613461403 bps
+Delay Mean: 7385330.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 714
+Source Address: None
+Destination Address: None
+TX Bitrate: 4.143589502121824 bps
+RX Bitrate: 4.14351633863829 bps
+Delay Mean: 1753420.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 715
+Source Address: None
+Destination Address: None
+TX Bitrate: 11.300698642150428 bps
+RX Bitrate: 8.663868958981995 bps
+Delay Mean: 2839825.0 ns
+Packet Loss Ratio: 0.2
+
+
+Flow ID: 716
+Source Address: None
+Destination Address: None
+TX Bitrate: 1.4125790161387153 bps
+RX Bitrate: 1.412504193371824 bps
+Delay Mean: 9204100.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 717
+Source Address: None
+Destination Address: None
+TX Bitrate: 1.4125623881721443 bps
+RX Bitrate: 1.4124792542109539 bps
+Delay Mean: 9442010.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 718
+Source Address: None
+Destination Address: None
+TX Bitrate: 1.4043711050645131 bps
+RX Bitrate: 1.4043382348638669 bps
+Delay Mean: 4089900.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 719
+Source Address: None
+Destination Address: None
+TX Bitrate: 20.652407749181943 bps
+RX Bitrate: 20.651823168764118 bps
+Delay Mean: 1712500.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 720
+Source Address: None
+Destination Address: None
+TX Bitrate: 6.159141343236267 bps
+RX Bitrate: 6.159071610529295 bps
+Delay Mean: 666283.3333333334 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 721
+Source Address: None
+Destination Address: None
+TX Bitrate: 6.883746207146416 bps
+RX Bitrate: 6.88347343692508 bps
+Delay Mean: 2829966.6666666665 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 722
+Source Address: None
+Destination Address: None
+TX Bitrate: 23.18709312199264 bps
+RX Bitrate: 23.18709312199264 bps
+Delay Mean: 1922609.0909090908 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 723
+Source Address: None
+Destination Address: None
+TX Bitrate: 6.516168809498221 bps
+RX Bitrate: 6.515837104072398 bps
+Delay Mean: 3038786.6666666665 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 724
+Source Address: None
+Destination Address: None
+TX Bitrate: 27.51271275121471 bps
+RX Bitrate: 27.511156611105143 bps
+Delay Mean: 2656676.923076923 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 725
+Source Address: None
+Destination Address: None
+TX Bitrate: 11.040723981900452 bps
+RX Bitrate: 11.03972491177269 bps
+Delay Mean: 3807150.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 726
+Source Address: None
+Destination Address: None
+TX Bitrate: 3.9819004524886874 bps
+RX Bitrate: 3.9817202841500388 bps
+Delay Mean: 4297275.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 727
+Source Address: None
+Destination Address: None
+TX Bitrate: 6.877477956438869 bps
+RX Bitrate: 6.877011214731282 bps
+Delay Mean: 7784433.333333333 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 728
+Source Address: None
+Destination Address: None
+TX Bitrate: 2.17183514413859 bps
+RX Bitrate: 0 bps
+Delay Mean: 0 ns
+Packet Loss Ratio: 1.0
+
+
+Flow ID: 729
+Source Address: None
+Destination Address: None
+TX Bitrate: 10.496431439526756 bps
+RX Bitrate: 10.495956568455577 bps
+Delay Mean: 3157820.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 730
+Source Address: None
+Destination Address: None
+TX Bitrate: 17.372617768478197 bps
+RX Bitrate: 17.372323039251725 bps
+Delay Mean: 1826012.5 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 731
+Source Address: None
+Destination Address: None
+TX Bitrate: 30.72422186954631 bps
+RX Bitrate: 30.722833729605178 bps
+Delay Mean: 1258262.5 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 732
+Source Address: None
+Destination Address: None
+TX Bitrate: 2.1687686025562103 bps
+RX Bitrate: 2.168707360050603 bps
+Delay Mean: 5329690.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 733
+Source Address: None
+Destination Address: None
+TX Bitrate: 1.355442100031627 bps
+RX Bitrate: 1.3553655533844606 bps
+Delay Mean: 9341770.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 734
+Source Address: None
+Destination Address: None
+TX Bitrate: 1.35541913512964 bps
+RX Bitrate: 1.3553808620222283 bps
+Delay Mean: 4381680.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 735
+Source Address: None
+Destination Address: None
+TX Bitrate: 22.329643614836158 bps
+RX Bitrate: 22.329643614836158 bps
+Delay Mean: 2202790.909090909 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 736
+Source Address: None
+Destination Address: None
+TX Bitrate: 13.977163912485931 bps
+RX Bitrate: 13.977007374887304 bps
+Delay Mean: 1227407.142857143 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 737
+Source Address: None
+Destination Address: None
+TX Bitrate: 2.15033290961322 bps
+RX Bitrate: 2.150212501469872 bps
+Delay Mean: 10195800.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 738
+Source Address: None
+Destination Address: None
+TX Bitrate: 6.413753939002527 bps
+RX Bitrate: 6.413718230660023 bps
+Delay Mean: 3657466.6666666665 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 739
+Source Address: None
+Destination Address: None
+TX Bitrate: 12.82736504543025 bps
+RX Bitrate: 12.82707938982296 bps
+Delay Mean: 1033761.6666666666 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 740
+Source Address: None
+Destination Address: None
+TX Bitrate: 6.948001336154103 bps
+RX Bitrate: 6.947923973678057 bps
+Delay Mean: 112925250.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 741
+Source Address: None
+Destination Address: None
+TX Bitrate: 4.275693129940986 bps
+RX Bitrate: 4.273623175502346 bps
+Delay Mean: 43813350.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 742
+Source Address: None
+Destination Address: None
+TX Bitrate: 7.838377990190894 bps
+RX Bitrate: 7.83807254670556 bps
+Delay Mean: 2773200.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 743
+Source Address: None
+Destination Address: None
+TX Bitrate: 7.393015604384593 bps
+RX Bitrate: 7.392357148821286 bps
+Delay Mean: 5343150.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 744
+Source Address: None
+Destination Address: None
+TX Bitrate: 1.335507242344483 bps
+RX Bitrate: 1.3353734872722214 bps
+Delay Mean: 18533200.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 745
+Source Address: None
+Destination Address: None
+TX Bitrate: 20.912252719257438 bps
+RX Bitrate: 20.91213690360812 bps
+Delay Mean: 615105.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 746
+Source Address: None
+Destination Address: None
+TX Bitrate: 6.359827092200931 bps
+RX Bitrate: 6.3597568717945885 bps
+Delay Mean: 1052243.3333333333 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 747
+Source Address: None
+Destination Address: None
+TX Bitrate: 2.119895550979624 bps
+RX Bitrate: 2.119872145211242 bps
+Delay Mean: 2116100.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 748
+Source Address: None
+Destination Address: None
+TX Bitrate: 8.615763330256275 bps
+RX Bitrate: 7.2949396849113395 bps
+Delay Mean: 13094350.0 ns
+Packet Loss Ratio: 0.2
+
+
+Flow ID: 749
+Source Address: None
+Destination Address: None
+TX Bitrate: 14.066552375928612 bps
+RX Bitrate: 13.989376816979606 bps
+Delay Mean: 146630000.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 750
+Source Address: None
+Destination Address: None
+TX Bitrate: 4.219965712778584 bps
+RX Bitrate: 2.1098553320549662 bps
+Delay Mean: 10431900.0 ns
+Packet Loss Ratio: 0.5
+
+
+Flow ID: 751
+Source Address: None
+Destination Address: None
+TX Bitrate: 14.769879994725043 bps
+RX Bitrate: 14.766877805184889 bps
+Delay Mean: 11934500.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 752
+Source Address: None
+Destination Address: None
+TX Bitrate: 3.428684462125125 bps
+RX Bitrate: 3.4286467834457897 bps
+Delay Mean: 19107300.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 753
+Source Address: None
+Destination Address: None
+TX Bitrate: 8.439467698157163 bps
+RX Bitrate: 8.439004021712854 bps
+Delay Mean: 7815350.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 754
+Source Address: None
+Destination Address: None
+TX Bitrate: 5.977956286194657 bps
+RX Bitrate: 5.945257728015388 bps
+Delay Mean: 334683333.3333333 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 755
+Source Address: None
+Destination Address: None
+TX Bitrate: 6.329600773617872 bps
+RX Bitrate: 6.329426890174553 bps
+Delay Mean: 7029133.333333333 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 756
+Source Address: None
+Destination Address: None
+TX Bitrate: 2.1098669245392907 bps
+RX Bitrate: 2.1097857798240747 bps
+Delay Mean: 6922380.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 757
+Source Address: None
+Destination Address: None
+TX Bitrate: 6.329600773617872 bps
+RX Bitrate: 2.109774188231416 bps
+Delay Mean: 8700620.0 ns
+Packet Loss Ratio: 0.6666666666666666
+
+
+Flow ID: 758
+Source Address: None
+Destination Address: None
+TX Bitrate: 10.28407561432519 bps
+RX Bitrate: 10.283906126395358 bps
+Delay Mean: 4106583.3333333335 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 759
+Source Address: None
+Destination Address: None
+TX Bitrate: 19.599657225725647 bps
+RX Bitrate: 19.598903603935163 bps
+Delay Mean: 1373010.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 760
+Source Address: None
+Destination Address: None
+TX Bitrate: 3.934512229775514 bps
+RX Bitrate: 3.9344262295081966 bps
+Delay Mean: 10307900.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 761
+Source Address: None
+Destination Address: None
+TX Bitrate: 1.3114539105916299 bps
+RX Bitrate: 1.3114037484290477 bps
+Delay Mean: 6661780.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 762
+Source Address: None
+Destination Address: None
+TX Bitrate: 8.393075712537156 bps
+RX Bitrate: 8.39133332604919 bps
+Delay Mean: 10370800.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 763
+Source Address: None
+Destination Address: None
+TX Bitrate: 2.098268928134289 bps
+RX Bitrate: 0 bps
+Delay Mean: 0 ns
+Packet Loss Ratio: 1.0
+
+
+Flow ID: 764
+Source Address: None
+Destination Address: None
+TX Bitrate: 7.691929483362378 bps
+RX Bitrate: 7.691509294817518 bps
+Delay Mean: 15869375.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 765
+Source Address: None
+Destination Address: None
+TX Bitrate: 2.0953950419897525 bps
+RX Bitrate: 2.0869224958288726 bps
+Delay Mean: 744247000.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 766
+Source Address: None
+Destination Address: None
+TX Bitrate: 10.47480318826822 bps
+RX Bitrate: 10.474346035296364 bps
+Delay Mean: 15356260.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 767
+Source Address: None
+Destination Address: None
+TX Bitrate: 4.189738414118546 bps
+RX Bitrate: 4.189669845287713 bps
+Delay Mean: 2895045.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 768
+Source Address: None
+Destination Address: None
+TX Bitrate: 6.284504767931569 bps
+RX Bitrate: 4.189669845287713 bps
+Delay Mean: 410749.5 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 769
+Source Address: None
+Destination Address: None
+TX Bitrate: 2.092643051771117 bps
+RX Bitrate: 2.092472005013214 bps
+Delay Mean: 15087700.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 770
+Source Address: None
+Destination Address: None
+TX Bitrate: 4.185286103542234 bps
+RX Bitrate: 2.092494809632015 bps
+Delay Mean: 13578000.0 ns
+Packet Loss Ratio: 0.5
+
+
+Flow ID: 771
+Source Address: None
+Destination Address: None
+TX Bitrate: 1.307795003133259 bps
+RX Bitrate: 1.3077237433592153 bps
+Delay Mean: 10282400.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 772
+Source Address: None
+Destination Address: None
+TX Bitrate: 16.38942315550882 bps
+RX Bitrate: 16.343296151610154 bps
+Delay Mean: 65159875.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 773
+Source Address: None
+Destination Address: None
+TX Bitrate: 3.8358224406510004 bps
+RX Bitrate: 3.8358015408589146 bps
+Delay Mean: 2070495.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 774
+Source Address: None
+Destination Address: None
+TX Bitrate: 4.184510771846089 bps
+RX Bitrate: 4.184396776706858 bps
+Delay Mean: 3894360.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 775
+Source Address: None
+Destination Address: None
+TX Bitrate: 12.553190330120575 bps
+RX Bitrate: 12.55298514781358 bps
+Delay Mean: 2833183.3333333335 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 776
+Source Address: None
+Destination Address: None
+TX Bitrate: 32.340666644873764 bps
+RX Bitrate: 32.34013805577802 bps
+Delay Mean: 940556.25 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 777
+Source Address: None
+Destination Address: None
+TX Bitrate: 17.434226655842917 bps
+RX Bitrate: 17.433466808313582 bps
+Delay Mean: 1709488.888888889 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 778
+Source Address: None
+Destination Address: None
+TX Bitrate: 3.835446279235744 bps
+RX Bitrate: 3.814643027439421 bps
+Delay Mean: 666745000.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 779
+Source Address: None
+Destination Address: None
+TX Bitrate: 1.3043265598930454 bps
+RX Bitrate: 1.3043052943925741 bps
+Delay Mean: 3421980.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 780
+Source Address: None
+Destination Address: None
+TX Bitrate: 6.256721087105288 bps
+RX Bitrate: 6.255497996285799 bps
+Delay Mean: 21437300.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 781
+Source Address: None
+Destination Address: None
+TX Bitrate: 2.0855057351407718 bps
+RX Bitrate: 2.085109386793221 bps
+Delay Mean: 34696500.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 782
+Source Address: None
+Destination Address: None
+TX Bitrate: 7.64685436218283 bps
+RX Bitrate: 5.8769513314967865 bps
+Delay Mean: 665620000.0 ns
+Packet Loss Ratio: 0.25
+
+
+Flow ID: 783
+Source Address: None
+Destination Address: None
+TX Bitrate: 2.0855057351407718 bps
+RX Bitrate: 2.085007492995678 bps
+Delay Mean: 43429800.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 784
+Source Address: None
+Destination Address: None
+TX Bitrate: 15.293044271625321 bps
+RX Bitrate: 15.292379876618298 bps
+Delay Mean: 1931237.5 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 785
+Source Address: None
+Destination Address: None
+TX Bitrate: 4.1708302558978145 bps
+RX Bitrate: 4.169879138659341 bps
+Delay Mean: 42443750.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 786
+Source Address: None
+Destination Address: None
+TX Bitrate: 4.1708302558978145 bps
+RX Bitrate: 4.1699923441546805 bps
+Delay Mean: 37018250.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 787
+Source Address: None
+Destination Address: None
+TX Bitrate: 5.908676195855238 bps
+RX Bitrate: 5.907649537378915 bps
+Delay Mean: 21553800.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 788
+Source Address: None
+Destination Address: None
+TX Bitrate: 2.0853924773810943 bps
+RX Bitrate: 2.0629966100237995 bps
+Delay Mean: 1998830000.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 789
+Source Address: None
+Destination Address: None
+TX Bitrate: 2.5927726462485823 bps
+RX Bitrate: 2.592688618096967 bps
+Delay Mean: 6045100.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 790
+Source Address: None
+Destination Address: None
+TX Bitrate: 1.2893728812648748 bps
+RX Bitrate: 1.2893036148850103 bps
+Delay Mean: 9493280.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 791
+Source Address: None
+Destination Address: None
+TX Bitrate: 2.0629966100237995 bps
+RX Bitrate: 2.0629411954314447 bps
+Delay Mean: 4576130.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 792
+Source Address: None
+Destination Address: None
+TX Bitrate: 6.135524795083059 bps
+RX Bitrate: 6.1339566682818 bps
+Delay Mean: 16318433.333333334 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 793
+Source Address: None
+Destination Address: None
+TX Bitrate: 1.277907639225375 bps
+RX Bitrate: 1.2778327955786986 bps
+Delay Mean: 10531900.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 794
+Source Address: None
+Destination Address: None
+TX Bitrate: 2.0433248726912825 bps
+RX Bitrate: 2.043216149920985 bps
+Delay Mean: 10115900.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 795
+Source Address: None
+Destination Address: None
+TX Bitrate: 4.064287717701349 bps
+RX Bitrate: 4.064266209436719 bps
+Delay Mean: 410896.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 796
+Source Address: None
+Destination Address: None
+TX Bitrate: 7.366482504604051 bps
+RX Bitrate: 7.366287592144744 bps
+Delay Mean: 2360545.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 797
+Source Address: None
+Destination Address: None
+TX Bitrate: 24.384693947748595 bps
+RX Bitrate: 24.3839197362642 bps
+Delay Mean: 1709683.3333333333 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 798
+Source Address: None
+Destination Address: None
+TX Bitrate: 25.666598067617553 bps
+RX Bitrate: 25.665379176428377 bps
+Delay Mean: 2079853.8461538462 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 799
+Source Address: None
+Destination Address: None
+TX Bitrate: 71.78921375469567 bps
+RX Bitrate: 71.78921375469567 bps
+Delay Mean: 8194324.324324325 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 800
+Source Address: None
+Destination Address: None
+TX Bitrate: 22.69634704395841 bps
+RX Bitrate: 16.556914393226716 bps
+Delay Mean: 112024444.44444445 ns
+Packet Loss Ratio: 0.25
+
+
+Flow ID: 801
+Source Address: None
+Destination Address: None
+TX Bitrate: 6.052136635390289 bps
+RX Bitrate: 6.051850489874183 bps
+Delay Mean: 3838866.6666666665 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 802
+Source Address: None
+Destination Address: None
+TX Bitrate: 7.733245073471082 bps
+RX Bitrate: 7.733082568518158 bps
+Delay Mean: 1710292.5 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 803
+Source Address: None
+Destination Address: None
+TX Bitrate: 4.034651774879039 bps
+RX Bitrate: 4.034588188322809 bps
+Delay Mean: 1646860.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 804
+Source Address: None
+Destination Address: None
+TX Bitrate: 18.817401896441286 bps
+RX Bitrate: 18.71892366188944 bps
+Delay Mean: 185489000.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 805
+Source Address: None
+Destination Address: None
+TX Bitrate: 2.0161502031901377 bps
+RX Bitrate: 0 bps
+Delay Mean: 0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 806
+Source Address: None
+Destination Address: None
+TX Bitrate: 2.0161502031901377 bps
+RX Bitrate: 0 bps
+Delay Mean: 0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 807
+Source Address: None
+Destination Address: None
+TX Bitrate: 2.0161078617706045 bps
+RX Bitrate: 0 bps
+Delay Mean: 0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 808
+Source Address: None
+Destination Address: None
+TX Bitrate: 13.776520063632402 bps
+RX Bitrate: 13.77637540622982 bps
+Delay Mean: 8277785.714285715 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 809
+Source Address: None
+Destination Address: None
+TX Bitrate: 17.136377000294004 bps
+RX Bitrate: 17.135747247728094 bps
+Delay Mean: 1529566.6666666667 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 810
+Source Address: None
+Destination Address: None
+TX Bitrate: 20.151027754892134 bps
+RX Bitrate: 20.149335963941084 bps
+Delay Mean: 2025740.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 811
+Source Address: None
+Destination Address: None
+TX Bitrate: 4.030205550978427 bps
+RX Bitrate: 4.029888338510621 bps
+Delay Mean: 8604050.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 812
+Source Address: None
+Destination Address: None
+TX Bitrate: 13.350055887616039 bps
+RX Bitrate: 13.34935535837037 bps
+Delay Mean: 3928400.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 813
+Source Address: None
+Destination Address: None
+TX Bitrate: 7.304440911166035 bps
+RX Bitrate: 7.304019309476335 bps
+Delay Mean: 12715425.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 814
+Source Address: None
+Destination Address: None
+TX Bitrate: 2.01501818239063 bps
+RX Bitrate: 2.0149230236438624 bps
+Delay Mean: 8918330.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 815
+Source Address: None
+Destination Address: None
+TX Bitrate: 24.012048003106454 bps
+RX Bitrate: 24.010284125193483 bps
+Delay Mean: 4241492.307692308 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 816
+Source Address: None
+Destination Address: None
+TX Bitrate: 13.348935076110969 bps
+RX Bitrate: 13.348164627363738 bps
+Delay Mean: 2723842.8571428573 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 817
+Source Address: None
+Destination Address: None
+TX Bitrate: 13.431762971357816 bps
+RX Bitrate: 9.401839444703858 bps
+Delay Mean: 4840800.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 818
+Source Address: None
+Destination Address: None
+TX Bitrate: 21.698536391992405 bps
+RX Bitrate: 21.697970509537196 bps
+Delay Mean: 920927.2727272727 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 819
+Source Address: None
+Destination Address: None
+TX Bitrate: 5.674972224975094 bps
+RX Bitrate: 4.005591137629608 bps
+Delay Mean: 9770350.0 ns
+Packet Loss Ratio: 0.3333333333333333
+
+
+Flow ID: 820
+Source Address: None
+Destination Address: None
+TX Bitrate: 7.260626229012253 bps
+RX Bitrate: 7.260209669848225 bps
+Delay Mean: 3331125.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 821
+Source Address: None
+Destination Address: None
+TX Bitrate: 1.2517472305092525 bps
+RX Bitrate: 0 bps
+Delay Mean: 0 ns
+Packet Loss Ratio: 1.0
+
+
+Flow ID: 822
+Source Address: None
+Destination Address: None
+TX Bitrate: 2.0027746774176722 bps
+RX Bitrate: 2.0026388939592272 bps
+Delay Mean: 12940400.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 823
+Source Address: None
+Destination Address: None
+TX Bitrate: 2.0027746774176722 bps
+RX Bitrate: 1.9923729473110747 bps
+Delay Mean: 1001240000.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 824
+Source Address: None
+Destination Address: None
+TX Bitrate: 2.0027746774176722 bps
+RX Bitrate: 2.0026180058305387 bps
+Delay Mean: 15752300.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 825
+Source Address: None
+Destination Address: None
+TX Bitrate: 2.0027746774176722 bps
+RX Bitrate: 2.0022003347428687 bps
+Delay Mean: 54959600.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 826
+Source Address: None
+Destination Address: None
+TX Bitrate: 4.005465791861812 bps
+RX Bitrate: 3.9846425236069316 bps
+Delay Mean: 507740000.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 827
+Source Address: None
+Destination Address: None
+TX Bitrate: 7.985650783747953 bps
+RX Bitrate: 7.98527714526342 bps
+Delay Mean: 2746750.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 828
+Source Address: None
+Destination Address: None
+TX Bitrate: 3.992721601247726 bps
+RX Bitrate: 3.9493374060875337 bps
+Delay Mean: 2113690000.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 829
+Source Address: None
+Destination Address: None
+TX Bitrate: 3.2440188402632644 bps
+RX Bitrate: 3.243816474844827 bps
+Delay Mean: 6337450.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 830
+Source Address: None
+Destination Address: None
+TX Bitrate: 7.652477697602363 bps
+RX Bitrate: 7.652477697602363 bps
+Delay Mean: 462545.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 831
+Source Address: None
+Destination Address: None
+TX Bitrate: 9.9701415033104 bps
+RX Bitrate: 9.9701415033104 bps
+Delay Mean: 2336020.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 832
+Source Address: None
+Destination Address: None
+TX Bitrate: 3.6528543113020557 bps
+RX Bitrate: 3.65268373673697 bps
+Delay Mean: 9153250.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 833
+Source Address: None
+Destination Address: None
+TX Bitrate: 6.638522099017706 bps
+RX Bitrate: 6.638281100087646 bps
+Delay Mean: 5268133.333333333 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 834
+Source Address: None
+Destination Address: None
+TX Bitrate: 1.9857275829972076 bps
+RX Bitrate: 1.9855427667297492 bps
+Delay Mean: 18239300.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 835
+Source Address: None
+Destination Address: None
+TX Bitrate: 3.9712908763728874 bps
+RX Bitrate: 1.9856146356345437 bps
+Delay Mean: 3379820.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 836
+Source Address: None
+Destination Address: None
+TX Bitrate: 3.631449175186473 bps
+RX Bitrate: 0 bps
+Delay Mean: 0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 837
+Source Address: None
+Destination Address: None
+TX Bitrate: 23.104097367267475 bps
+RX Bitrate: 23.103382479591154 bps
+Delay Mean: 4114050.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 838
+Source Address: None
+Destination Address: None
+TX Bitrate: 1.9803512029086408 bps
+RX Bitrate: 1.9802592902008107 bps
+Delay Mean: 9215840.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 839
+Source Address: None
+Destination Address: None
+TX Bitrate: 9.571697480725097 bps
+RX Bitrate: 9.571697480725097 bps
+Delay Mean: 447148.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 840
+Source Address: None
+Destination Address: None
+TX Bitrate: 1.980320564391361 bps
+RX Bitrate: 1.980238866313249 bps
+Delay Mean: 7395800.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 841
+Source Address: None
+Destination Address: None
+TX Bitrate: 20.710532151347785 bps
+RX Bitrate: 20.709891345266275 bps
+Delay Mean: 1585890.9090909092 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 842
+Source Address: None
+Destination Address: None
+TX Bitrate: 3.9566418002720187 bps
+RX Bitrate: 3.9564379694406377 bps
+Delay Mean: 5456850.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 843
+Source Address: None
+Destination Address: None
+TX Bitrate: 3.9565398822311173 bps
+RX Bitrate: 3.9564787339268053 bps
+Delay Mean: 4791610.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 844
+Source Address: None
+Destination Address: None
+TX Bitrate: 1.9782189847203189 bps
+RX Bitrate: 1.9781782214941428 bps
+Delay Mean: 3211270.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 845
+Source Address: None
+Destination Address: None
+TX Bitrate: 4.863021461173101 bps
+RX Bitrate: 4.862720857157575 bps
+Delay Mean: 4381000.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 846
+Source Address: None
+Destination Address: None
+TX Bitrate: 1.9781782214941428 bps
+RX Bitrate: 1.9781068898905345 bps
+Delay Mean: 7018000.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 847
+Source Address: None
+Destination Address: None
+TX Bitrate: 1.2363550193438047 bps
+RX Bitrate: 1.2363422813605947 bps
+Delay Mean: 1460540.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 848
+Source Address: None
+Destination Address: None
+TX Bitrate: 7.582977451975335 bps
+RX Bitrate: 7.544036777179288 bps
+Delay Mean: 751202500.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 849
+Source Address: None
+Destination Address: None
+TX Bitrate: 13.846748229233741 bps
+RX Bitrate: 0 bps
+Delay Mean: 0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 850
+Source Address: None
+Destination Address: None
+TX Bitrate: 1.236253122826899 bps
+RX Bitrate: 1.236253122826899 bps
+Delay Mean: 503259.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 851
+Source Address: None
+Destination Address: None
+TX Bitrate: 18.771129097822897 bps
+RX Bitrate: 18.771129097822897 bps
+Delay Mean: 747761.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 852
+Source Address: None
+Destination Address: None
+TX Bitrate: 2.4683358788047083 bps
+RX Bitrate: 2.4682851074989585 bps
+Delay Mean: 3012195.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 853
+Source Address: None
+Destination Address: None
+TX Bitrate: 7.546279919820776 bps
+RX Bitrate: 7.545970441531545 bps
+Delay Mean: 2182822.5 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 854
+Source Address: None
+Destination Address: None
+TX Bitrate: 1.968544302499641 bps
+RX Bitrate: 1.9584942035711919 bps
+Delay Mean: 1001260000.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 855
+Source Address: None
+Destination Address: None
+TX Bitrate: 7.217514775913595 bps
+RX Bitrate: 7.217292797572366 bps
+Delay Mean: 1812605.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 856
+Source Address: None
+Destination Address: None
+TX Bitrate: 9.079847442202885 bps
+RX Bitrate: 9.079383256308535 bps
+Delay Mean: 3434080.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 857
+Source Address: None
+Destination Address: None
+TX Bitrate: 9.488655535219475 bps
+RX Bitrate: 9.48860702545462 bps
+Delay Mean: 3164980.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 858
+Source Address: None
+Destination Address: None
+TX Bitrate: 1.9631400015337033 bps
+RX Bitrate: 1.9630496794707946 bps
+Delay Mean: 8416370.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 859
+Source Address: None
+Destination Address: None
+TX Bitrate: 5.55609459659587 bps
+RX Bitrate: 5.555810877746628 bps
+Delay Mean: 3730466.6666666665 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 860
+Source Address: None
+Destination Address: None
+TX Bitrate: 13.054364288154694 bps
+RX Bitrate: 13.05409801791879 bps
+Delay Mean: 2688350.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 861
+Source Address: None
+Destination Address: None
+TX Bitrate: 13.380723395358562 bps
+RX Bitrate: 13.380586930470923 bps
+Delay Mean: 1164605.7142857143 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 862
+Source Address: None
+Destination Address: None
+TX Bitrate: 5.547935076921508 bps
+RX Bitrate: 5.547793630235475 bps
+Delay Mean: 2064016.6666666667 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 863
+Source Address: None
+Destination Address: None
+TX Bitrate: 1.9580647793097823 bps
+RX Bitrate: 1.9580248424401883 bps
+Delay Mean: 4496090.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 864
+Source Address: None
+Destination Address: None
+TX Bitrate: 7.505723624163127 bps
+RX Bitrate: 5.547680478079524 bps
+Delay Mean: 774920.0 ns
+Packet Loss Ratio: 0.25
+
+
+Flow ID: 865
+Source Address: None
+Destination Address: None
+TX Bitrate: 11.401463866521434 bps
+RX Bitrate: 11.400999623359834 bps
+Delay Mean: 4754750.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 866
+Source Address: None
+Destination Address: None
+TX Bitrate: 6.026426695441497 bps
+RX Bitrate: 6.026242658061626 bps
+Delay Mean: 2657025.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 867
+Source Address: None
+Destination Address: None
+TX Bitrate: 5.863430921454456 bps
+RX Bitrate: 5.863192182410423 bps
+Delay Mean: 4570133.333333333 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 868
+Source Address: None
+Destination Address: None
+TX Bitrate: 9.764234422994772 bps
+RX Bitrate: 9.762050030506407 bps
+Delay Mean: 11006800.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 869
+Source Address: None
+Destination Address: None
+TX Bitrate: 3.905693769197909 bps
+RX Bitrate: 1.952687997070968 bps
+Delay Mean: 15980700.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 870
+Source Address: None
+Destination Address: None
+TX Bitrate: 1.9528270222439204 bps
+RX Bitrate: 1.9528270222439204 bps
+Delay Mean: 304108.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 871
+Source Address: None
+Destination Address: None
+TX Bitrate: 4.230780965553714 bps
+RX Bitrate: 4.230565838180857 bps
+Delay Mean: 5509850.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 872
+Source Address: None
+Destination Address: None
+TX Bitrate: 1.9526681379478679 bps
+RX Bitrate: 1.9525489916914973 bps
+Delay Mean: 12125300.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 873
+Source Address: None
+Destination Address: None
+TX Bitrate: 2.4405125076266017 bps
+RX Bitrate: 2.4403636141785126 bps
+Delay Mean: 6145250.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 874
+Source Address: None
+Destination Address: None
+TX Bitrate: 3.5764906701347785 bps
+RX Bitrate: 3.5764906701347785 bps
+Delay Mean: 407800.5 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 875
+Source Address: None
+Destination Address: None
+TX Bitrate: 5.49950464020704 bps
+RX Bitrate: 5.44443721633131 bps
+Delay Mean: 1438076666.6666667 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 876
+Source Address: None
+Destination Address: None
+TX Bitrate: 3.5581972474513903 bps
+RX Bitrate: 3.5581253127258576 bps
+Delay Mean: 2089425.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 877
+Source Address: None
+Destination Address: None
+TX Bitrate: 1.940834862246213 bps
+RX Bitrate: 1.9407760071566114 bps
+Delay Mean: 6422760.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 878
+Source Address: None
+Destination Address: None
+TX Bitrate: 1.940834862246213 bps
+RX Bitrate: 0 bps
+Delay Mean: 0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 879
+Source Address: None
+Destination Address: None
+TX Bitrate: 7.758908095329501 bps
+RX Bitrate: 7.758476994802426 bps
+Delay Mean: 4402775.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 880
+Source Address: None
+Destination Address: None
+TX Bitrate: 1.9396878314896195 bps
+RX Bitrate: 1.9395702639633907 bps
+Delay Mean: 11574000.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 881
+Source Address: None
+Destination Address: None
+TX Bitrate: 1.939638843288294 bps
+RX Bitrate: 1.9395408743086595 bps
+Delay Mean: 10496200.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 882
+Source Address: None
+Destination Address: None
+TX Bitrate: 13.254064866120812 bps
+RX Bitrate: 13.253596250202037 bps
+Delay Mean: 7245657.142857143 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 883
+Source Address: None
+Destination Address: None
+TX Bitrate: 7.758202683045094 bps
+RX Bitrate: 7.758124311820028 bps
+Delay Mean: 1011775.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 884
+Source Address: None
+Destination Address: None
+TX Bitrate: 3.1517539207515717 bps
+RX Bitrate: 3.1515947372408393 bps
+Delay Mean: 6058150.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 885
+Source Address: None
+Destination Address: None
+TX Bitrate: 1.9395408743086595 bps
+RX Bitrate: 1.939462506250221 bps
+Delay Mean: 7475730.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 886
+Source Address: None
+Destination Address: None
+TX Bitrate: 1.9389532681966222 bps
+RX Bitrate: 1.9389532681966222 bps
+Delay Mean: 517420.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 887
+Source Address: None
+Destination Address: None
+TX Bitrate: 5.8167716917111 bps
+RX Bitrate: 5.816419266888822 bps
+Delay Mean: 8613900.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 888
+Source Address: None
+Destination Address: None
+TX Bitrate: 1.9345088161209067 bps
+RX Bitrate: 1.9344795796537082 bps
+Delay Mean: 2577170.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 889
+Source Address: None
+Destination Address: None
+TX Bitrate: 1.9344990705336496 bps
+RX Bitrate: 1.9344113646667676 bps
+Delay Mean: 8763780.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 890
+Source Address: None
+Destination Address: None
+TX Bitrate: 1.931210677985707 bps
+RX Bitrate: 1.9312009656004827 bps
+Delay Mean: 304251.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 891
+Source Address: None
+Destination Address: None
+TX Bitrate: 1.9285628189159871 bps
+RX Bitrate: 1.928504705752368 bps
+Delay Mean: 6275920.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 892
+Source Address: None
+Destination Address: None
+TX Bitrate: 3.8552862098219443 bps
+RX Bitrate: 3.855266856752741 bps
+Delay Mean: 410867.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 893
+Source Address: None
+Destination Address: None
+TX Bitrate: 5.782900285129111 bps
+RX Bitrate: 5.782900285129111 bps
+Delay Mean: 2497363.3333333335 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 894
+Source Address: None
+Destination Address: None
+TX Bitrate: 9.638118759694592 bps
+RX Bitrate: 9.638118759694592 bps
+Delay Mean: 745686.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 895
+Source Address: None
+Destination Address: None
+TX Bitrate: 1.9276237519389183 bps
+RX Bitrate: 0 bps
+Delay Mean: 0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 896
+Source Address: None
+Destination Address: None
+TX Bitrate: 1.9275463439365113 bps
+RX Bitrate: 1.927488292014476 bps
+Delay Mean: 6484990.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 897
+Source Address: None
+Destination Address: None
+TX Bitrate: 1.927488292014476 bps
+RX Bitrate: 1.927420569191387 bps
+Delay Mean: 6495920.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 898
+Source Address: None
+Destination Address: None
+TX Bitrate: 1.927420569191387 bps
+RX Bitrate: 1.9273625248449076 bps
+Delay Mean: 6675980.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 899
+Source Address: None
+Destination Address: None
+TX Bitrate: 1.9273528511270497 bps
+RX Bitrate: 1.9272948108591017 bps
+Delay Mean: 6035860.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 900
+Source Address: None
+Destination Address: None
+TX Bitrate: 1.9271013685430811 bps
+RX Bitrate: 1.9270143321690956 bps
+Delay Mean: 9455950.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 901
+Source Address: None
+Destination Address: None
+TX Bitrate: 1.9271013685430811 bps
+RX Bitrate: 1.9270723555448497 bps
+Delay Mean: 3011450.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 902
+Source Address: None
+Destination Address: None
+TX Bitrate: 1.2044202222155311 bps
+RX Bitrate: 1.2044141779622317 bps
+Delay Mean: 1855200.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 903
+Source Address: None
+Destination Address: None
+TX Bitrate: 3.8541447110896994 bps
+RX Bitrate: 3.853970643582988 bps
+Delay Mean: 6784400.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 904
+Source Address: None
+Destination Address: None
+TX Bitrate: 5.444409972077382 bps
+RX Bitrate: 5.444382728096118 bps
+Delay Mean: 775990.0 ns
+Packet Loss Ratio: 0.0
+
+
+Flow ID: 905
+Source Address: None
+Destination Address: None
+TX Bitrate: 11.849538878797432 bps
+RX Bitrate: 11.84888666499875 bps
+Delay Mean: 4235057.142857143 ns
+Packet Loss Ratio: 0.0
+
+

@@ -1,0 +1,5 @@
+0 0 0 10 AODV 7.5
+155 9.728 19 10 AODV 7.5
+156 13.312 26 10 AODV 7.5
+SimulationSecond,ReceiveRate,PacketsReceived,NumberOfSinks,RoutingProtocol,TransmissionPower
+SimulationSecond,ReceiveRate,PacketsReceived,NumberOfSinks,RoutingProtocol,TransmissionPower
