@@ -1,0 +1,11 @@
+#!/bin/bash
+
+for name in TcpNewReno TcpHtcp TcpYeah TcpBic TcpScalable
+do
+	echo "$name";
+	for ((val=1500; val<=9000; val+=1500))
+	do
+		./waf --run "scratch/Lab6.cc --tcpVariant=$name --payloadSize=$val";
+	done;
+	echo -e "$name completed\n";
+done;
