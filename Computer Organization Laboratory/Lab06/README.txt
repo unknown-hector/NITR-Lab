@@ -1,0 +1,2 @@
+1.Count all unique digits in your roll number. If the number of unique digits are less than 3, take any digit of your choice to make 3 unique digits i.e. (p, q, r). 
+Use T-Flip-Flops to design a 4-bit counter which counts r q p r.
