@@ -1,0 +1,17 @@
+`include"booth.vl"
+module alu(output [7:0] y,input [2:0] s,input [3:0] a,b);
+reg [7:0] y,t;
+always @(*)
+begin
+case(s)
+3'b000:y=a&b;
+3'b001:y=a-b;
+3'b010:y=a+(2*b);
+3'b011:y=a-(2*b);
+3'b100: y=a*b;
+3'b101: y = (a<=b)?a:b;
+3'b110: y = (a<0)?-a:a;
+3'b111: y=b;
+endcase
+end
+endmodule

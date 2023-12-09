@@ -1,0 +1,22 @@
+`include"alu.vl"
+module alu_tb;
+reg [2:0] s;
+reg [3:0] a,b;
+wire [7:0] y;
+alu assign7(.s(s),.a(a),.b(b),.y(y));
+initial begin
+a=4'b1010; b=4'b0101; s=3'b000;#1
+s=3'b001;#1;
+s=3'b010;#1;
+s=3'b011;#1;
+s=3'b100;#1;
+s=3'b101;#1;
+s=3'b110;#1;
+s=3'b111;#1;
+end
+initial begin
+$monitor("t=%t a=%b b=%b s=%b y=%b",$time,a,b,s,y);
+$dumpfile("ag_dump.vcd");
+$dumpvars();
+end
+endmodule
