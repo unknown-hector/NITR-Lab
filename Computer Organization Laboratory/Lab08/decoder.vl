@@ -1,0 +1,6 @@
+module decoder(output [3:0] D, input [1:0] I, input EN);
+    assign D[0] = EN & (~I[1]) & (~I[0]);
+    assign D[1] = EN & (~I[1]) & (I[0]);
+    assign D[2] = EN & (I[1]) & (~I[0]);
+    assign D[3] = EN & (I[1]) & (I[0]);
+endmodule

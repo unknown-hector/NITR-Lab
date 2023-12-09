@@ -1,0 +1,28 @@
+`include "decoder.vl"
+`include "binRAM.vl"
+
+module fourByFourRAM(output [3:0] out, input [3:0] dataIn, input [1:0] addrIn, input memEn, read, CLK);
+    wire [3:0] d;
+    wire [15:0] cellOut;
+    decoder Instance(d,addrIn,memEn);
+    binRAM BC0(cellOut[0],dataIn[0],d[0],read,CLK);
+    binRAM BC1(cellOut[1],dataIn[1],d[0],read,CLK);
+    binRAM BC2(cellOut[2],dataIn[2],d[0],read,CLK);
+    binRAM BC3(cellOut[3],dataIn[3],d[0],read,CLK);
+    binRAM BC4(cellOut[4],dataIn[0],d[1],read,CLK);
+    binRAM BC5(cellOut[5],dataIn[1],d[1],read,CLK);
+    binRAM BC6(cellOut[6],dataIn[2],d[1],read,CLK);
+    binRAM BC7(cellOut[7],dataIn[3],d[1],read,CLK);
+    binRAM BC8(cellOut[8],dataIn[0],d[2],read,CLK);
+    binRAM BC9(cellOut[9],dataIn[1],d[2],read,CLK);
+    binRAM BC10(cellOut[10],dataIn[2],d[2],read,CLK);
+    binRAM BC11(cellOut[11],dataIn[3],d[2],read,CLK);
+    binRAM BC12(cellOut[12],dataIn[0],d[3],read,CLK);
+    binRAM BC13(cellOut[13],dataIn[1],d[3],read,CLK);
+    binRAM BC14(cellOut[14],dataIn[2],d[3],read,CLK);
+    binRAM BC15(cellOut[15],dataIn[3],d[3],read,CLK);
+    or(out[0],cellOut[0],cellOut[4],cellOut[8],cellOut[12]);
+    or(out[1],cellOut[1],cellOut[5],cellOut[9],cellOut[13]);
+    or(out[2],cellOut[2],cellOut[6],cellOut[10],cellOut[14]);
+    or(out[3],cellOut[3],cellOut[7],cellOut[11],cellOut[15]);
+endmodule

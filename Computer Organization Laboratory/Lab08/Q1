@@ -1,0 +1,177 @@
+#! /c/Source/iverilog-install/bin/vvp
+:ivl_version "12.0 (devel)" "(s20150603-1110-g18392a46)";
+:ivl_delay_selection "TYPICAL";
+:vpi_time_precision + 0;
+:vpi_module "D:\Iverlog\iverilog\lib\ivl\system.vpi";
+:vpi_module "D:\Iverlog\iverilog\lib\ivl\vhdl_sys.vpi";
+:vpi_module "D:\Iverlog\iverilog\lib\ivl\vhdl_textio.vpi";
+:vpi_module "D:\Iverlog\iverilog\lib\ivl\v2005_math.vpi";
+:vpi_module "D:\Iverlog\iverilog\lib\ivl\va_math.vpi";
+S_0000023891065800 .scope module, "RAM_tb" "RAM_tb" 2 3;
+ .timescale 0 0;
+v0000023891071680_0 .var "CLK", 0 0;
+v00000238910715e0_0 .var "IN", 0 0;
+v0000023891071720_0 .net "OUT", 0 0, L_000002389107dd70;  1 drivers
+v00000238910717c0_0 .var "READ", 0 0;
+v0000023891071540_0 .var "SEL", 0 0;
+S_000002389102e300 .scope module, "Instance" "RAM" 2 9, 3 3 0, S_0000023891065800;
+ .timescale 0 0;
+    .port_info 0 /OUTPUT 1 "out";
+    .port_info 1 /INPUT 1 "in";
+    .port_info 2 /INPUT 1 "select";
+    .port_info 3 /INPUT 1 "read";
+    .port_info 4 /INPUT 1 "CLK";
+L_000002389107dfa0 .functor NOT 1, v00000238910717c0_0, C4<0>, C4<0>, C4<0>;
+L_000002389107dc20 .functor NOT 1, v00000238910715e0_0, C4<0>, C4<0>, C4<0>;
+L_000002389107dc90 .functor AND 1, v0000023891071540_0, L_000002389107dc20, L_000002389107dfa0, C4<1>;
+L_000002389107e1d0 .functor AND 1, v0000023891071540_0, v00000238910715e0_0, L_000002389107dfa0, C4<1>;
+L_000002389107e0f0 .functor AND 1, v0000023891071540_0, v00000238910717c0_0, C4<1>, C4<1>;
+L_000002389107dd70 .functor AND 1, L_000002389107e0f0, v0000023891065f40_0, C4<1>, C4<1>;
+v000002389102e620_0 .net "CLK", 0 0, v0000023891071680_0;  1 drivers
+v000002389102e6c0_0 .net *"_ivl_4", 0 0, L_000002389107e0f0;  1 drivers
+v0000023891042590_0 .net "in", 0 0, v00000238910715e0_0;  1 drivers
+v0000023891042630_0 .net "nin", 0 0, L_000002389107dc20;  1 drivers
+v00000238910426d0_0 .net "nread", 0 0, L_000002389107dfa0;  1 drivers
+v0000023891071220_0 .net "out", 0 0, L_000002389107dd70;  alias, 1 drivers
+v00000238910710e0_0 .net "read", 0 0, v00000238910717c0_0;  1 drivers
+v0000023891071180_0 .net "select", 0 0, v0000023891071540_0;  1 drivers
+v0000023891071400_0 .net "w1", 0 0, L_000002389107dc90;  1 drivers
+v00000238910712c0_0 .net "w2", 0 0, L_000002389107e1d0;  1 drivers
+v0000023891071360_0 .net "w3", 0 0, v0000023891065f40_0;  1 drivers
+S_000002389102e490 .scope module, "Instance" "SR" 3 10, 4 1 0, S_000002389102e300;
+ .timescale 0 0;
+    .port_info 0 /OUTPUT 1 "Q";
+    .port_info 1 /INPUT 1 "S";
+    .port_info 2 /INPUT 1 "R";
+    .port_info 3 /INPUT 1 "CLK";
+v0000023891042cb0_0 .net "CLK", 0 0, v0000023891071680_0;  alias, 1 drivers
+v0000023891065f40_0 .var "Q", 0 0;
+v00000238910760f0_0 .net "R", 0 0, L_000002389107dc90;  alias, 1 drivers
+v000002389102bc50_0 .net "S", 0 0, L_000002389107e1d0;  alias, 1 drivers
+E_0000023891068500 .event negedge, v0000023891042cb0_0;
+    .scope S_000002389102e490;
+T_0 ;
+    %wait E_0000023891068500;
+    %load/vec4 v000002389102bc50_0;
+    %pad/u 32;
+    %pushi/vec4 0, 0, 32;
+    %cmp/e;
+    %flag_get/vec4 4;
+    %load/vec4 v00000238910760f0_0;
+    %pad/u 32;
+    %pushi/vec4 0, 0, 32;
+    %cmp/e;
+    %flag_get/vec4 4;
+    %and;
+    %flag_set/vec4 8;
+    %jmp/0xz  T_0.0, 8;
+    %load/vec4 v0000023891065f40_0;
+    %assign/vec4 v0000023891065f40_0, 0;
+    %jmp T_0.1;
+T_0.0 ;
+    %load/vec4 v000002389102bc50_0;
+    %pad/u 32;
+    %pushi/vec4 0, 0, 32;
+    %cmp/e;
+    %flag_get/vec4 4;
+    %load/vec4 v00000238910760f0_0;
+    %pad/u 32;
+    %pushi/vec4 1, 0, 32;
+    %cmp/e;
+    %flag_get/vec4 4;
+    %and;
+    %flag_set/vec4 8;
+    %jmp/0xz  T_0.2, 8;
+    %pushi/vec4 0, 0, 1;
+    %assign/vec4 v0000023891065f40_0, 0;
+    %jmp T_0.3;
+T_0.2 ;
+    %load/vec4 v000002389102bc50_0;
+    %pad/u 32;
+    %pushi/vec4 1, 0, 32;
+    %cmp/e;
+    %flag_get/vec4 4;
+    %load/vec4 v00000238910760f0_0;
+    %pad/u 32;
+    %pushi/vec4 0, 0, 32;
+    %cmp/e;
+    %flag_get/vec4 4;
+    %and;
+    %flag_set/vec4 8;
+    %jmp/0xz  T_0.4, 8;
+    %pushi/vec4 1, 0, 1;
+    %assign/vec4 v0000023891065f40_0, 0;
+    %jmp T_0.5;
+T_0.4 ;
+    %pushi/vec4 1, 1, 1;
+    %assign/vec4 v0000023891065f40_0, 0;
+T_0.5 ;
+T_0.3 ;
+T_0.1 ;
+    %jmp T_0;
+    .thread T_0;
+    .scope S_0000023891065800;
+T_1 ;
+    %pushi/vec4 1, 0, 1;
+    %store/vec4 v0000023891071540_0, 0, 1;
+    %pushi/vec4 1, 0, 1;
+    %store/vec4 v00000238910715e0_0, 0, 1;
+    %pushi/vec4 0, 0, 1;
+    %store/vec4 v00000238910717c0_0, 0, 1;
+    %vpi_call 2 15 "$monitor", "T=%0t Select = %b, CLK = %b Input = %b, Read = %b | Output = %b", $time, v0000023891071540_0, v0000023891071680_0, v00000238910715e0_0, v00000238910717c0_0, v0000023891071720_0 {0 0 0};
+    %vpi_call 2 17 "$dumpfile", "RAM.vcd" {0 0 0};
+    %vpi_call 2 18 "$dumpvars" {0 0 0};
+    %end;
+    .thread T_1;
+    .scope S_0000023891065800;
+T_2 ;
+    %pushi/vec4 0, 0, 1;
+    %store/vec4 v0000023891071680_0, 0, 1;
+    %delay 5, 0;
+    %pushi/vec4 1, 0, 1;
+    %store/vec4 v0000023891071680_0, 0, 1;
+    %delay 5, 0;
+    %pushi/vec4 0, 0, 1;
+    %store/vec4 v0000023891071680_0, 0, 1;
+    %delay 5, 0;
+    %pushi/vec4 1, 0, 1;
+    %store/vec4 v0000023891071680_0, 0, 1;
+    %pushi/vec4 1, 0, 1;
+    %store/vec4 v00000238910717c0_0, 0, 1;
+    %delay 5, 0;
+    %pushi/vec4 0, 0, 1;
+    %store/vec4 v0000023891071680_0, 0, 1;
+    %delay 5, 0;
+    %pushi/vec4 1, 0, 1;
+    %store/vec4 v0000023891071680_0, 0, 1;
+    %delay 5, 0;
+    %pushi/vec4 0, 0, 1;
+    %store/vec4 v0000023891071680_0, 0, 1;
+    %delay 5, 0;
+    %pushi/vec4 1, 0, 1;
+    %store/vec4 v0000023891071680_0, 0, 1;
+    %pushi/vec4 0, 0, 1;
+    %store/vec4 v0000023891071540_0, 0, 1;
+    %delay 5, 0;
+    %pushi/vec4 0, 0, 1;
+    %store/vec4 v0000023891071680_0, 0, 1;
+    %delay 5, 0;
+    %pushi/vec4 1, 0, 1;
+    %store/vec4 v0000023891071680_0, 0, 1;
+    %pushi/vec4 1, 0, 1;
+    %store/vec4 v0000023891071540_0, 0, 1;
+    %pushi/vec4 0, 0, 1;
+    %store/vec4 v00000238910715e0_0, 0, 1;
+    %delay 5, 0;
+    %pushi/vec4 0, 0, 1;
+    %store/vec4 v0000023891071680_0, 0, 1;
+    %delay 5, 0;
+    %end;
+    .thread T_2;
+# The file index is used to find the file name in the following table.
+:file_names 5;
+    "N/A";
+    "<interactive>";
+    "RAM_tb.v";
+    "./RAM.v";
+    "./SR.v";

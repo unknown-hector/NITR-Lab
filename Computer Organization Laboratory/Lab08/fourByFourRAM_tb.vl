@@ -1,0 +1,29 @@
+`include "fourByFourRAM.vl"
+module fourByFourRAM_tb;
+    reg [3:0] DATAin;
+    reg [1:0] ADDRin;
+    reg READ, MEMen, CLK=0;
+    wire [3:0] OUT;
+
+    fourByFourRAM Instance(OUT,DATAin,ADDRin,MEMen,READ,CLK);
+
+    initial begin
+        READ = 0; DATAin = 4'b1111; ADDRin = 2'b01; MEMen = 1;
+        $monitor("%t| CLK = %b, Data Input = %4b, Address Input = %2b, Memory Enable = %b, Read = %b | Data Output = %4b",$time,CLK,DATAin,ADDRin,MEMen,READ,OUT);
+    end
+    initial begin
+        #1 CLK = 1;
+        #1 CLK = 0;
+        #1 CLK = 1; ADDRin = 2'b11;
+        #1 CLK = 0;
+        #1 CLK = 1;
+        #1 CLK = 0; DATAin = 4'b0110;
+        #1 CLK = 1;
+        #1 CLK = 0;
+        #1 CLK = 1; READ = 1;
+        #1 CLK = 0;
+        #1 CLK = 1; ADDRin = 2'b11;
+        #1 CLK = 0;
+        #1;
+    end
+endmodule

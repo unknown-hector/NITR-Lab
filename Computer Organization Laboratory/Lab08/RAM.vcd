@@ -1,0 +1,80 @@
+$date
+	Fri Mar 25 15:51:37 2022
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module RAM_tb $end
+$var wire 1 ! OUT $end
+$var reg 1 " CLK $end
+$var reg 1 # IN $end
+$var reg 1 $ READ $end
+$var reg 1 % SEL $end
+$scope module Instance $end
+$var wire 1 " CLK $end
+$var wire 1 # in $end
+$var wire 1 & nin $end
+$var wire 1 ' nread $end
+$var wire 1 ! out $end
+$var wire 1 $ read $end
+$var wire 1 % select $end
+$var wire 1 ( w1 $end
+$var wire 1 ) w2 $end
+$var wire 1 * w3 $end
+$scope module Instance $end
+$var wire 1 " CLK $end
+$var wire 1 ( R $end
+$var wire 1 ) S $end
+$var reg 1 * Q $end
+$upscope $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+x*
+1)
+0(
+1'
+0&
+1%
+0$
+1#
+0"
+0!
+$end
+#5
+1"
+#10
+1*
+0"
+#15
+0)
+1!
+0'
+1$
+1"
+#20
+0"
+#25
+1"
+#30
+0"
+#35
+0!
+0%
+1"
+#40
+0"
+#45
+1!
+1&
+0#
+1%
+1"
+#50
+0"
+#55
