@@ -1,0 +1,23 @@
+module a5q7(output [2:0] q,input clk,reset,en);
+reg [2:0] q;
+initial begin
+q=3'b000;
+end
+always@(posedge clk)
+begin
+if(reset==1)
+q=3'b000;
+else if(en==1)
+begin
+case(q)
+0 : q=1;
+1 : q=3;
+3 : q=5;
+5 : q=7;
+7 : q=2;
+2 : q=0;
+default: $display("error");
+endcase
+end
+end
+endmodule

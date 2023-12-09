@@ -1,0 +1,15 @@
+module dff(input d,clk, output q);
+//wire d,clk;
+reg q;
+initial 
+begin
+q<=0;
+end
+always@(posedge clk)
+begin
+if(d)
+q<=d;
+else
+q<=d;
+end
+endmodule

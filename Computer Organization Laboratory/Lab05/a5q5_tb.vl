@@ -1,0 +1,26 @@
+`include "a5q5.vl"
+module a5q5_tb;
+reg clk;
+reg [3:0] d;
+wire [3:0] y;
+a5q5 instance1(y,d,clk);
+initial begin
+clk=0;d=4'b0001;
+clk=1;#1
+clk=0;d=4'b1001;
+clk=1;#1
+clk=0;d=4'b0101;
+clk=1;#1
+clk=0;d=4'b0011;
+clk=1;#1
+clk=0;d=4'b1101;
+clk=1;#1
+clk=0;d=4'b0111;
+clk=1;
+end
+initial begin
+ $monitor("%t | clk=%b  d=%b  y=%b",$time,clk,d,y);
+ $dumpfile("ag_dump.vcd");
+    $dumpvars();
+end
+endmodule

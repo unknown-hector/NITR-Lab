@@ -1,0 +1,17 @@
+`include "a5q7.vl"
+module a5q7_tb;
+reg clk,reset,en;
+wire [2:0] q;
+integer i=0;
+a5q7 instance1(q,clk,reset,en);
+initial begin
+clk=0;reset=0;en=1;#1
+for(i=0;i<20;i=i+1)
+#2 clk=~clk;
+end
+initial begin 
+  $monitor("%t| clk=%b reset=%b en=%b q=%b",$time,clk,reset,en,q);
+    $dumpfile("ag_dump.vcd");
+    $dumpvars();
+end
+endmodule

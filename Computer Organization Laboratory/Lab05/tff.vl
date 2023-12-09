@@ -1,0 +1,15 @@
+module tff(input t,clk,output q);
+wire t,clk;
+reg q;
+initial 
+begin
+q<=0;
+end
+always@(posedge clk)
+begin
+if(t)
+q<=~q;
+else
+q<=q;
+end
+endmodule

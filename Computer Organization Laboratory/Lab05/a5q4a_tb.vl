@@ -1,0 +1,17 @@
+`include"a5q4a.vl"
+module a5q4a_tb;
+reg r,s,clk;
+wire q;
+a5q4a sr_ff(q,s,r,clk);
+initial begin
+s=0;r=0;clk=0;#1
+clk=1;#1
+s=1;r=0;clk=0;#1
+clk=1;#1
+s=0;r=1;clk=0;#1
+clk=1;
+end
+initial begin
+        $monitor("%t| s=%b r=%b clk=%b q=%b", $time,s,r,clk,q);
+    end
+endmodule

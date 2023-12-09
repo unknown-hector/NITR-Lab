@@ -1,0 +1,11 @@
+module a5q5(output [3:0] y,input [3:0] d,input clk);
+reg [3:0] y,r;
+initial begin
+r=4'b0000;
+end
+always@(posedge clk)
+begin 
+y=r;
+r=d;
+end
+endmodule

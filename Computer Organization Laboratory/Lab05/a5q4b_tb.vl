@@ -1,0 +1,19 @@
+`include"a5q4b.vl"
+module a5q4b_tb;
+reg j,k,clk;
+wire q;
+a5q4b jk_ff(q,j,k,clk);
+initial begin
+j=0;k=0;clk=0;#1
+clk=1;#1
+j=1;k=0;clk=0;#1
+clk=1;#1
+j=0;k=1;clk=0;#1
+clk=1;#1
+j=1;k=1;clk=0;#1
+clk=1;
+end
+initial begin
+        $monitor("%t| j=%b k=%b clk=%b q=%b", $time,j,k,clk,q);
+    end
+endmodule

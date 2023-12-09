@@ -1,0 +1,14 @@
+module a5q1(output y,input [3:0] d,input [1:0] s,input clk);
+reg y;
+always@(posedge clk)
+begin
+if(s[0]==0&&s[1]==0)
+assign y=d[0];
+else if(s[0]==0&&s[1]==1)
+assign y=d[1];
+else if(s[0]==1&&s[1]==0)
+assign y=d[2];
+else if(s[0]==1&&s[1]==1)
+assign y=d[3];
+end
+endmodule

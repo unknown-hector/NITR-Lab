@@ -1,0 +1,25 @@
+module a5q2(output [3:0] gout,input [3:0] bin);
+reg [3:0] gout;
+always@(bin)
+begin
+ case(bin)
+0 : gout=0;
+1 : gout=1;
+2 : gout=3;
+3 : gout=2;
+4 : gout=6;
+5 : gout=7;
+6 : gout=5;
+7 : gout=4;
+8 : gout=12;
+9 : gout=13;
+10 : gout=15;
+11 : gout=14;
+12 : gout=10;
+13 : gout=11;
+14 : gout=9;
+15 : gout=8;
+default: gout=4'bxxxx;
+ endcase
+end
+endmodule

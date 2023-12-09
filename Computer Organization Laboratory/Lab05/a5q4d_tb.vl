@@ -1,0 +1,21 @@
+`include"dff.vl"
+module a5q4d_tb;
+wire q;
+reg d,clk;
+dff instance1(d,clk,q);
+initial begin
+d=0;clk=0;#1
+d=0;clk=1;#1
+d=1;clk=0;#1
+d=1;clk=1;#1
+d=0;clk=0;#1
+d=0;clk=1;#1
+d=1;clk=0;#1
+d=1;clk=1;
+end
+initial begin
+$monitor("%t| d=%b clk=%b q=%b",$time,d,clk,q);
+$dumpfile("ag_dump.vcd");
+    $dumpvars();
+end
+endmodule

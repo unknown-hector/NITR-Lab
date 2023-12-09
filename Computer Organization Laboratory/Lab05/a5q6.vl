@@ -1,0 +1,16 @@
+`include "jk_ff.vl"
+module a5q6(output [3:0] q,input clk);
+wire j3,k3,j2,k2,j1,k1,j0,k0,clk;
+assign j3=(q[0]&q[1]&q[2]);
+assign k3=q[0];
+assign j2=q[0]&q[1];
+assign k2=q[0]&q[1];
+assign j1=q[0]&~q[3];
+assign k1=q[0];
+assign j0=1;
+assign k0=1;
+jk_ff s3(q[3],j3,k3,clk);
+jk_ff s2(q[2],j2,k2,clk);
+jk_ff s1(q[1],j1,k1,clk);
+jk_ff s0(q[0],j0,k0,clk);
+endmodule

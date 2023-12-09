@@ -1,0 +1,21 @@
+`include "a5q2.vl"
+module a5q2_tb;
+reg [3:0] bin;
+wire [3:0] gout;
+a5q2 instance2(gout,bin);
+initial begin
+bin=4'b0001;#1
+bin=4'b0010;#1
+bin=4'b0000;#1
+bin=4'b0011;#1
+bin=4'b0100;#1
+bin=4'b0101;#1
+bin=4'b0110;#1
+bin=4'b1111;
+end
+initial begin
+        $monitor("%t| D3=%b D2=%b D1=%b D0=%b --> Y3=%b Y2=%b Y1=%b Y0=%b", $time,bin[3],bin[2],bin[1],bin[0],gout[3],gout[2],gout[1],gout[0]);
+    $dumpfile("ag_dump.vcd");
+    $dumpvars();
+    end
+endmodule
