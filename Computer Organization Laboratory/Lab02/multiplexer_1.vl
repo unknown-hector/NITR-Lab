@@ -1,0 +1,6 @@
+module multiplexer_1(output Y, input I0,I1,s);
+    wire Ws,w1,w2;
+    not (Ws,s);
+    and (w1,I0,Ws),(w2,I1,s);
+    or (Y,w1,w2);
+endmodule

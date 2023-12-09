@@ -1,0 +1,20 @@
+`include "Question1.vl"
+
+module Q1_tb;
+reg A,B,C;
+wire Sum1,C_out1,Sum2,C_out2;
+integer i;
+
+Question1 Instance1(.S(Sum1),.C(C_out1),.A(A),.B(B));
+Question1 Instance2(.S(Sum2),.C(C_out2),.A(C),.B(Sum1));
+
+initial
+begin
+    for(i=0; i<8; i=i+1) begin
+        {A,B,C}=i;
+        $monitor("%t| A=%b B=%b C=%b | Sum = %b, Carry = %b",$time,A,B,C,Sum2,C_out2);
+        #1;
+    end
+end
+
+endmodule

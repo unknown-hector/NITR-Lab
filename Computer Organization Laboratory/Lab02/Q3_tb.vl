@@ -1,0 +1,21 @@
+`include "multiplexer_1.vl"
+
+module Q3_tb;
+reg a,b,c,d,s1,s2,s3;
+wire op1,op2,op;
+integer i;
+
+multiplexer_1 Instance1(.Y(op1),.I0(a),.I1(b),.s(s1));
+multiplexer_1 Instance2(.Y(op2),.I0(c),.I1(d),.s(s2));
+multiplexer_1 Instance3(.Y(op),.I0(op1),.I1(op2),.s(s3));
+
+initial
+begin
+    for(i=0; i<128; i=i+1) begin
+        {s3,d,c,s2,b,a,s1} = i;
+        $monitor("%t| A=%b B=%b C=%b D=%b| s1=%b s2=%b | s3=%b --> Output=%b",$time,a,b,c,d,s1,s2,s3,op);
+        #1;
+    end
+end
+
+endmodule
