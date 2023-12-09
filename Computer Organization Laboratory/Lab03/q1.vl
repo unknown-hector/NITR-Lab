@@ -1,0 +1,5 @@
+module q1(input x, y, C, output G, P, S);
+    and(G, x, y);
+    or(P, x, y);
+    xor(S, C, x, y);
+endmodule

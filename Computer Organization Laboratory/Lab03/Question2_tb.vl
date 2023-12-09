@@ -1,0 +1,31 @@
+`include "Question1.vl"
+
+module Question2_tb;
+    reg C_In;
+    reg[3:0] A,B;
+    wire G0,G1,G2,G3,P0,P1,P2,P3,C0,C1,C2,C_Out;
+    wire [3:0] Sum;
+    integer i;
+
+    and (G0,A[0],B[0]);
+    xor (P0,A[0],B[0]);
+    Question1 adder0(Sum[0],C0, G0,P0,C_In);
+    and (G1,A[1],B[1]);
+    xor (P1,A[1],B[1]);
+    Question1 adder1(Sum[1],C1, G1,P1,C0);
+    and (G2,A[2],B[2]);
+    xor (P2,A[2],B[2]);
+    Question1 adder2(Sum[2],C2, G2,P2,C1);
+    and (G3,A[3],B[3]);
+    xor (P3,A[3],B[3]);
+    Question1 adder3(Sum[3],C_Out, G3,P3,C2);
+
+    initial begin
+        for(i=0; i<512; i=i+1) begin
+            {A,B,C_In} = i;
+            $monitor("%t| A=%4b B=%4b C_In=%b | Sum=%4b C_Out=%b",$time,A,B,C_In,Sum,C_Out);
+            #1;
+        end
+    end
+
+endmodule
