@@ -1,0 +1,23 @@
+`include "Question3.vl"
+
+module Question3_tb;
+    reg X,Y,Z;
+    wire D,B;
+    Question3 FullSubtractor(D,B, X,Y,Z);
+    
+    initial begin
+        X = 0; Y = 0; Z = 0; #1;
+        X = 0; Y = 0; Z = 1; #1;
+        X = 0; Y = 1; Z = 0; #1; 
+        X = 0; Y = 1; Z = 1; #1;
+        X = 1; Y = 0; Z = 0; #1;
+        X = 1; Y = 0; Z = 1; #1;
+        X = 1; Y = 1; Z = 0; #1;
+        X = 1; Y = 1; Z = 1; #1;
+    end
+
+    initial begin
+        $monitor("%t| X=%b Y=%b Z=%b | D=%b B=%b", $time,X,Y,Z,D,B);
+    end
+
+endmodule

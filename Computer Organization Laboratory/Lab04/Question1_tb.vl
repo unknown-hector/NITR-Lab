@@ -1,0 +1,32 @@
+`include "Question1.vl"
+
+module Question1_tb;
+    reg C_In;
+    reg[3:0] A,B;
+    wire [3:0] G,P,Sum;
+
+    Question1 FA0(G[0],P[0],Sum[0],A[0],B[0],C_In);
+    wire C0 = G[0] | (P[0] & C_In);
+    Question1 FA1(G[1],P[1],Sum[1],A[1],B[1],C0);
+    wire C1 = G[1] | (P[1] & C0);
+    Question1 FA2(G[2],P[2],Sum[2],A[2],B[2],C1);
+    wire C2 = G[2] | (P[2] & C1);
+    Question1 FA3(G[3],P[3],Sum[3],A[3],B[3],C2);
+    wire C_Out = G[3] | (P[3] & C2);
+
+    initial begin
+        A = 4'b0000; B = 4'b0000; C_In = 1'b0; #1;
+        A = 4'b0000; B = 4'b0000; C_In = 1'b1; #1;
+        A = 4'b0001; B = 4'b0110; C_In = 1'b0; #1;
+        A = 4'b0001; B = 4'b1001; C_In = 1'b1; #1;
+        A = 4'b0100; B = 4'b0011; C_In = 1'b0; #1;
+        A = 4'b0100; B = 4'b0100; C_In = 1'b1; #1;
+        A = 4'b1000; B = 4'b0001; C_In = 1'b0; #1;
+        A = 4'b1000; B = 4'b1100; C_In = 1'b1; #1;
+    end
+
+    initial begin
+        $monitor("%t| A=%4b B=%4b C_In=%b | Sum=%4b C_Out=%b", $time,A,B,C_In,Sum,C_Out);
+    end
+
+endmodule

@@ -1,0 +1,3 @@
+module Question7(output Y, input C,B,A);
+    assign Y = ~((A|B)&(B|C)&(C|A));
+endmodule

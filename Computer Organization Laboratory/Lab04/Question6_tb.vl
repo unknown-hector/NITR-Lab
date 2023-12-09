@@ -1,0 +1,24 @@
+`include "Question6.vl"
+
+module Question6_tb;
+    reg [3:0] I;
+    reg [1:0] S;
+    wire Y;
+
+    Question6 Instance(Y, I, S);
+
+    initial begin
+        I = 4'b1110; S = 2'b00; #1;
+        I = 4'b1101; S = 2'b01; #1;
+        I = 4'b1011; S = 2'b10; #1;
+        I = 4'b0111; S = 2'b11; #1;
+        I = 4'b0001; S = 2'b00; #1;
+        I = 4'b0010; S = 2'b01; #1;
+        I = 4'b0100; S = 2'b10; #1;
+        I = 4'b1000; S = 2'b11; #1;
+    end
+
+    initial begin
+        $monitor("%t| I=%4b S=%2b --> Y=%b", $time,I,S,Y);
+    end
+endmodule

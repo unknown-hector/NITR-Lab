@@ -1,0 +1,5 @@
+module Question1(output G,P,Sum, input A,B,C_In);
+    assign G = A & B;
+    assign P = A ^ B;
+    assign Sum = A ^ B ^ C_In;
+endmodule

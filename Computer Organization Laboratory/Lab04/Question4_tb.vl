@@ -1,0 +1,31 @@
+`include "Question4.vl"
+
+module Question4_tb;
+    reg [3:0] D;
+    wire [1:0] Y;
+
+    Question4 priorityEncoder(Y,D);
+
+    initial begin
+        D = 4'b0000; #1;
+        D = 4'b0001; #1;
+        D = 4'b0010; #1;
+        D = 4'b0011; #1;
+        D = 4'b0100; #1;
+        D = 4'b0101; #1;
+        D = 4'b0110; #1;
+        D = 4'b0111; #1;
+        D = 4'b1000; #1;
+        D = 4'b1001; #1;
+        D = 4'b1010; #1;
+        D = 4'b1011; #1;
+        D = 4'b1100; #1;
+        D = 4'b1101; #1;
+        D = 4'b1110; #1;
+        D = 4'b1111; #1;
+    end
+
+    initial begin
+        $monitor("%t| D3=%b D2=%b D1=%b D0=%b --> Y1=%b Y0=%b", $time,D[3],D[2],D[1],D[0],Y[1],Y[0]);
+    end
+endmodule

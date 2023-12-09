@@ -1,0 +1,20 @@
+`include "Question5.vl"
+
+module Question5_tb;
+    reg [1:0] I;
+    wire [3:0] D;
+
+    Question5 Instance(D, I);
+
+    initial begin
+        I = 2'b00; #1;
+        I = 2'b01; #1;
+        I = 2'b10; #1;
+        I = 2'b11; #1;
+    end
+
+    initial begin
+        $monitor("%t| I=%2b --> D3=%b D2=%b D1=%b D0=%b", $time,I,D[3],D[2],D[1],D[0]);
+    end
+
+endmodule

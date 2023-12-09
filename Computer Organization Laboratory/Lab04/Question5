@@ -1,0 +1,79 @@
+#! /c/Source/iverilog-install/bin/vvp
+:ivl_version "12.0 (devel)" "(s20150603-1110-g18392a46)";
+:ivl_delay_selection "TYPICAL";
+:vpi_time_precision + 0;
+:vpi_module "D:\Iverlog\iverilog\lib\ivl\system.vpi";
+:vpi_module "D:\Iverlog\iverilog\lib\ivl\vhdl_sys.vpi";
+:vpi_module "D:\Iverlog\iverilog\lib\ivl\vhdl_textio.vpi";
+:vpi_module "D:\Iverlog\iverilog\lib\ivl\v2005_math.vpi";
+:vpi_module "D:\Iverlog\iverilog\lib\ivl\va_math.vpi";
+S_00000232afc29270 .scope module, "Question5_tb" "Question5_tb" 2 3;
+ .timescale 0 0;
+v00000232afc24b60_0 .net "D", 3 0, L_00000232afc80270;  1 drivers
+v00000232afc7fe10_0 .var "I", 1 0;
+S_00000232afc29400 .scope module, "Instance" "Question5" 2 7, 3 1 0, S_00000232afc29270;
+ .timescale 0 0;
+    .port_info 0 /OUTPUT 4 "D";
+    .port_info 1 /INPUT 2 "I";
+L_00000232afc29590 .functor NOT 1, L_00000232afc809f0, C4<0>, C4<0>, C4<0>;
+L_00000232afc03310 .functor NOT 1, L_00000232afc813f0, C4<0>, C4<0>, C4<0>;
+L_00000232afc02fa0 .functor AND 1, L_00000232afc29590, L_00000232afc03310, C4<1>, C4<1>;
+L_00000232afc81880 .functor NOT 1, L_00000232afc80810, C4<0>, C4<0>, C4<0>;
+L_00000232afc81960 .functor AND 1, L_00000232afc81880, L_00000232afc812b0, C4<1>, C4<1>;
+L_00000232afc81b20 .functor NOT 1, L_00000232afc801d0, C4<0>, C4<0>, C4<0>;
+L_00000232afc81b90 .functor AND 1, L_00000232afc7fc30, L_00000232afc81b20, C4<1>, C4<1>;
+L_00000232afc81a40 .functor AND 1, L_00000232afc804f0, L_00000232afc808b0, C4<1>, C4<1>;
+v00000232afc24de0_0 .net "D", 3 0, L_00000232afc80270;  alias, 1 drivers
+v00000232afc24a20_0 .net "I", 1 0, v00000232afc7fe10_0;  1 drivers
+v00000232afc251a0_0 .net *"_ivl_10", 0 0, L_00000232afc02fa0;  1 drivers
+v00000232afc252e0_0 .net *"_ivl_15", 0 0, L_00000232afc80810;  1 drivers
+v00000232afc24e80_0 .net *"_ivl_16", 0 0, L_00000232afc81880;  1 drivers
+v00000232afc254c0_0 .net *"_ivl_19", 0 0, L_00000232afc812b0;  1 drivers
+v00000232afc25380_0 .net *"_ivl_20", 0 0, L_00000232afc81960;  1 drivers
+v00000232afc24840_0 .net *"_ivl_25", 0 0, L_00000232afc7fc30;  1 drivers
+v00000232afc25740_0 .net *"_ivl_27", 0 0, L_00000232afc801d0;  1 drivers
+v00000232afc248e0_0 .net *"_ivl_28", 0 0, L_00000232afc81b20;  1 drivers
+v00000232afc24ac0_0 .net *"_ivl_3", 0 0, L_00000232afc809f0;  1 drivers
+v00000232afc24f20_0 .net *"_ivl_30", 0 0, L_00000232afc81b90;  1 drivers
+v00000232afc24fc0_0 .net *"_ivl_36", 0 0, L_00000232afc804f0;  1 drivers
+v00000232afc25060_0 .net *"_ivl_38", 0 0, L_00000232afc808b0;  1 drivers
+v00000232afc25240_0 .net *"_ivl_39", 0 0, L_00000232afc81a40;  1 drivers
+v00000232afc25600_0 .net *"_ivl_4", 0 0, L_00000232afc29590;  1 drivers
+v00000232afc25560_0 .net *"_ivl_7", 0 0, L_00000232afc813f0;  1 drivers
+v00000232afc24980_0 .net *"_ivl_8", 0 0, L_00000232afc03310;  1 drivers
+L_00000232afc809f0 .part v00000232afc7fe10_0, 1, 1;
+L_00000232afc813f0 .part v00000232afc7fe10_0, 0, 1;
+L_00000232afc80810 .part v00000232afc7fe10_0, 1, 1;
+L_00000232afc812b0 .part v00000232afc7fe10_0, 0, 1;
+L_00000232afc7fc30 .part v00000232afc7fe10_0, 1, 1;
+L_00000232afc801d0 .part v00000232afc7fe10_0, 0, 1;
+L_00000232afc80270 .concat8 [ 1 1 1 1], L_00000232afc02fa0, L_00000232afc81960, L_00000232afc81b90, L_00000232afc81a40;
+L_00000232afc804f0 .part v00000232afc7fe10_0, 1, 1;
+L_00000232afc808b0 .part v00000232afc7fe10_0, 0, 1;
+    .scope S_00000232afc29270;
+T_0 ;
+    %pushi/vec4 0, 0, 2;
+    %store/vec4 v00000232afc7fe10_0, 0, 2;
+    %delay 1, 0;
+    %pushi/vec4 1, 0, 2;
+    %store/vec4 v00000232afc7fe10_0, 0, 2;
+    %delay 1, 0;
+    %pushi/vec4 2, 0, 2;
+    %store/vec4 v00000232afc7fe10_0, 0, 2;
+    %delay 1, 0;
+    %pushi/vec4 3, 0, 2;
+    %store/vec4 v00000232afc7fe10_0, 0, 2;
+    %delay 1, 0;
+    %end;
+    .thread T_0;
+    .scope S_00000232afc29270;
+T_1 ;
+    %vpi_call 2 17 "$monitor", "%t| I=%2b --> D3=%b D2=%b D1=%b D0=%b", $time, v00000232afc7fe10_0, &PV<v00000232afc24b60_0, 3, 1>, &PV<v00000232afc24b60_0, 2, 1>, &PV<v00000232afc24b60_0, 1, 1>, &PV<v00000232afc24b60_0, 0, 1> {0 0 0};
+    %end;
+    .thread T_1;
+# The file index is used to find the file name in the following table.
+:file_names 4;
+    "N/A";
+    "<interactive>";
+    "Question5_tb.vl";
+    "./Question5.vl";

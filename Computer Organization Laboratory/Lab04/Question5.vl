@@ -1,0 +1,6 @@
+module Question5(output [3:0] D, input [1:0] I);
+    assign D[0] = ~I[1] & ~I[0];
+    assign D[1] = ~I[1] & I[0];
+    assign D[2] = I[1] & ~I[0];
+    assign D[3] = I[1] & I[0];
+endmodule
