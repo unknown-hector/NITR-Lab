@@ -1,0 +1,6 @@
+module Question3(output F, input A,B,C,D);
+    wire wA,wB,wC,wD,w1,w2,w3;
+    not (wA,A),(wB,B),(wC,C),(wD,D);
+    and (w1,wB,wD),(w2,wB,wC),(w3,wA,wC,D);
+    or (F,w1,w2,w3);
+endmodule

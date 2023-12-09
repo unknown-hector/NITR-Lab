@@ -1,0 +1,5 @@
+module Question4_C(output Y, input A,B);
+    wire wA;
+    not(wA,A);
+    xor(Y,wA,B);
+endmodule

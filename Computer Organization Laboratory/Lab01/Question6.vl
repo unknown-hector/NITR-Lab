@@ -1,0 +1,5 @@
+module Question6(output f, input f1,f2,f3);
+    wire w;
+    and(w,f1,f2);
+    or(f,w,f3);
+endmodule

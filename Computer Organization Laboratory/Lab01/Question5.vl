@@ -1,0 +1,6 @@
+module Question5(output f, input P,Q,R);
+    wire wPQ,wQR,wPR,w1,w2;
+    nor (wPQ,P,Q),(wQR,Q,R),(wPR,P,R);
+    nor (w1,wPQ,wQR),(w2,wPR,wQR);
+    nor (f,w1,w2);
+endmodule

@@ -1,0 +1,3 @@
+module Question4_A(output Y, input A,B);
+    xnor(Y,A,B);
+endmodule

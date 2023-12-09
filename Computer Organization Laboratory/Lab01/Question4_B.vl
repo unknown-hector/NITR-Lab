@@ -1,0 +1,5 @@
+module Question4_B(output Y, input A,B);
+    wire wA,wB;
+    not (wA,A),(wB,B);
+    xnor(Y,wA,wB);
+endmodule

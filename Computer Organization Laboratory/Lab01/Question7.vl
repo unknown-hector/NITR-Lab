@@ -1,0 +1,6 @@
+module Question7(output f, input X,Y,Z);
+    wire wY,w1,w2;
+    not(wY,Y);
+    nand (w1,X,wY),(w2,Y,Z);
+    nand(f,w1,w2);
+endmodule

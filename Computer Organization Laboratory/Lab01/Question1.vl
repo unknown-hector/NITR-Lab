@@ -1,0 +1,6 @@
+module Question1(output C, input x,y,z,p);
+    wire w1,w2;
+    xor(w1,x,y);
+    xor(w2,z,p);
+    xor(C,w1,w2);
+endmodule

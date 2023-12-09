@@ -1,0 +1,6 @@
+module Question2(output Q, input A,B,C);
+    wire w1,w2;
+    nand(w1,A,B);
+    nor(w2,A,B);
+    and(Q,w1,w2,C);
+endmodule

@@ -1,0 +1,19 @@
+`include "Question7.vl"
+
+module Question7_tb;
+reg X,Y,Z;
+wire f;
+integer i;
+
+Question7 Instance(.f(f), .X(X),.Y(Y),.Z(Z));
+
+initial
+begin
+    for(i=0; i<8; i=i+1) begin
+        $monitor("%t| X=%b Y=%b Z=%b | f=%b", $time,X,Y,Z,f);
+        {X,Y,Z} = i;
+        #1;
+    end    
+end
+
+endmodule

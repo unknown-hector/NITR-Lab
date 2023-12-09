@@ -1,0 +1,59 @@
+#! /c/Source/iverilog-install/bin/vvp
+:ivl_version "12.0 (devel)" "(s20150603-1110-g18392a46)";
+:ivl_delay_selection "TYPICAL";
+:vpi_time_precision + 0;
+:vpi_module "D:\Iverlog\iverilog\lib\ivl\system.vpi";
+:vpi_module "D:\Iverlog\iverilog\lib\ivl\vhdl_sys.vpi";
+:vpi_module "D:\Iverlog\iverilog\lib\ivl\vhdl_textio.vpi";
+:vpi_module "D:\Iverlog\iverilog\lib\ivl\v2005_math.vpi";
+:vpi_module "D:\Iverlog\iverilog\lib\ivl\va_math.vpi";
+S_000001dee6645640 .scope module, "Question6_tb" "Question6_tb" 2 3;
+ .timescale 0 0;
+v000001dee6645a00_0 .net "f", 0 0, L_000001dee6612c00;  1 drivers
+v000001dee6642890_0 .var "f1", 0 0;
+v000001dee6642930_0 .var "f2", 0 0;
+v000001dee66429d0_0 .var "f3", 0 0;
+v000001dee6642a70_0 .var/i "i", 31 0;
+S_000001dee66457d0 .scope module, "Instance" "Question6" 2 8, 3 1 0, S_000001dee6645640;
+ .timescale 0 0;
+    .port_info 0 /OUTPUT 1 "f";
+    .port_info 1 /INPUT 1 "f1";
+    .port_info 2 /INPUT 1 "f2";
+    .port_info 3 /INPUT 1 "f3";
+L_000001dee6645aa0 .functor AND 1, v000001dee6642890_0, v000001dee6642930_0, C4<1>, C4<1>;
+L_000001dee6612c00 .functor OR 1, L_000001dee6645aa0, v000001dee66429d0_0, C4<0>, C4<0>;
+v000001dee6612e30_0 .net "f", 0 0, L_000001dee6612c00;  alias, 1 drivers
+v000001dee65f86e0_0 .net "f1", 0 0, v000001dee6642890_0;  1 drivers
+v000001dee65fbb90_0 .net "f2", 0 0, v000001dee6642930_0;  1 drivers
+v000001dee6612b60_0 .net "f3", 0 0, v000001dee66429d0_0;  1 drivers
+v000001dee6645960_0 .net "w", 0 0, L_000001dee6645aa0;  1 drivers
+    .scope S_000001dee6645640;
+T_0 ;
+    %pushi/vec4 0, 0, 32;
+    %store/vec4 v000001dee6642a70_0, 0, 32;
+T_0.0 ;
+    %load/vec4 v000001dee6642a70_0;
+    %cmpi/s 8, 0, 32;
+    %jmp/0xz T_0.1, 5;
+    %vpi_call 2 13 "$monitor", "%t| f1=%b f2=%b f3=%b | f=%b", $time, v000001dee6642890_0, v000001dee6642930_0, v000001dee66429d0_0, v000001dee6645a00_0 {0 0 0};
+    %load/vec4 v000001dee6642a70_0;
+    %pad/s 3;
+    %split/vec4 1;
+    %store/vec4 v000001dee66429d0_0, 0, 1;
+    %split/vec4 1;
+    %store/vec4 v000001dee6642930_0, 0, 1;
+    %store/vec4 v000001dee6642890_0, 0, 1;
+    %delay 1, 0;
+    %load/vec4 v000001dee6642a70_0;
+    %addi 1, 0, 32;
+    %store/vec4 v000001dee6642a70_0, 0, 32;
+    %jmp T_0.0;
+T_0.1 ;
+    %end;
+    .thread T_0;
+# The file index is used to find the file name in the following table.
+:file_names 4;
+    "N/A";
+    "<interactive>";
+    "Question6_tb.vl";
+    "./Question6.vl";

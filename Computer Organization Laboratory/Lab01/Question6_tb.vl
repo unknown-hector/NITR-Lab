@@ -1,0 +1,19 @@
+`include "Question6.vl"
+
+module Question6_tb;
+reg f1,f2,f3;
+wire f;
+integer i;
+
+Question6 Instance(.f(f), .f1(f1),.f2(f2),.f3(f3));
+
+initial
+begin
+    for(i=0; i<8; i=i+1) begin
+        $monitor("%t| f1=%b f2=%b f3=%b | f=%b", $time,f1,f2,f3,f);
+        {f1,f2,f3} = i;
+        #1;
+    end
+end
+
+endmodule

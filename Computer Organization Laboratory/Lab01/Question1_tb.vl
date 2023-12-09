@@ -1,0 +1,18 @@
+`include "Question1.vl"
+
+module Question1_tb;
+reg x,y,z,p;
+wire C;
+integer i;
+
+Question1 Instance(.C(C), .x(x),.y(y),.z(z),.p(p));
+
+initial
+begin
+    for(i=0; i<16; i=i+1) begin
+        $monitor("%t| x=%b y=%b z=%b p=%b| C=%b", $time,x,y,z,p,C);
+        {x,y,z,p} = i;
+        #1;
+    end
+end
+endmodule

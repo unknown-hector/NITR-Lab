@@ -1,0 +1,19 @@
+`include "Question8.vl"
+
+module Question8_tb;
+reg A,B,C;
+wire Y;
+integer i;
+
+Question8 Instance(.Y(Y), .A(A),.B(B),.C(C));
+
+initial
+begin
+    for(i=0; i<8; i=i+1) begin
+        $monitor("%t| A=%b B=%b C=%b | Y=%b", $time,A,B,C,Y);
+        {A,B,C} = i;
+        #1;
+    end
+end
+
+endmodule

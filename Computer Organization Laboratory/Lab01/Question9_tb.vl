@@ -1,0 +1,19 @@
+`include "Question9.vl"
+
+module Question9_tb;
+    reg A, B;
+    wire S, C;
+    integer i;
+
+    Question9 Instance(.S(S),.C(C), .A(A),.B(B));
+
+    initial
+    begin
+        for(i=0; i<4; i=i+1) begin
+            $monitor("%t| A=%b B=%b | Sum=%b Carry=%b", $time,A,B,S,C);
+            {A,B} = i;
+            #1;
+        end
+    end
+    
+endmodule

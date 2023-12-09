@@ -1,0 +1,7 @@
+module Question4_D(output Y, input A,B);
+    wire wB,w1,w2;
+    not(wB,B);
+    nand(w1,A,wB);
+    or(w2,A,wB);
+    nand(Y,w1,w2);
+endmodule

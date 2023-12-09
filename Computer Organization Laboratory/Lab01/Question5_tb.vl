@@ -1,0 +1,19 @@
+`include "Question5.vl"
+
+module Question5_tb;
+reg P,Q,R;
+wire f;
+integer i;
+
+Question5 Instance(.f(f), .P(P),.Q(Q),.R(R));
+
+initial
+begin
+    for(i=0; i<8; i=i+1) begin
+        $monitor("%t| P=%b Q=%b R=%b | f=%b", $time,P,Q,R,f);
+        {P,Q,R} = i;
+        #1;
+    end
+end
+
+endmodule

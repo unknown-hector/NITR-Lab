@@ -1,0 +1,19 @@
+`include "Question10.vl"
+
+module Question10_tb;
+reg[1:0] i;
+wire[3:0] d;
+integer j;
+
+Question10 Instance(.d(d), .i(i));
+
+initial
+begin
+    for(j=0; j<4; j=j+1) begin
+        $monitor("%t| i=%2b | d=%4b", $time,i,d);
+        {i} = j;
+        #1;
+    end
+end
+
+endmodule
