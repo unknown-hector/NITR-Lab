@@ -1,1 +1,9 @@
+1. 	Write a C program to illustrate the use of fork () system call and check if 	variables in the parent process are shared with child processes or not.
+
+2.	 Write a Program to create a FULL process tree of depth ‘D’ and degree “N”.  	For each process (node) print the children PIDs and all its ancestors PIDs. 	The values of ‘D’ and ‘N’ are to read dynamically from the keyboard.
+
+3. 	Write a C program to create a process chain like P1 ->P2 -> ... -> Pn .
+Here -> defines the parent-child relationship.
+
+4. 	Write a Program to verify that, unlike the other variables of the parent 	process, a Pipe created by the parent is not copied to its children’s address 	space; rather it is shared.
 
