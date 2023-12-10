@@ -1,1 +1,16 @@
+Q1: Answer the following questionsfor captured file http.pcap (HTTP Protocol)
+   1.List3 different protocolsthat appear in theprotocol column in the unfiltered packet-listing window in step 7 above.
+   2. Howlongdid it takefrom when the HTTP GETmessagewas sent untilthe  HTTP  OK replywas  received?(Bydefault,  the  value  ofthe  Time column  in  the
+        packet-listingwindow  is  the amount  of time,  in  second,  sinceWireshark  tracing  began.  To  displaythe Timefield  in  time-of-dayformat,
+        select  the  Wireshark Viewpull down menu, then selectTime DisplayFormat, then select Time-of-day.)
+    3.Whatis theInternet address of iitd.ac.in?Whatis theInternet address ofyourcomputer?
+    4.  Printthe  two  HTTP  messages  (GETand  OK) referred  to in question  2  above.  To  do  so,  select Printfrom  the  Wireshark Filecommand  menu, and 
+       selectthe  “SelectedPacketOnly”and “Printasdisplayed”radial  buttons, and then click OK.
+    5.  Find  the  packet  number  that  includes  HTTP  GET  message  for  a file  IITD-IRD-122-2017.pdf.  Also  find  the length  of  the  file  in bytes and 
+        time when file is downloadedsuccessfully.
 
+
+
+Q2:  Open  the  http.pcap  file  given  in  study  material  in Wireshark.  Use File->Export Packet Dissections to save the data in csv file format.
+Write a C/C++/Java/Python code to read the data in csv file and print a.source IP addresses and destination IP addressesb.source port numbers and destination
+port numbersc.http request and response messages
