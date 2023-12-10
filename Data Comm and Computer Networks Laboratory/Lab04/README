@@ -1,1 +1,5 @@
+Q.1Read the instructions and run the simple client server program givenin help document (TCP_Socket1.doc).
 
+Q.2 Execute a client/server program for adding a two integer numbers requested by the client and evaluated at server and get back result at the client.
+You will be appreciated if you use command line arguments. (You can input ip address of the machine at the time of execution)
+(Hint: Use TCP_Socket2.doc file)
