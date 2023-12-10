@@ -1,1 +1,7 @@
+Q1) Producer consumer problem with a shared buffer of size 5. Main thread creates 3 producer threads and 3 consumer threads.
+Each producer thread produces 4 items into the shared buffer Each consumer thread consumes 4 items from the shared Buffer 
+After a producer/consumer thread produces/consumes one item ,it sleeps for 1s.
 
+
+Q2) Dining philosphers problem with 5 philosphers and 5 chopsticks An odd philosphers picks up her /his left chopstick first
+then the right chopstick An even philosopher picks up her/his right chopstick first then the left chopstick.
