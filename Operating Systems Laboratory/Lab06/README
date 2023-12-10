@@ -1,1 +1,4 @@
+1.	Write the description of all the exec() command.
+2. 	Write a program to program to execute a system call 	(ls, ls –l, ls –a) from main 	program using exec().
+3.	Write two programs, make two ELF (executable and 	linkable format). Execute 	one ELF from another ELF.
 
