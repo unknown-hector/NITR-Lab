@@ -1,1 +1,3 @@
-
+Q: Write a program to implement the IPC using PIPE in which one process sends 
+an array to another process and another process performs the sorting of the array
+and send back the sorted array to first process.
