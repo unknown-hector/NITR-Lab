@@ -1,1 +1,18 @@
+Q.Write a tcl script to create a wireless scenario with following constraints:
+o 12nodes (nod1 to nod12) 
+o Initial position of nodes should be such that all the nodes are placed on the line x-y=0 in the order: nod1, nod4, nod2, nod3,
+ nod5, nod6, nod7, nod8, nod9, nod10, nod11and nod12(all node are equidistant to each other).
+o AODV Routing protocol is used 802.11 macotwo-ray ground radio propagation modelopriority queue with queue length of 15oomni-directional antenna
+o topology of 800 X 800.other simulation stops at 100soTraffic generation: node nod1 acting as FTP traffic generator;
+•start at time 0.1s.
+•packetSize 1024bytes•fid 1
+•node nod12acting as receiver Node nod5 acting as CBR and FTP traffic generator:
+•start at time 0.5 for CBR and 0.75 for FTP
+•fid 2•node nod1 acting as receiver for FTP traffic and nod 12acting as receiver for CBRoTurn on agent and router tracing.
+o Turn mac tracing to off.
 
+
+Find the following usingAWK scripts:
+
+a.)Calculate the numberof packets sent for different flow.
+b.)How many packets are dropped? 
