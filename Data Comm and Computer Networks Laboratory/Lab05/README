@@ -1,1 +1,8 @@
+Q.1 Runthe program given in UDP_Socket document (Example6.1,6.2,6.3 and 6.4)
 
+Q.2 Execute  a  client/server  program using  UDP  service for  adding  a  two  integer  numbers requested by the client and evaluated 
+at server and get back result at the client.
+
+Q.3 Execute a client/server program for simple calculator having following operations addition, subtraction, multiplication, division, and detecting
+prime numbers. Input entered at the client side and evaluated at server  machine and get back result at the client machine.Try this question for both 
+TCP and UDP socket programming.
